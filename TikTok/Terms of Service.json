@@ -1,0 +1,19 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:10:00.123Z",
+    "serviceName": "TikTok",
+    "sourceDocuments": [
+      {
+        "id": "legal-terms-of-use",
+        "fetch": "https://www.tiktok.com/legal/terms-of-use?lang=en",
+        "select": [
+          "#policy-card"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "d5ec393afd792cf04b1978c1efd08d487dca85b5"
+      }
+    ]
+  }
+}
