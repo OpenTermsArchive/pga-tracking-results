@@ -1,0 +1,19 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:15:16.056Z",
+    "serviceName": "Truth Social",
+    "sourceDocuments": [
+      {
+        "id": "legal-terms-of-service",
+        "fetch": "https://help.truthsocial.com/legal/terms-of-service/",
+        "select": [
+          "h1",
+          "main"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "4d321d78266dae1c6189f06c28861c7a2a7d36ea"
+      }
+    ]
+  }
+}
