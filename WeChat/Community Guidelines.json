@@ -1,0 +1,16 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:18:19.255Z",
+    "serviceName": "WeChat",
+    "sourceDocuments": [
+      {
+        "id": "en-acceptable_use_policy",
+        "fetch": "https://www.wechat.com/en/acceptable_use_policy.html",
+        "select": "#agreement",
+        "mimeType": "text/html",
+        "snapshotId": "4c58197b04e7890338c6cf7f27bf3bf5f9ca250c"
+      }
+    ]
+  }
+}
