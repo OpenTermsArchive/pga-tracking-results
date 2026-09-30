@@ -1,0 +1,24 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T00:57:01.573Z",
+    "serviceName": "Reddit",
+    "sourceDocuments": [
+      {
+        "id": "policies-cookies",
+        "fetch": "https://www.reddit.com/policies/cookies",
+        "select": [
+          "main"
+        ],
+        "remove": [
+          "faceplate-menu",
+          "policy-page-sidebar",
+          "button"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "9eec9b679042cdd50b50862541ebb4d2f8f3d6da"
+      }
+    ]
+  }
+}
