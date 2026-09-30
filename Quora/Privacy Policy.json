@@ -1,0 +1,23 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T00:54:25.637Z",
+    "serviceName": "Quora",
+    "sourceDocuments": [
+      {
+        "id": "about-privacy",
+        "fetch": "https://www.quora.com/about/privacy",
+        "select": [
+          "#root"
+        ],
+        "remove": [
+          "img[class=\"q-image qu-display--block\"]",
+          ".q-flex"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "6045235747dace28e7d005f4a526eb2929e17d61"
+      }
+    ]
+  }
+}
