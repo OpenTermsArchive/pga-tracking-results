@@ -1,0 +1,19 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T00:53:59.587Z",
+    "serviceName": "Pinterest",
+    "sourceDocuments": [
+      {
+        "id": "en-gb-terms-of-service",
+        "fetch": "https://policy.pinterest.com/en-gb/terms-of-service",
+        "select": "main",
+        "remove": [
+          ".chakra-link"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "9d7772c1bf7d631cae3c0f687e20315b11ed2133"
+      }
+    ]
+  }
+}
