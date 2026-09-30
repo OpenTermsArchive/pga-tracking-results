@@ -1,0 +1,47 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T00:32:47.055Z",
+    "serviceName": "Facebook",
+    "sourceDocuments": [
+      {
+        "id": "policies-live",
+        "fetch": "https://www.facebook.com/policies/live",
+        "select": "div[role=main]",
+        "remove": [
+          "[role='button']",
+          "footer",
+          "[role='navigation']"
+        ],
+        "filter": [
+          "removeTrackingIDs"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "b223b6192e69c96ca27b43bb06655bfafbadb4e1"
+      },
+      {
+        "id": "business-help-859112078191288",
+        "fetch": "https://www.facebook.com/business/help/859112078191288?id=1123223941353904",
+        "select": [
+          "h1",
+          "#faq-page"
+        ],
+        "remove": [
+          "#left-sidenav",
+          "[role=radiogroup]",
+          "button",
+          "#GBMRelatedLinksSideRoot",
+          "img",
+          "[alt=share]"
+        ],
+        "filter": [
+          "removeTrackingIDs"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "56e190473362a259b71817d5cfc6791f326d94ae"
+      }
+    ]
+  }
+}
