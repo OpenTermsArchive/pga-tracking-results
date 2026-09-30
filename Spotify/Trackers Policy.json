@@ -1,0 +1,21 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:08:56.281Z",
+    "serviceName": "Spotify",
+    "sourceDocuments": [
+      {
+        "id": "us-legal-cookies-policy",
+        "fetch": "https://www.spotify.com/us/legal/cookies-policy/?_ga=2.256460875.1965153890.1707895974-688248205.1707895974",
+        "select": [
+          "main"
+        ],
+        "remove": [
+          "[class*=subnav-main]"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "49d58597f12ebf77ba69fd6d5206c3feeb39b74e"
+      }
+    ]
+  }
+}
