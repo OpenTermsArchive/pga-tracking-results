@@ -1,0 +1,19 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:18:06.745Z",
+    "serviceName": "Upscrolled",
+    "sourceDocuments": [
+      {
+        "id": "en-privacy-policy",
+        "fetch": "https://upscrolled.com/en/privacy-policy/",
+        "select": [
+          "main"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "7f3cdc8d085b1d510a818909e26be30714761606"
+      }
+    ]
+  }
+}
