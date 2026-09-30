@@ -1,0 +1,32 @@
+{
+  "status": "failed",
+  "event": {
+    "date": "2026-09-30T01:20:57.228Z",
+    "serviceName": "X",
+    "sourceDocuments": [
+      {
+        "id": "en-rules-and-policies-twitter-cookies",
+        "fetch": "https://help.x.com/en/rules-and-policies/twitter-cookies",
+        "select": [
+          ".aem-Grid"
+        ],
+        "remove": [
+          ".u11__breadcrumbs-mobile-modal",
+          ".twtr-type--roman-100r",
+          ".twtr-type--headline-md",
+          ".b24__wrapper",
+          ".b17"
+        ],
+        "filter": [
+          "useXHelpCenterBaseURL"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "1bda41cc500137fe01eeae6d1605177c89828fec"
+      }
+    ],
+    "reasons": [
+      "[extraction] Extract failed: The provided selector \"[\".aem-Grid\"]\" has no match in the web page at 'https://help.x.com/en/rules-and-policies/twitter-cookies'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content."
+    ]
+  }
+}
