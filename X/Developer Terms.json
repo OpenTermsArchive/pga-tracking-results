@@ -1,0 +1,114 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:20:14.684Z",
+    "serviceName": "X",
+    "sourceDocuments": [
+      {
+        "id": "developer-terms-agreement",
+        "fetch": "https://docs.x.com/developer-terms/agreement",
+        "select": [
+          "[id='content-area']"
+        ],
+        "remove": [
+          "svg",
+          "[id='page-context-menu-button']",
+          "img"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "7bf516d5c294bd5566a2f2643477866d9fd02f29"
+      },
+      {
+        "id": "developer-terms-policy",
+        "fetch": "https://docs.x.com/developer-terms/policy",
+        "select": [
+          "[id='content-area']"
+        ],
+        "remove": [
+          "svg",
+          "[id='page-context-menu-button']",
+          "img"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "12903ce14a06e3773221dfd87c4cec8852376e7a"
+      },
+      {
+        "id": "developer-terms-ads-api-agreement",
+        "fetch": "https://docs.x.com/developer-terms/ads-api-agreement",
+        "select": [
+          "[id='content-area']"
+        ],
+        "remove": [
+          "svg",
+          "[id='page-context-menu-button']",
+          "img"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "2d3db6c12603592bf3bb9b46cb42634345675edb"
+      },
+      {
+        "id": "developer-terms-ppu-agreement",
+        "fetch": "https://docs.x.com/developer-terms/ppu-agreement",
+        "select": [
+          "[id='content-area']"
+        ],
+        "remove": [
+          "svg",
+          "[id='page-context-menu-button']",
+          "img"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "f535cef43c565faf1561571eac4e7c0c741326d5"
+      },
+      {
+        "id": "developer-terms-restricted-use-cases",
+        "fetch": "https://docs.x.com/developer-terms/restricted-use-cases",
+        "select": [
+          "[id='content-area']"
+        ],
+        "remove": [
+          "svg",
+          "[id='page-context-menu-button']",
+          "img"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "78727802e0227e4d11da35051b036113adb84f8d"
+      },
+      {
+        "id": "developer-terms-geo-guidelines",
+        "fetch": "https://docs.x.com/developer-terms/geo-guidelines",
+        "select": [
+          "[id='content-area']"
+        ],
+        "remove": [
+          "svg",
+          "[id='page-context-menu-button']",
+          "img"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "6aeca1bb6ed5618f2ee7a99a91711b9f8a2573d8"
+      },
+      {
+        "id": "developer-terms-display-requirements",
+        "fetch": "https://docs.x.com/developer-terms/display-requirements",
+        "select": [
+          "[id='content-area']"
+        ],
+        "remove": [
+          "svg",
+          "[id='page-context-menu-button']",
+          "img"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "75515d66be009bd48c64c1772d4f99e2540181a1"
+      }
+    ]
+  }
+}
