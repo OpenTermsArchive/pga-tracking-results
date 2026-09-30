@@ -1,0 +1,26 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T00:32:49.422Z",
+    "serviceName": "Facebook",
+    "sourceDocuments": [
+      {
+        "id": "actions-safety-audiences-law-guidelines",
+        "fetch": "https://about.meta.com/actions/safety/audiences/law/guidelines",
+        "select": [
+          "[id=safetyCenterContentContainer]"
+        ],
+        "remove": [
+          ".heroImage",
+          "[class~=_aiba]",
+          "img"
+        ],
+        "filter": [
+          "cleanUrls"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "081dda77eb88cddab17c3a5363635392f8712b20"
+      }
+    ]
+  }
+}
