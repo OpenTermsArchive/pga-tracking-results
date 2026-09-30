@@ -1,0 +1,32 @@
+{
+  "status": "failed",
+  "event": {
+    "date": "2026-09-30T01:21:11.959Z",
+    "serviceName": "X",
+    "sourceDocuments": [
+      {
+        "id": "en-rules-and-policies-data-processing-legal-bases",
+        "fetch": "https://help.x.com/en/rules-and-policies/data-processing-legal-bases",
+        "select": [
+          ".aem-Grid"
+        ],
+        "remove": [
+          ".u11__breadcrumbs-mobile-modal",
+          ".twtr-type--roman-100r",
+          ".twtr-type--headline-md",
+          ".b24__wrapper",
+          ".b17"
+        ],
+        "filter": [
+          "useXHelpCenterBaseURL"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "1ac2c29460df8174e43355d230a7bed1c4ea7b07"
+      }
+    ],
+    "reasons": [
+      "[extraction] Extract failed: The provided selector \"[\".aem-Grid\"]\" has no match in the web page at 'https://help.x.com/en/rules-and-policies/data-processing-legal-bases'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content."
+    ]
+  }
+}
