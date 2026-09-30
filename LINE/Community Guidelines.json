@@ -1,0 +1,21 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T00:53:04.664Z",
+    "serviceName": "LINE",
+    "sourceDocuments": [
+      {
+        "id": "en-safety-contributionStandard",
+        "fetch": "https://linecorp.com/en/safety/contributionStandard",
+        "select": [
+          "[class*=LyDetailContents]"
+        ],
+        "remove": [
+          "[class*=FnReadMoreBtn]"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "26b22b575cbb2518d26e0dd3b382b0398099e363"
+      }
+    ]
+  }
+}
