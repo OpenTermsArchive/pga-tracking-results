@@ -1,0 +1,176 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:00:04.712Z",
+    "serviceName": "Reddit",
+    "sourceDocuments": [
+      {
+        "id": "policies-content-policy",
+        "fetch": "https://www.redditinc.com/policies/content-policy",
+        "select": [
+          "#content"
+        ],
+        "remove": [
+          ".filter-holder"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "3207e1da510c9d200cd70fee89bd07a24f579753"
+      },
+      {
+        "id": "hc-en-us-articles-360043071072",
+        "fetch": "https://www.reddithelp.com/hc/en-us/articles/360043071072",
+        "select": "#main-content",
+        "remove": [
+          ".filter-holder",
+          ".sidenav-container",
+          ".btn",
+          "[data-prevnext]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "5afd50e10c7eb05e0f54dca11a99a02430d4e4ec"
+      },
+      {
+        "id": "hc-en-us-articles-360043513151",
+        "fetch": "https://www.reddithelp.com/hc/en-us/articles/360043513151",
+        "select": "#main-content",
+        "remove": [
+          ".filter-holder",
+          ".sidenav-container",
+          ".btn",
+          "[data-prevnext]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "12595b7430b57ccdbcaa8c766471e73d4661e393"
+      },
+      {
+        "id": "hc-en-us-articles-360045715951",
+        "fetch": "https://www.reddithelp.com/hc/en-us/articles/360045715951",
+        "select": "#main-content",
+        "remove": [
+          ".filter-holder",
+          ".sidenav-container",
+          ".btn",
+          "[data-prevnext]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "7f55284e4d8f818bc907a1fc689e75db78fdb0a8"
+      },
+      {
+        "id": "hc-en-us-articles-360043504051",
+        "fetch": "https://www.reddithelp.com/hc/en-us/articles/360043504051",
+        "select": "#main-content",
+        "remove": [
+          ".filter-holder",
+          ".sidenav-container",
+          ".btn",
+          "[data-prevnext]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "e356e6ad5f5ccc442596c0c67ca36faf6302e848"
+      },
+      {
+        "id": "hc-en-us-articles-360043066412",
+        "fetch": "https://www.reddithelp.com/hc/en-us/articles/360043066412",
+        "select": "#main-content",
+        "remove": [
+          ".filter-holder",
+          ".sidenav-container",
+          ".btn",
+          "[data-prevnext]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "3b73cd699250237256e61d7edd4b22d29d29f409"
+      },
+      {
+        "id": "hc-en-us-articles-360043066452",
+        "fetch": "https://www.reddithelp.com/hc/en-us/articles/360043066452",
+        "select": "#main-content",
+        "remove": [
+          ".filter-holder",
+          ".sidenav-container",
+          ".btn",
+          "[data-prevnext]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "03043976045fc4e17fcd6386692fe03dcb0e13b2"
+      },
+      {
+        "id": "hc-en-us-articles-360043513411",
+        "fetch": "https://www.reddithelp.com/hc/en-us/articles/360043513411",
+        "select": "#main-content",
+        "remove": [
+          ".filter-holder",
+          ".sidenav-container",
+          ".btn",
+          "[data-prevnext]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "4ddf4d7802573c240583754df47b020b3693fd52"
+      },
+      {
+        "id": "hc-en-us-articles-360043075352",
+        "fetch": "https://www.reddithelp.com/hc/en-us/articles/360043075352",
+        "select": "#main-content",
+        "remove": [
+          ".filter-holder",
+          ".sidenav-container",
+          ".btn",
+          "[data-prevnext]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "6bcd06188cee8a348e4bff56d6fc45cbc76af53d"
+      },
+      {
+        "id": "hc-en-us-articles-360043075032",
+        "fetch": "https://www.reddithelp.com/hc/en-us/articles/360043075032",
+        "select": "#main-content",
+        "remove": [
+          ".filter-holder",
+          ".sidenav-container",
+          ".btn",
+          "[data-prevnext]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "d4b0e9fe1ae35f8709c91580971460e508ed5c41"
+      },
+      {
+        "id": "hc-en-us-articles-360043513471",
+        "fetch": "https://www.reddithelp.com/hc/en-us/articles/360043513471",
+        "select": "#main-content",
+        "remove": [
+          ".filter-holder",
+          ".sidenav-container",
+          ".btn",
+          "[data-prevnext]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "820804f3b863aa3b84260abf889711705ef7bbdf"
+      },
+      {
+        "id": "hc-en-us-articles-360043512931",
+        "fetch": "https://www.reddithelp.com/hc/en-us/articles/360043512931",
+        "select": "#main-content",
+        "remove": [
+          ".filter-holder",
+          ".sidenav-container",
+          ".btn",
+          "[data-prevnext]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "460b51ba9d6d31db3e1c864d7a706a57dbbad2b3"
+      }
+    ]
+  }
+}
