@@ -1,0 +1,280 @@
+{
+  "status": "failed",
+  "event": {
+    "date": "2026-09-30T01:32:34.850Z",
+    "serviceName": "X",
+    "sourceDocuments": [
+      {
+        "id": "en-help-ads-policies",
+        "fetch": "https://business.x.com/en/help/ads-policies",
+        "select": [
+          "main"
+        ],
+        "remove": [
+          ".u11__container",
+          ".b03__button",
+          "#u12",
+          "svg",
+          "button"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "2264000b69fd69f9d54c37a48f6bac8ea3df8900"
+      },
+      {
+        "id": "en-help-ads-policies-prohibited-content-policies-quality-policy",
+        "fetch": "https://business.x.com/en/help/ads-policies/prohibited-content-policies/quality-policy.html",
+        "select": [
+          {
+            "startBefore": "h2",
+            "endBefore": ".b25-csat"
+          }
+        ],
+        "remove": [
+          ".u11__container",
+          ".b03__button",
+          "#u12",
+          "svg",
+          "button"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "d308c14170b38dcdc8975578857bf99ca69d2159"
+      },
+      {
+        "id": "en-help-ads-policies-ads-content-policies-prohibited-content-for-minors",
+        "fetch": "https://business.x.com/en/help/ads-policies/ads-content-policies/prohibited-content-for-minors",
+        "select": [
+          {
+            "startBefore": "h2",
+            "endBefore": ".b25-csat"
+          }
+        ],
+        "remove": [
+          ".u11__container",
+          ".b03__button",
+          "#u12",
+          "svg",
+          "button"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "9b4d160207d277a5c9d03cc389ab582cd6133ffc"
+      },
+      {
+        "id": "en-help-ads-policies-ads-content-policies-unacceptable-content",
+        "fetch": "https://business.x.com/en/help/ads-policies/ads-content-policies/unacceptable-content",
+        "select": [
+          {
+            "startBefore": "h2",
+            "endBefore": ".b25-csat"
+          }
+        ],
+        "remove": [
+          ".u11__container",
+          ".b03__button",
+          "#u12",
+          "svg",
+          "button"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "b2f180450951e7ac39be92094a06be3a5d29da3f"
+      },
+      {
+        "id": "en-help-ads-policies-ads-content-policies-weapons-and-weapon-accessories",
+        "fetch": "https://business.x.com/en/help/ads-policies/ads-content-policies/weapons-and-weapon-accessories",
+        "select": [
+          {
+            "startBefore": "h2",
+            "endBefore": ".b25-csat"
+          }
+        ],
+        "remove": [
+          ".u11__container",
+          ".b03__button",
+          "#u12",
+          "svg",
+          "button"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "b732678f86b4b753cdb436c3e8b344645534e6cb"
+      },
+      {
+        "id": "en-help-ads-policies-ads-content-policies-adult-or-sexual-products-and-services",
+        "fetch": "https://business.x.com/en/help/ads-policies/ads-content-policies/adult-or-sexual-products-and-services",
+        "select": [
+          {
+            "startBefore": "h2",
+            "endBefore": ".b25-csat"
+          }
+        ],
+        "remove": [
+          ".u11__container",
+          ".b03__button",
+          "#u12",
+          "svg",
+          "button"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "c92d62cb57f6ed2e9f1441f2cf3541551fb14626"
+      },
+      {
+        "id": "en-help-ads-policies-ads-content-policies-alcohol-content",
+        "fetch": "https://business.x.com/en/help/ads-policies/ads-content-policies/alcohol-content",
+        "select": [
+          {
+            "startBefore": "h2",
+            "endBefore": ".b25-csat"
+          }
+        ],
+        "remove": [
+          ".u11__container",
+          ".b03__button",
+          "#u12",
+          "svg",
+          "button"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "2b5bbcd272773219bc73c26a70b5a3bd3c3c02cb"
+      },
+      {
+        "id": "en-help-ads-policies-ads-content-policies-drugs-and-drug-paraphernalia",
+        "fetch": "https://business.x.com/en/help/ads-policies/ads-content-policies/drugs-and-drug-paraphernalia",
+        "select": [
+          {
+            "startBefore": "h2",
+            "endBefore": ".b25-csat"
+          }
+        ],
+        "remove": [
+          ".u11__container",
+          ".b03__button",
+          "#u12",
+          "svg",
+          "button"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "13a1c1075df28dcfe67f92c478c30378cbfa96c1"
+      },
+      {
+        "id": "en-help-ads-policies-ads-content-policies-financial-services",
+        "fetch": "https://business.x.com/en/help/ads-policies/ads-content-policies/financial-services",
+        "select": [
+          {
+            "startBefore": "h2",
+            "endBefore": ".b25-csat"
+          }
+        ],
+        "remove": [
+          ".u11__container",
+          ".b03__button",
+          "#u12",
+          "svg",
+          "button"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "688a2ec2843055519b5d1e6ac74c5fd9ae0243a1"
+      },
+      {
+        "id": "en-help-ads-policies-ads-content-policies-gambling-content",
+        "fetch": "https://business.x.com/en/help/ads-policies/ads-content-policies/gambling-content",
+        "select": [
+          {
+            "startBefore": "h2",
+            "endBefore": ".b25-csat"
+          }
+        ],
+        "remove": [
+          ".u11__container",
+          ".b03__button",
+          "#u12",
+          "svg",
+          "button"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "7ca0d10fc684d7ce36ed19c073762942d06434be"
+      },
+      {
+        "id": "en-help-ads-policies-ads-content-policies-healthcare",
+        "fetch": "https://business.x.com/en/help/ads-policies/ads-content-policies/healthcare",
+        "select": [
+          {
+            "startBefore": "h2",
+            "endBefore": ".b25-csat"
+          }
+        ],
+        "remove": [
+          ".u11__container",
+          ".b03__button",
+          "#u12",
+          "svg",
+          "button"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "97f93d684f20b0cdb820eee796815bcdcdbf4d4f"
+      },
+      {
+        "id": "en-help-ads-policies-ads-content-policies-political-content",
+        "fetch": "https://business.x.com/en/help/ads-policies/ads-content-policies/political-content",
+        "select": [
+          {
+            "startBefore": "h2",
+            "endBefore": ".b25-csat"
+          }
+        ],
+        "remove": [
+          ".u11__container",
+          ".b03__button",
+          "#u12",
+          "svg",
+          "button"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "5b12bb4c2d096a8a16bd7eeeb31c45843a7112b3"
+      },
+      {
+        "id": "en-help-ads-policies-ads-content-policies-tobacco-and-tobacco-accessories",
+        "fetch": "https://business.x.com/en/help/ads-policies/ads-content-policies/tobacco-and-tobacco-accessories",
+        "select": [
+          {
+            "startBefore": "h2",
+            "endBefore": ".b25-csat"
+          }
+        ],
+        "remove": [
+          ".u11__container",
+          ".b03__button",
+          "#u12",
+          "svg",
+          "button"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "4da1a5a51cdbfd3205d6ffbf2f50f0f06c9b7efe"
+      }
+    ],
+    "reasons": [
+      "[extraction] Extract failed: The \"end\" selector has no match in document in: {\"startBefore\":\"h2\",\"endBefore\":\".b25-csat\"}",
+      "[extraction] Extract failed: The \"end\" selector has no match in document in: {\"startBefore\":\"h2\",\"endBefore\":\".b25-csat\"}",
+      "[extraction] Extract failed: The \"end\" selector has no match in document in: {\"startBefore\":\"h2\",\"endBefore\":\".b25-csat\"}",
+      "[extraction] Extract failed: The \"end\" selector has no match in document in: {\"startBefore\":\"h2\",\"endBefore\":\".b25-csat\"}",
+      "[extraction] Extract failed: The \"end\" selector has no match in document in: {\"startBefore\":\"h2\",\"endBefore\":\".b25-csat\"}",
+      "[extraction] Extract failed: The \"end\" selector has no match in document in: {\"startBefore\":\"h2\",\"endBefore\":\".b25-csat\"}",
+      "[extraction] Extract failed: The \"end\" selector has no match in document in: {\"startBefore\":\"h2\",\"endBefore\":\".b25-csat\"}",
+      "[extraction] Extract failed: The \"end\" selector has no match in document in: {\"startBefore\":\"h2\",\"endBefore\":\".b25-csat\"}",
+      "[extraction] Extract failed: The \"end\" selector has no match in document in: {\"startBefore\":\"h2\",\"endBefore\":\".b25-csat\"}",
+      "[extraction] Extract failed: The \"end\" selector has no match in document in: {\"startBefore\":\"h2\",\"endBefore\":\".b25-csat\"}",
+      "[extraction] Extract failed: The \"end\" selector has no match in document in: {\"startBefore\":\"h2\",\"endBefore\":\".b25-csat\"}",
+      "[extraction] Extract failed: The \"end\" selector has no match in document in: {\"startBefore\":\"h2\",\"endBefore\":\".b25-csat\"}"
+    ]
+  }
+}
