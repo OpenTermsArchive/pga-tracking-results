@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "event": {
-    "date": "2026-09-30T01:34:02.712Z",
+    "date": "2026-09-30T12:48:21.868Z",
     "serviceName": "Instagram",
     "sourceDocuments": [
       {
@@ -24,7 +24,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "dd130b685834dfa97e30f1a2ab2cd3ec7826ac49"
+        "snapshotId": "b3ee4cd6f69e1bc2855262281efcd03628c196bb"
       },
       {
         "id": "548994106880972",
@@ -38,13 +38,8 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "3e9d9fc36ccbb5db94045592f1b9c81633a8e251"
+        "snapshotId": "8fb37c7060a0d6916477688e05ce014cb33934c9"
       }
-    ],
-    "transientError": {
-      "reasons": [
-        "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://help.instagram.com/494561080557017'"
-      ]
-    }
+    ]
   }
 }
