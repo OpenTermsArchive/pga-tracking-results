@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T00:31:14.691Z",
+    "serviceName": "Facebook",
+    "sourceDocuments": [
+      {
+        "id": "policies-cookies",
+        "fetch": "https://www.facebook.com/policies/cookies",
+        "select": ".xg6iff7",
+        "remove": "[href*='static.xx.fbcdn.net']",
+        "filter": [
+          "removeReturnToTopButtons",
+          "cleanUrls"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "d97cd4c2bcb9d1ffd9bfb3ced9150c1cba35b152"
+      }
+    ]
+  }
+}
