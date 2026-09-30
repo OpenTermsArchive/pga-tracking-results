@@ -1,0 +1,23 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:17:59.237Z",
+    "serviceName": "Twitch",
+    "sourceDocuments": [
+      {
+        "id": "s-article-digital-services-act-ads",
+        "fetch": "https://help.twitch.tv/s/article/digital-services-act-ads?language=en_US",
+        "select": [
+          "#article"
+        ],
+        "remove": [
+          ".top",
+          "img"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "07fb6ee5322af39e41f1fcce80c9780a3acc607c"
+      }
+    ]
+  }
+}
