@@ -1,0 +1,19 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:07:54.086Z",
+    "serviceName": "Snapchat",
+    "sourceDocuments": [
+      {
+        "id": "en-GB-community-guidelines",
+        "fetch": "https://www.snap.com/en-GB/community-guidelines",
+        "select": [
+          "[data-testid=\"page\"]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "5f7a55df99eda2acf132da1365ab963031984751"
+      }
+    ]
+  }
+}
