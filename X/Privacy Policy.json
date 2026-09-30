@@ -1,0 +1,34 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:18:28.190Z",
+    "serviceName": "X",
+    "sourceDocuments": [
+      {
+        "id": "en-privacy",
+        "fetch": "https://x.com/en/privacy",
+        "select": "main[id=twtr-main]",
+        "remove": [
+          ".twtr-icon--base",
+          ".p05-chapter-navigation",
+          "[style='display: none;']",
+          ".twtr-overlay__icon",
+          ".p21-hidden-content",
+          ".ct01__background",
+          ".ct17__background",
+          ".b04__image",
+          ".twtr-hidden--lg"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "21f3b8a6194e3e589b3b21dd778aebecae84fb27"
+      },
+      {
+        "id": "en",
+        "fetch": "https://gdpr.x.com/en.html",
+        "select": "main",
+        "mimeType": "text/html",
+        "snapshotId": "23a8e306ad51a004011b0e1c611c05ef0691cbd6"
+      }
+    ]
+  }
+}
