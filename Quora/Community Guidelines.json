@@ -1,0 +1,189 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T00:56:41.631Z",
+    "serviceName": "Quora",
+    "sourceDocuments": [
+      {
+        "id": "hc-en-us-articles-360000470706-Platform-Policies",
+        "fetch": "https://help.quora.com/hc/en-us/articles/360000470706-Platform-Policies",
+        "select": [
+          ".article-header",
+          ".article-body"
+        ],
+        "remove": [
+          ".user-avatar",
+          ".meta-data:nth-child(2)"
+        ],
+        "filter": [
+          "replaceTimeAgoByDate"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "4120f7dfd73bcfd63bfebeffa286d3b10b491e61"
+      },
+      {
+        "id": "hc-en-us-articles-360043961972",
+        "fetch": "https://help.quora.com/hc/en-us/articles/360043961972",
+        "select": [
+          ".article-header",
+          ".article-body"
+        ],
+        "remove": [
+          ".user-avatar",
+          ".meta-data:nth-child(2)"
+        ],
+        "filter": [
+          "replaceTimeAgoByDate"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "65c992648d3b1b865d2145ea7e0a518feed093f5"
+      },
+      {
+        "id": "hc-en-us-articles-9456583756180-Questions-and-Answers-Policies",
+        "fetch": "https://help.quora.com/hc/en-us/articles/9456583756180-Questions-and-Answers-Policies",
+        "select": [
+          ".article-header",
+          ".article-body"
+        ],
+        "remove": [
+          ".user-avatar",
+          ".meta-data:nth-child(2)"
+        ],
+        "filter": [
+          "replaceTimeAgoByDate"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "0cfdc3a0d1ccc4477ef742c38ed3e34ade63b0d9"
+      },
+      {
+        "id": "hc-en-us-articles-360000470306-What-is-Quora-s-policy-on-adding-images-and-videos",
+        "fetch": "https://help.quora.com/hc/en-us/articles/360000470306-What-is-Quora-s-policy-on-adding-images-and-videos",
+        "select": [
+          ".article-header",
+          ".article-body"
+        ],
+        "remove": [
+          ".user-avatar",
+          ".meta-data:nth-child(2)"
+        ],
+        "filter": [
+          "replaceTimeAgoByDate"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "fd7a9b22c5407ddb43045b3e6855ae78c2becd4a"
+      },
+      {
+        "id": "hc-en-us-articles-360057638052-What-is-Quora-s-policy-on-credentials",
+        "fetch": "https://help.quora.com/hc/en-us/articles/360057638052-What-is-Quora-s-policy-on-credentials",
+        "select": [
+          ".article-header",
+          ".article-body"
+        ],
+        "remove": [
+          ".user-avatar",
+          ".meta-data:nth-child(2)"
+        ],
+        "filter": [
+          "replaceTimeAgoByDate"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "479797fab15078880ed62f9f9997133d8a2a7df4"
+      },
+      {
+        "id": "hc-en-us-articles-360015467632-What-is-Quora-s-policy-for-posting-reviews-of-businesses-products-or-services",
+        "fetch": "https://help.quora.com/hc/en-us/articles/360015467632-What-is-Quora-s-policy-for-posting-reviews-of-businesses-products-or-services",
+        "select": [
+          ".article-header",
+          ".article-body"
+        ],
+        "remove": [
+          ".user-avatar",
+          ".meta-data:nth-child(2)"
+        ],
+        "filter": [
+          "replaceTimeAgoByDate"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "20679eb2d59d2f9159b1805d423d2af1cc210c0c"
+      },
+      {
+        "id": "hc-en-us-articles-360055133711-What-is-Quora-s-policy-on-disclosing-affiliations-in-answers",
+        "fetch": "https://help.quora.com/hc/en-us/articles/360055133711-What-is-Quora-s-policy-on-disclosing-affiliations-in-answers",
+        "select": [
+          ".article-header",
+          ".article-body"
+        ],
+        "remove": [
+          ".user-avatar",
+          ".meta-data:nth-child(2)"
+        ],
+        "filter": [
+          "replaceTimeAgoByDate"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "3f819dccb0f33edc0bd6c84fcefabef48df5c7cf"
+      },
+      {
+        "id": "hc-en-us-articles-360000470206-What-is-Quora-s-policy-on-plagiarism-and-attribution",
+        "fetch": "https://help.quora.com/hc/en-us/articles/360000470206-What-is-Quora-s-policy-on-plagiarism-and-attribution",
+        "select": [
+          ".article-header",
+          ".article-body"
+        ],
+        "remove": [
+          ".user-avatar",
+          ".meta-data:nth-child(2)"
+        ],
+        "filter": [
+          "replaceTimeAgoByDate"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "04a5f1e0f94c21e896e812b374d4edb517bf4ef9"
+      },
+      {
+        "id": "hc-en-us-articles-4405052142868-What-is-considered-Adult-content-on-Quora",
+        "fetch": "https://help.quora.com/hc/en-us/articles/4405052142868-What-is-considered-Adult-content-on-Quora",
+        "select": [
+          ".article-header",
+          ".article-body"
+        ],
+        "remove": [
+          ".user-avatar",
+          ".meta-data:nth-child(2)"
+        ],
+        "filter": [
+          "replaceTimeAgoByDate"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "f818afd38faac9eb3c3653316503f8ff03737292"
+      },
+      {
+        "id": "hc-en-us-articles-360052494012-How-does-Quora-intend-to-enforce-the-Not-for-Reproduction-feature",
+        "fetch": "https://help.quora.com/hc/en-us/articles/360052494012-How-does-Quora-intend-to-enforce-the-Not-for-Reproduction-feature",
+        "select": [
+          ".article-header",
+          ".article-body"
+        ],
+        "remove": [
+          ".user-avatar",
+          ".meta-data:nth-child(2)"
+        ],
+        "filter": [
+          "replaceTimeAgoByDate"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "3ebdb8a0f6725664618e17951a4ebde2f9d1efdd"
+      }
+    ]
+  }
+}
