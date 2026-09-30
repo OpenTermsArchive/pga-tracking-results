@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:18:23.450Z",
+    "serviceName": "WhatsApp",
+    "sourceDocuments": [
+      {
+        "id": "legal-privacy-policy-eea",
+        "fetch": "https://www.whatsapp.com/legal/privacy-policy-eea?lang=en",
+        "select": [
+          "#content-wrapper"
+        ],
+        "remove": [
+          "[href='#top-of-page']",
+          "img"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "65eba545cf6fddddc46f243e70fac004b1f83f13"
+      }
+    ]
+  }
+}
