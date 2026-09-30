@@ -1,0 +1,18 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T00:30:23.210Z",
+    "serviceName": "BeReal",
+    "sourceDocuments": [
+      {
+        "id": "privacy-2",
+        "fetch": "https://bereal.com/privacy-2/",
+        "select": [
+          "[data-framer-name='Column']"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "5d0d0c7e9d0b93fc391034cf90a1002e0a0ed72b"
+      }
+    ]
+  }
+}
