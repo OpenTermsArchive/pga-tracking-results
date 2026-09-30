@@ -1,0 +1,45 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:08:58.620Z",
+    "serviceName": "Spotify",
+    "sourceDocuments": [
+      {
+        "id": "us-creators-article-spotify-partner-program-monetization-policies",
+        "fetch": "https://support.spotify.com/us/creators/article/spotify-partner-program-monetization-policies/",
+        "select": [
+          "main"
+        ],
+        "remove": [
+          "[class*=subnav-main]",
+          "input",
+          "nav",
+          "[data-encore-id=formGroup]",
+          "button",
+          "[data-testid='cta-card']",
+          "[role='list']"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "cbf53ea36faa326bf6e6c20b85b8c9a6a8c2d8a7"
+      },
+      {
+        "id": "us-creators-article-spotify-partner-program-terms",
+        "fetch": "https://support.spotify.com/us/creators/article/spotify-partner-program-terms/",
+        "select": [
+          "main"
+        ],
+        "remove": [
+          "[class*=subnav-main]",
+          "input",
+          "nav",
+          "[data-encore-id=formGroup]",
+          "button",
+          "[data-testid='cta-card']",
+          "[role='list']"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "4725a8343935db981a8648fc86c3527e039675eb"
+      }
+    ]
+  }
+}
