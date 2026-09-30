@@ -1,0 +1,18 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T00:53:46.891Z",
+    "serviceName": "Moltbook",
+    "sourceDocuments": [
+      {
+        "id": "privacy",
+        "fetch": "https://www.moltbook.com/privacy",
+        "select": [
+          ".legal-content"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "d5f87642fd9473f6f5fe346636abbbd58d40ad1f"
+      }
+    ]
+  }
+}
