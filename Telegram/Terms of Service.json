@@ -1,0 +1,16 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:09:16.837Z",
+    "serviceName": "Telegram",
+    "sourceDocuments": [
+      {
+        "id": "tos",
+        "fetch": "https://telegram.org/tos",
+        "select": "#dev_page_content_wrap",
+        "mimeType": "text/html",
+        "snapshotId": "63af38f1845ff47953208521c163ca93f675164b"
+      }
+    ]
+  }
+}
