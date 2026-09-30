@@ -1,0 +1,23 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:07:32.266Z",
+    "serviceName": "Snapchat",
+    "sourceDocuments": [
+      {
+        "id": "en-GB-terms",
+        "fetch": "https://www.snap.com/en-GB/terms",
+        "select": "main",
+        "remove": [
+          "header",
+          "footer",
+          ".cookie-landing-screen",
+          "hr"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "88d63101bbee144a80064db55ab976fcb205f299"
+      }
+    ]
+  }
+}
