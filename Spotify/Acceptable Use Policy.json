@@ -1,0 +1,21 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:08:43.282Z",
+    "serviceName": "Spotify",
+    "sourceDocuments": [
+      {
+        "id": "us-legal-user-guidelines",
+        "fetch": "https://www.spotify.com/us/legal/user-guidelines/",
+        "select": [
+          {
+            "startBefore": "#spotify-user-guidelines",
+            "endBefore": "footer"
+          }
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "0afbe6322df3e8e518ace92027cb99f76869d1e8"
+      }
+    ]
+  }
+}
