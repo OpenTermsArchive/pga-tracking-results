@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:14:25.655Z",
+    "serviceName": "TikTok",
+    "sourceDocuments": [
+      {
+        "id": "legal-virtual-items",
+        "fetch": "https://www.tiktok.com/legal/virtual-items?lang=en",
+        "select": [
+          "[id=\"policy-card\"]"
+        ],
+        "remove": [
+          "[data-testid=\"language-selection-header\"]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "ea374632bc1eb6787db63a076a2986c59cbe9a50"
+      }
+    ]
+  }
+}
