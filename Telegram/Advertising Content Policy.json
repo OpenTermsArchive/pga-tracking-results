@@ -1,0 +1,16 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:09:18.000Z",
+    "serviceName": "Telegram",
+    "sourceDocuments": [
+      {
+        "id": "guidelines",
+        "fetch": "https://ads.telegram.org/guidelines",
+        "select": "#dev_page_content_wrap",
+        "mimeType": "text/html",
+        "snapshotId": "b68e91662d469f7c287cb7ed7418c16ef7306aa6"
+      }
+    ]
+  }
+}
