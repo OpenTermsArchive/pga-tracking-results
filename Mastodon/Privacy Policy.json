@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T00:53:45.286Z",
+    "serviceName": "Mastodon",
+    "sourceDocuments": [
+      {
+        "id": "privacy",
+        "fetch": "https://groups.joinmastodon.org/privacy",
+        "select": "[id='main']",
+        "remove": [
+          "header",
+          "powered-by-discourse",
+          "[role='navigation']"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "c83c265789da01e1a964af7c825382ee857f0b5c"
+      }
+    ]
+  }
+}
