@@ -1,0 +1,18 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T00:30:21.183Z",
+    "serviceName": "BeReal",
+    "sourceDocuments": [
+      {
+        "id": "terms",
+        "fetch": "https://bereal.com/terms/",
+        "select": [
+          "[data-framer-name='Column']"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "9803077889c6c5d1e1542e53b6b7c57b62262df2"
+      }
+    ]
+  }
+}
