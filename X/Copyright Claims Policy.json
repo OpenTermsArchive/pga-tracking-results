@@ -1,0 +1,33 @@
+{
+  "status": "failed",
+  "event": {
+    "date": "2026-09-30T01:20:28.745Z",
+    "serviceName": "X",
+    "sourceDocuments": [
+      {
+        "id": "en-rules-and-policies-copyright-policy",
+        "fetch": "https://help.x.com/en/rules-and-policies/copyright-policy",
+        "select": [
+          ".ct01__wrapper"
+        ],
+        "remove": [
+          ".b24__wrapper",
+          ".inherit",
+          ".twtr-type--roman-100r",
+          ".u11__breadcrumbs-list:nth-child(2)",
+          ".IconButton",
+          ".b04-image"
+        ],
+        "filter": [
+          "useXHelpCenterBaseURL"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "002813ed3298229696768a521a87a2b1457a813b"
+      }
+    ],
+    "reasons": [
+      "[extraction] Extract failed: The provided selector \"[\".ct01__wrapper\"]\" has no match in the web page at 'https://help.x.com/en/rules-and-policies/copyright-policy'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content."
+    ]
+  }
+}
