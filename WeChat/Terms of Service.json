@@ -1,0 +1,16 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:18:12.632Z",
+    "serviceName": "WeChat",
+    "sourceDocuments": [
+      {
+        "id": "en-service_terms",
+        "fetch": "https://www.wechat.com/en/service_terms.html",
+        "select": "#agreement",
+        "mimeType": "text/html",
+        "snapshotId": "c94da604851be1bf8a3c92c2b90525eb8372660d"
+      }
+    ]
+  }
+}
