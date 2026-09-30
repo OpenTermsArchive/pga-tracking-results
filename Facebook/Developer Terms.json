@@ -1,0 +1,20 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T00:30:58.987Z",
+    "serviceName": "Facebook",
+    "sourceDocuments": [
+      {
+        "id": "policy",
+        "fetch": "https://developers.facebook.com/policy",
+        "select": "._4bl9",
+        "filter": [
+          "removeHelpButtons",
+          "cleanUrls"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "d60614aa37a806b828efcfbb44f43cbe183d036a"
+      }
+    ]
+  }
+}
