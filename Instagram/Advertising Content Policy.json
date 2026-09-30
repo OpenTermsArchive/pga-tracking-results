@@ -1,0 +1,29 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T00:52:48.584Z",
+    "serviceName": "Instagram",
+    "sourceDocuments": [
+      {
+        "id": "policies-ad-standards",
+        "fetch": "https://transparency.meta.com/policies/ad-standards/",
+        "select": [
+          "[id=mdc-main-content]"
+        ],
+        "remove": [
+          "img",
+          "a",
+          "b",
+          "div.x1c4vz4f",
+          "div[role='list']"
+        ],
+        "filter": [
+          "removeLinks"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "6165c48ebb6ea7cbd65479cc7ed4963eb0c3bbc4"
+      }
+    ]
+  }
+}
