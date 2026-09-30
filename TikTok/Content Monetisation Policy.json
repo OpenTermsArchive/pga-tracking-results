@@ -1,0 +1,50 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:15:14.477Z",
+    "serviceName": "TikTok",
+    "sourceDocuments": [
+      {
+        "id": "creator-academy-en-article-creator-code-of-conduct",
+        "fetch": "https://www.tiktok.com/creator-academy/en/article/creator-code-of-conduct",
+        "select": [
+          "[id=academyArticleMainBody]"
+        ],
+        "remove": [
+          "img",
+          ".mt",
+          ".my"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "28700c31cb975e1214703ee48dc42130b9cc2ece"
+      },
+      {
+        "id": "legal-page-global-tiktok-creator-fund-terms-en",
+        "fetch": "https://www.tiktok.com/legal/page/global/tiktok-creator-fund-terms/en",
+        "select": [
+          "[id=policy-card]"
+        ],
+        "remove": [
+          "img"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "ed465613f0d9a1d39761c4d2cf0172c7964338cc"
+      },
+      {
+        "id": "legal-page-global-creator-rewards-program-us-en",
+        "fetch": "https://www.tiktok.com/legal/page/global/creator-rewards-program-us/en",
+        "select": [
+          "[id=policy-card]"
+        ],
+        "remove": [
+          "img"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "64518f4f2b9e9a087a79b0de268ca399908dd296"
+      }
+    ]
+  }
+}
