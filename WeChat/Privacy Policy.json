@@ -1,0 +1,17 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:18:17.096Z",
+    "serviceName": "WeChat",
+    "sourceDocuments": [
+      {
+        "id": "en-privacy_policy",
+        "fetch": "https://www.wechat.com/en/privacy_policy.html",
+        "select": "#agreement6",
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "f05762c91be6064ded0a0a15ec2135fb8d22e1eb"
+      }
+    ]
+  }
+}
