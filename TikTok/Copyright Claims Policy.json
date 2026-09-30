@@ -1,0 +1,19 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:14:19.903Z",
+    "serviceName": "TikTok",
+    "sourceDocuments": [
+      {
+        "id": "legal-copyright-policy",
+        "fetch": "https://www.tiktok.com/legal/copyright-policy?lang=en",
+        "select": [
+          ".content"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "d60e26e7fb67941d547626ca689338f0f2860e4d"
+      }
+    ]
+  }
+}
