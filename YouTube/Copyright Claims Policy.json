@@ -1,0 +1,25 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:32:40.261Z",
+    "serviceName": "YouTube",
+    "sourceDocuments": [
+      {
+        "id": "intl-en_be-howyoutubeworks-policies-copyright",
+        "fetch": "https://www.youtube.com/intl/en_be/howyoutubeworks/policies/copyright/",
+        "select": ".yt-main.copyright",
+        "remove": [
+          ".ytr-hero__eyebrow",
+          ".ytr-link > svg",
+          ".ytr-media",
+          "section.hero-section .lb-grid__cell--span-12",
+          "img",
+          "svg",
+          ".mobile-only"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "9ace26ae15452c1c2fbf98bbf2db98d8f7635e78"
+      }
+    ]
+  }
+}
