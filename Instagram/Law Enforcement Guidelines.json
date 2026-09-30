@@ -1,0 +1,50 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:34:02.712Z",
+    "serviceName": "Instagram",
+    "sourceDocuments": [
+      {
+        "id": "494561080557017",
+        "fetch": "https://help.instagram.com/494561080557017",
+        "select": [
+          "div[role=\"main\"]"
+        ],
+        "remove": [
+          "nav[role=\"navigation\"]",
+          "div[aria-label=\"Copy link\"]",
+          "[id='Related Articles']",
+          "fieldset",
+          "[href*='https://privacycenter.instagram.com/policy/']",
+          "[href*='https://help.instagram.com/519522125107875?helpref=faq_content']",
+          "[role='button']"
+        ],
+        "filter": [
+          "removeLinks"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "dd130b685834dfa97e30f1a2ab2cd3ec7826ac49"
+      },
+      {
+        "id": "548994106880972",
+        "fetch": "https://help.instagram.com/548994106880972",
+        "select": "div[role='main']",
+        "remove": [
+          "nav[role=\"navigation\"]",
+          "[role='button']",
+          "[id='Related Articles']",
+          "fieldset"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "3e9d9fc36ccbb5db94045592f1b9c81633a8e251"
+      }
+    ],
+    "transientError": {
+      "reasons": [
+        "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://help.instagram.com/494561080557017'"
+      ]
+    }
+  }
+}
