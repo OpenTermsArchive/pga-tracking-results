@@ -1,0 +1,28 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T00:32:14.713Z",
+    "serviceName": "Facebook",
+    "sourceDocuments": [
+      {
+        "id": "legal-commercial_terms",
+        "fetch": "https://www.facebook.com/legal/commercial_terms",
+        "select": [
+          "div[role=main]"
+        ],
+        "remove": [
+          {
+            "startBefore": "[role=\"separator\"]:first-child",
+            "endAfter": "[role=\"contentinfo\"]"
+          }
+        ],
+        "filter": [
+          "cleanUrls"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "5acd9d81a81cd07576044365f388d28f1dc427e3"
+      }
+    ]
+  }
+}
