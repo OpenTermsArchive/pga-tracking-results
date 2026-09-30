@@ -1,0 +1,28 @@
+{
+  "status": "failed",
+  "event": {
+    "date": "2026-09-30T01:28:41.036Z",
+    "serviceName": "X",
+    "sourceDocuments": [
+      {
+        "id": "en-rules-and-policies-contact-x-about-a-deceased-family-members-account",
+        "fetch": "https://help.x.com/en/rules-and-policies/contact-x-about-a-deceased-family-members-account",
+        "select": [
+          {
+            "startBefore": "h1",
+            "endAfter": "[class*=\"rich-text-v\"]"
+          }
+        ],
+        "filter": [
+          "useXHelpCenterBaseURL"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "4a34e74be1839263e3e200f8225b445af70fc645"
+      }
+    ],
+    "reasons": [
+      "[extraction] Extract failed: The \"end\" selector has no match in document in: {\"startBefore\":\"h1\",\"endAfter\":\"[class*=\\\"rich-text-v\\\"]\"}"
+    ]
+  }
+}
