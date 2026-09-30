@@ -1,0 +1,19 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:18:10.020Z",
+    "serviceName": "Upscrolled",
+    "sourceDocuments": [
+      {
+        "id": "en-rules-and-policies",
+        "fetch": "https://upscrolled.com/en/rules-and-policies/",
+        "select": [
+          "main"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "e09585a74bd7b14497fe54224937041eec2978e5"
+      }
+    ]
+  }
+}
