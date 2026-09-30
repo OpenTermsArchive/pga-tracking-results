@@ -1,0 +1,19 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:07:40.879Z",
+    "serviceName": "Snapchat",
+    "sourceDocuments": [
+      {
+        "id": "en-GB-privacy-privacy-policy",
+        "fetch": "https://www.snap.com/en-GB/privacy/privacy-policy",
+        "select": [
+          "[data-testid=\"page\"]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "c9b6210619569b8d21fa5cd0313dbb1e52a75b57"
+      }
+    ]
+  }
+}
