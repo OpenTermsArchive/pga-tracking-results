@@ -1,0 +1,26 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T00:53:06.752Z",
+    "serviceName": "LinkedIn",
+    "sourceDocuments": [
+      {
+        "id": "legal-privacy-eu",
+        "fetch": "https://www.linkedin.com/legal/privacy/eu",
+        "select": [
+          "#component-container"
+        ],
+        "remove": [
+          ".callout > svg",
+          ".expandable-section__header",
+          ".banner__image-container "
+        ],
+        "filter": [
+          "removeTrackingIDs"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "d5021db351f4b16729f4e947b7d37538305c2370"
+      }
+    ]
+  }
+}
