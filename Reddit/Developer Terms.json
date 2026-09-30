@@ -1,0 +1,25 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:07:15.289Z",
+    "serviceName": "Reddit",
+    "sourceDocuments": [
+      {
+        "id": "policies-developer-terms",
+        "fetch": "https://redditinc.com/policies/developer-terms",
+        "select": [
+          "#main-content"
+        ],
+        "remove": [
+          ".side-nav",
+          "img",
+          ".filter-holder",
+          ".lang_switcher_class"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "9bfc5ac6c4bcb5a24912df758a2625cf25be1ca0"
+      }
+    ]
+  }
+}
