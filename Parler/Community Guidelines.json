@@ -1,0 +1,18 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T00:53:55.013Z",
+    "serviceName": "Parler",
+    "sourceDocuments": [
+      {
+        "id": "community-guidelines",
+        "fetch": "https://parler.com/community-guidelines/",
+        "select": "main",
+        "remove": "footer",
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "0b9a23544319f3bf46c4cad6fa1223a39e5d0712"
+      }
+    ]
+  }
+}
