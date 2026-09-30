@@ -1,0 +1,25 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T00:53:15.473Z",
+    "serviceName": "LinkedIn",
+    "sourceDocuments": [
+      {
+        "id": "policies",
+        "fetch": "https://brand.linkedin.com/policies",
+        "select": [
+          "#content"
+        ],
+        "remove": [
+          "#banner-content-container-banner_1202100886"
+        ],
+        "filter": [
+          "removeDownloadedForUseLinkExtension",
+          "removeLinks"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "d512a9f04d6fe8c67970ec9f00ad380518facf08"
+      }
+    ]
+  }
+}
