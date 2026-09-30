@@ -1,0 +1,91 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:17:36.808Z",
+    "serviceName": "Twitch",
+    "sourceDocuments": [
+      {
+        "id": "s-article-Community-Guidelines",
+        "fetch": "https://safety.twitch.tv/s/article/Community-Guidelines?language=en_US",
+        "select": [
+          ".tsc-subtopic"
+        ],
+        "remove": [
+          "[data-id=\"tscToc\"]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "e58430f4b81beeff02a354bee123b85730931611"
+      },
+      {
+        "id": "s-article-about-account-suspensions-dmca-suspensions-and-chat-bans",
+        "fetch": "https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=en_US",
+        "select": [
+          "#article"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "5726f2042096b7e7f8a0f03ece2a8913514889e1"
+      },
+      {
+        "id": "s-article-Prohibited-Games",
+        "fetch": "https://safety.twitch.tv/s/article/Prohibited-Games?language=en_US",
+        "select": [
+          ".tsc-subtopic-content"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "2a7e07125cd47ad511db9cb7aa6e4748ba50fb67"
+      },
+      {
+        "id": "s-article-Content-Classification-Guidelines",
+        "fetch": "https://safety.twitch.tv/s/article/Content-Classification-Guidelines?language=en_US",
+        "select": [
+          ".tsc-subtopic-content"
+        ],
+        "remove": [
+          "[class*=tsc-subtopic-toc]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "62e013a69c0a9859793b745f8d48c4732ca41416"
+      },
+      {
+        "id": "s-article-Emote-Policy",
+        "fetch": "https://safety.twitch.tv/s/article/Emote-Policy?language=en_US",
+        "select": [
+          ".tsc-subtopic-content"
+        ],
+        "remove": [
+          "[class*=tsc-subtopic-toc]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "6ca4ee6c968519676b61004a73950e3cc7ed8c05"
+      },
+      {
+        "id": "s-article-Tags-Guidelines",
+        "fetch": "https://safety.twitch.tv/s/article/Tags-Guidelines?language=en_US",
+        "select": [
+          ".tsc-subtopic-content"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "a2dadc0ef7f896c6786866b801cf228262e9060f"
+      },
+      {
+        "id": "s-article-Usernames",
+        "fetch": "https://safety.twitch.tv/s/article/Usernames?language=en_US",
+        "select": [
+          ".tsc-subtopic-content"
+        ],
+        "remove": [
+          "[class*=tsc-subtopic-toc]"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "29e269bdd8ba9f8139391281d8bb5b2a436fe0cf"
+      }
+    ]
+  }
+}
