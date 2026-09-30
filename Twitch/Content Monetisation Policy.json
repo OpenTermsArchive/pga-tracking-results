@@ -1,0 +1,20 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:17:42.721Z",
+    "serviceName": "Twitch",
+    "sourceDocuments": [
+      {
+        "id": "en-legal-monetized-streamer-agreement",
+        "fetch": "https://legal.twitch.com/en/legal/monetized-streamer-agreement",
+        "select": "#main-content",
+        "remove": [
+          "#main-content .xl\\:sticky"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "67f9686ae899c11bf4aa8a7daec86afa0138aa10"
+      }
+    ]
+  }
+}
