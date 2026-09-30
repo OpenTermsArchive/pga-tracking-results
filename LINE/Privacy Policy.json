@@ -1,0 +1,19 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T00:53:00.366Z",
+    "serviceName": "LINE",
+    "sourceDocuments": [
+      {
+        "id": "line_rules",
+        "fetch": "https://terms.line.me/line_rules/?lang=en",
+        "select": [
+          "h1",
+          "[class*=body-container]"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "2a1ffcadd5e865fb41a48d0deed4c3381a926baa"
+      }
+    ]
+  }
+}
