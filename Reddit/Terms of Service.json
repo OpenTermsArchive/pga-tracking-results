@@ -1,0 +1,17 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T00:56:44.486Z",
+    "serviceName": "Reddit",
+    "sourceDocuments": [
+      {
+        "id": "policies-user-agreement",
+        "fetch": "https://www.redditinc.com/policies/user-agreement",
+        "select": "#content",
+        "remove": ".filter-holder",
+        "mimeType": "text/html",
+        "snapshotId": "859a3ee73bf134461746eed22e281cf1ba163ec7"
+      }
+    ]
+  }
+}
