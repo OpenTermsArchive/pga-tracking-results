@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T00:53:30.919Z",
+    "serviceName": "Mastodon",
+    "sourceDocuments": [
+      {
+        "id": "tos",
+        "fetch": "https://groups.joinmastodon.org/tos",
+        "select": "[id='main']",
+        "remove": [
+          "header",
+          ".powered-by-discourse",
+          "[role='navigation']"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "288696222f9196a672ca5ec5fcce05559e44e14e"
+      }
+    ]
+  }
+}
