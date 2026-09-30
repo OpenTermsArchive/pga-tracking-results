@@ -1,0 +1,18 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T00:53:58.546Z",
+    "serviceName": "Parler",
+    "sourceDocuments": [
+      {
+        "id": "cookie-policy",
+        "fetch": "https://www.parler.com/cookie-policy",
+        "select": "main",
+        "remove": "footer",
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "29d19ac12408edbeeb405a5802c0ea2bd7d6445f"
+      }
+    ]
+  }
+}
