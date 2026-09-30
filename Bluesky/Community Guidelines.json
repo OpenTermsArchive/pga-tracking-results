@@ -1,0 +1,17 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T00:30:27.183Z",
+    "serviceName": "Bluesky",
+    "sourceDocuments": [
+      {
+        "id": "about-support-community-guidelines",
+        "fetch": "https://bsky.social/about/support/community-guidelines",
+        "select": "main",
+        "remove": "[class*=flex]",
+        "mimeType": "text/html",
+        "snapshotId": "db554f12ae48fb83ce53ce0f3fb5def0c0e5313d"
+      }
+    ]
+  }
+}
