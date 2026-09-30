@@ -1,0 +1,18 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:15:19.219Z",
+    "serviceName": "Truth Social",
+    "sourceDocuments": [
+      {
+        "id": "legal-privacy-policy",
+        "fetch": "https://help.truthsocial.com/legal/privacy-policy",
+        "select": [
+          "main"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "b6043d9b9ef52f2b65cb56a7c78cadf92c1386ae"
+      }
+    ]
+  }
+}
