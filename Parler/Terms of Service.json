@@ -1,0 +1,18 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T00:53:52.328Z",
+    "serviceName": "Parler",
+    "sourceDocuments": [
+      {
+        "id": "terms-of-service",
+        "fetch": "https://parler.com/terms-of-service",
+        "select": "main",
+        "remove": "footer",
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "9a8c2e264362d8b5d76597112eb98d34186f3304"
+      }
+    ]
+  }
+}
