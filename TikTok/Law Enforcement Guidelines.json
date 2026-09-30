@@ -1,0 +1,39 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:14:14.186Z",
+    "serviceName": "TikTok",
+    "sourceDocuments": [
+      {
+        "id": "legal-law-enforcement",
+        "fetch": "https://www.tiktok.com/legal/law-enforcement?lang=en",
+        "select": [
+          "main"
+        ],
+        "remove": [
+          "img",
+          "header",
+          "footer"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "3b620628e8e51dd22677c92689b384ef34e26c37"
+      },
+      {
+        "id": "legal-page-global-shop-law-enforcement-regulatory-disclosure-guidelines-en",
+        "fetch": "https://www.tiktok.com/legal/page/global/shop-law-enforcement-regulatory-disclosure-guidelines/en",
+        "select": [
+          "main"
+        ],
+        "remove": [
+          "img",
+          "header",
+          "footer"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "4bdce4ed4d8f65cc188bc1337870ff58c4470cbf"
+      }
+    ]
+  }
+}
