@@ -1,0 +1,24 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T00:30:24.467Z",
+    "serviceName": "BeReal",
+    "sourceDocuments": [
+      {
+        "id": "community-standards",
+        "fetch": "https://bereal.com/community-standards",
+        "select": [
+          "#main"
+        ],
+        "remove": [
+          ".framer-sv075k",
+          "[data-framer-name='Buttons']",
+          ".framer-2d10wf-container",
+          ".framer-gjuypi"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "aa5549876a0f31bd02718eed0f41e62099a8a3a9"
+      }
+    ]
+  }
+}
