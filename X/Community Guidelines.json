@@ -1,0 +1,571 @@
+{
+  "status": "failed",
+  "event": {
+    "date": "2026-09-30T01:28:26.257Z",
+    "serviceName": "X",
+    "sourceDocuments": [
+      {
+        "id": "en-rules-and-policies-x-rules",
+        "fetch": "https://help.x.com/en/rules-and-policies/x-rules",
+        "select": [
+          "main"
+        ],
+        "remove": [
+          "[class^=u11__]",
+          "h4.b01__headline",
+          "button.b24--jumbo"
+        ],
+        "filter": [
+          "useXHelpCenterBaseURL"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "4e95c293fc79ba06f4f8bf90d48e1e4d24e03c3e"
+      },
+      {
+        "id": "en-rules-and-policies-violent-content",
+        "fetch": "https://help.x.com/en/rules-and-policies/violent-content",
+        "select": [
+          "main"
+        ],
+        "remove": [
+          "[class^=u11__]",
+          "h4.b01__headline",
+          "button.b24--jumbo"
+        ],
+        "filter": [
+          "useXHelpCenterBaseURL"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "dcd61a2bbb8b1b8047c4eed0ca62161939f68555"
+      },
+      {
+        "id": "en-rules-and-policies-violent-entities",
+        "fetch": "https://help.x.com/en/rules-and-policies/violent-entities",
+        "select": [
+          "main"
+        ],
+        "remove": [
+          "[class^=u11__]",
+          "h4.b01__headline",
+          "button.b24--jumbo"
+        ],
+        "filter": [
+          "useXHelpCenterBaseURL"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "57c119216680617b678230d9fc51188f1c72a30c"
+      },
+      {
+        "id": "en-rules-and-policies-child-safety",
+        "fetch": "https://help.x.com/en/rules-and-policies/child-safety",
+        "select": [
+          "main"
+        ],
+        "remove": [
+          "[class^=u11__]",
+          "h4.b01__headline",
+          "button.b24--jumbo"
+        ],
+        "filter": [
+          "useXHelpCenterBaseURL"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "2c5fe5983b2d0f8dd20fa177c9cf603182612ff5"
+      },
+      {
+        "id": "en-rules-and-policies-abusive-behavior",
+        "fetch": "https://help.x.com/en/rules-and-policies/abusive-behavior",
+        "select": [
+          "main"
+        ],
+        "remove": [
+          "[class^=u11__]",
+          "h4.b01__headline",
+          "button.b24--jumbo"
+        ],
+        "filter": [
+          "useXHelpCenterBaseURL"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "8316ff258c828a9298f742c9e46dcc5ac3b05c31"
+      },
+      {
+        "id": "en-rules-and-policies-hateful-conduct-policy",
+        "fetch": "https://help.x.com/en/rules-and-policies/hateful-conduct-policy",
+        "select": [
+          "main"
+        ],
+        "remove": [
+          "[class^=u11__]",
+          "h4.b01__headline",
+          "button.b24--jumbo"
+        ],
+        "filter": [
+          "useXHelpCenterBaseURL"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "7c6041286d6b59d91915f643bc27c96d714e3759"
+      },
+      {
+        "id": "en-rules-and-policies-perpetrators-of-violent-attacks",
+        "fetch": "https://help.x.com/en/rules-and-policies/perpetrators-of-violent-attacks",
+        "select": [
+          "main"
+        ],
+        "remove": [
+          "[class^=u11__]",
+          "h4.b01__headline",
+          "button.b24--jumbo"
+        ],
+        "filter": [
+          "useXHelpCenterBaseURL"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "afe6b98f46931e13258f20bd75410af4e4c124b3"
+      },
+      {
+        "id": "en-rules-and-policies-glorifying-self-harm",
+        "fetch": "https://help.x.com/en/rules-and-policies/glorifying-self-harm",
+        "select": [
+          "main"
+        ],
+        "remove": [
+          "[class^=u11__]",
+          "h4.b01__headline",
+          "button.b24--jumbo"
+        ],
+        "filter": [
+          "useXHelpCenterBaseURL"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "b3e599811a7c08f8d7f01b0fb89d81dc8eb1f1f2"
+      },
+      {
+        "id": "en-rules-and-policies-adult-content",
+        "fetch": "https://help.x.com/en/rules-and-policies/adult-content",
+        "select": [
+          "main"
+        ],
+        "remove": [
+          "[class^=u11__]",
+          "h4.b01__headline",
+          "button.b24--jumbo"
+        ],
+        "filter": [
+          "useXHelpCenterBaseURL"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "cdbadb8aa98267feff9173e471e4988def6fcacf"
+      },
+      {
+        "id": "en-rules-and-policies-shopping-policies",
+        "fetch": "https://help.x.com/en/rules-and-policies/shopping-policies",
+        "select": [
+          "main"
+        ],
+        "remove": [
+          "[class^=u11__]",
+          "h4.b01__headline",
+          "button.b24--jumbo"
+        ],
+        "filter": [
+          "useXHelpCenterBaseURL"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "05d630505e34ce8f1de3ce78671fe64758cb4932"
+      },
+      {
+        "id": "en-rules-and-policies-personal-information",
+        "fetch": "https://help.x.com/en/rules-and-policies/personal-information",
+        "select": [
+          "main"
+        ],
+        "remove": [
+          "[class^=u11__]",
+          "h4.b01__headline",
+          "button.b24--jumbo"
+        ],
+        "filter": [
+          "useXHelpCenterBaseURL"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "580b9e7d6ef11fe98fdfad47aed633fa99460cc4"
+      },
+      {
+        "id": "en-rules-and-policies-intimate-media",
+        "fetch": "https://help.x.com/en/rules-and-policies/intimate-media",
+        "select": [
+          "main"
+        ],
+        "remove": [
+          "[class^=u11__]",
+          "h4.b01__headline",
+          "button.b24--jumbo"
+        ],
+        "filter": [
+          "useXHelpCenterBaseURL"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "84e0a48f3b7b74fa4ca4bf338ff75f75e6d24fbe"
+      },
+      {
+        "id": "en-rules-and-policies-platform-manipulation",
+        "fetch": "https://help.x.com/en/rules-and-policies/platform-manipulation",
+        "select": [
+          "main"
+        ],
+        "remove": [
+          "[class^=u11__]",
+          "h4.b01__headline",
+          "button.b24--jumbo"
+        ],
+        "filter": [
+          "useXHelpCenterBaseURL"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "c16ce7cda604b1353a5d10c76356e2c2cfb54669"
+      },
+      {
+        "id": "en-rules-and-policies-election-integrity-policy",
+        "fetch": "https://help.x.com/en/rules-and-policies/election-integrity-policy",
+        "select": [
+          "main"
+        ],
+        "remove": [
+          "[class^=u11__]",
+          "h4.b01__headline",
+          "button.b24--jumbo"
+        ],
+        "filter": [
+          "useXHelpCenterBaseURL"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "03176015d18373433bb88194ba0fdeb962ae8738"
+      },
+      {
+        "id": "en-rules-and-policies-twitter-impersonation-and-deceptive-identities-policy",
+        "fetch": "https://help.x.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy",
+        "select": [
+          "main"
+        ],
+        "remove": [
+          "[class^=u11__]",
+          "h4.b01__headline",
+          "button.b24--jumbo"
+        ],
+        "filter": [
+          "useXHelpCenterBaseURL"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "d72f7c9f3dd7a67125f54f634bde973d81861047"
+      },
+      {
+        "id": "en-rules-and-policies-manipulated-media",
+        "fetch": "https://help.x.com/en/rules-and-policies/manipulated-media",
+        "select": [
+          "main"
+        ],
+        "remove": [
+          "[class^=u11__]",
+          "h4.b01__headline",
+          "button.b24--jumbo"
+        ],
+        "filter": [
+          "useXHelpCenterBaseURL"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "692e6e49cc9158feb5271cd2ed408487b36e7888"
+      },
+      {
+        "id": "en-rules-and-policies-x-trademark-policy",
+        "fetch": "https://help.x.com/en/rules-and-policies/x-trademark-policy",
+        "select": [
+          "main"
+        ],
+        "remove": [
+          "[class^=u11__]",
+          "h4.b01__headline",
+          "button.b24--jumbo"
+        ],
+        "filter": [
+          "useXHelpCenterBaseURL"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "1ae505a9c308a0d3caf6c4aa3f11a1e6e32df112"
+      },
+      {
+        "id": "en-rules-and-policies-x-username-squatting",
+        "fetch": "https://help.x.com/en/rules-and-policies/x-username-squatting",
+        "select": [
+          "main"
+        ],
+        "remove": [
+          "[class^=u11__]",
+          "h4.b01__headline",
+          "button.b24--jumbo"
+        ],
+        "filter": [
+          "useXHelpCenterBaseURL"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "6f1b7b90ff4ef87bd727c8cf54bbd64d6b642b9c"
+      },
+      {
+        "id": "en-rules-and-policies-copypasta-duplicate-content",
+        "fetch": "https://help.x.com/en/rules-and-policies/copypasta-duplicate-content",
+        "select": [
+          "main"
+        ],
+        "remove": [
+          "[class^=u11__]",
+          "h4.b01__headline",
+          "button.b24--jumbo"
+        ],
+        "filter": [
+          "useXHelpCenterBaseURL"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "0d36ba7af777cea0b469e2244b9394b1f0970c7b"
+      },
+      {
+        "id": "en-rules-and-policies-financial-scam",
+        "fetch": "https://help.x.com/en/rules-and-policies/financial-scam",
+        "select": [
+          "main"
+        ],
+        "remove": [
+          "[class^=u11__]",
+          "h4.b01__headline",
+          "button.b24--jumbo"
+        ],
+        "filter": [
+          "useXHelpCenterBaseURL"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "9c4447a03e38b61b2888942bba8c86b1ac7dc026"
+      },
+      {
+        "id": "en-rules-and-policies-abusive-profile",
+        "fetch": "https://help.x.com/en/rules-and-policies/abusive-profile",
+        "select": [
+          "main"
+        ],
+        "remove": [
+          "[class^=u11__]",
+          "h4.b01__headline",
+          "button.b24--jumbo"
+        ],
+        "filter": [
+          "useXHelpCenterBaseURL"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "b48d9da7ea292d97b7a9e41a381362a2d4ea6155"
+      },
+      {
+        "id": "en-rules-and-policies-automated-claims-policy",
+        "fetch": "https://help.x.com/en/rules-and-policies/automated-claims-policy",
+        "select": [
+          "main"
+        ],
+        "remove": [
+          "[class^=u11__]",
+          "h4.b01__headline",
+          "button.b24--jumbo"
+        ],
+        "filter": [
+          "useXHelpCenterBaseURL"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "9a030f93d472e3cddb1653e554a4d259edfd797d"
+      },
+      {
+        "id": "en-rules-and-policies-counterfeit-goods-policy",
+        "fetch": "https://help.x.com/en/rules-and-policies/counterfeit-goods-policy",
+        "select": [
+          "main"
+        ],
+        "remove": [
+          "[class^=u11__]",
+          "h4.b01__headline",
+          "button.b24--jumbo"
+        ],
+        "filter": [
+          "useXHelpCenterBaseURL"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "ebf8eda3479619f91b2e7a7a29a5cf62e661de73"
+      },
+      {
+        "id": "en-rules-and-policies-public-interest",
+        "fetch": "https://help.x.com/en/rules-and-policies/public-interest",
+        "select": [
+          "main"
+        ],
+        "remove": [
+          "[class^=u11__]",
+          "h4.b01__headline",
+          "button.b24--jumbo"
+        ],
+        "filter": [
+          "useXHelpCenterBaseURL"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "a22b21537ce2a05d581c70be1779a238e57bccf2"
+      },
+      {
+        "id": "en-rules-and-policies-x-limits",
+        "fetch": "https://help.x.com/en/rules-and-policies/x-limits",
+        "select": [
+          "main"
+        ],
+        "remove": [
+          "[class^=u11__]",
+          "h4.b01__headline",
+          "button.b24--jumbo"
+        ],
+        "filter": [
+          "useXHelpCenterBaseURL"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "18a1490e5bd39cbc05f42f940c5d88615805f1f4"
+      },
+      {
+        "id": "en-rules-and-policies-x-reach-limited",
+        "fetch": "https://help.x.com/en/rules-and-policies/x-reach-limited",
+        "select": [
+          "main"
+        ],
+        "remove": [
+          "[class^=u11__]",
+          "h4.b01__headline",
+          "button.b24--jumbo"
+        ],
+        "filter": [
+          "useXHelpCenterBaseURL"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "f5b16565e143e896932d0954a176bd8873f57c6f"
+      },
+      {
+        "id": "en-rules-and-policies-enforcement-options",
+        "fetch": "https://help.x.com/en/rules-and-policies/enforcement-options",
+        "select": [
+          "main"
+        ],
+        "remove": [
+          "[class^=u11__]",
+          "h4.b01__headline",
+          "button.b24--jumbo"
+        ],
+        "filter": [
+          "useXHelpCenterBaseURL"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "52e36bf2e6a3da2f7edb6e7e9495c66e05733a68"
+      },
+      {
+        "id": "en-rules-and-policies-x-moments-guidelines-and-principles",
+        "fetch": "https://help.x.com/en/rules-and-policies/x-moments-guidelines-and-principles",
+        "select": [
+          "main"
+        ],
+        "remove": [
+          "[class^=u11__]",
+          "h4.b01__headline",
+          "button.b24--jumbo"
+        ],
+        "filter": [
+          "useXHelpCenterBaseURL"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "332487afdf46a274f854bafb28a1fd28c16a5857"
+      },
+      {
+        "id": "en-rules-and-policies-fair-use-policy",
+        "fetch": "https://help.x.com/en/rules-and-policies/fair-use-policy",
+        "select": [
+          "main"
+        ],
+        "remove": [
+          "[class^=u11__]",
+          "h4.b01__headline",
+          "button.b24--jumbo"
+        ],
+        "filter": [
+          "useXHelpCenterBaseURL"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "599efb0c760fbcada7870636350c9b5450234766"
+      },
+      {
+        "id": "en-rules-and-policies-copyright-policy",
+        "fetch": "https://help.x.com/en/rules-and-policies/copyright-policy",
+        "select": [
+          {
+            "startBefore": "h1",
+            "endBefore": "[class*=\"share-tweet\"]"
+          }
+        ],
+        "remove": [
+          "[class*=\"twtr-type--headline-md\"]"
+        ],
+        "filter": [
+          "useXHelpCenterBaseURL"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "616e87f6d3fba5a80cef1301a029168b816abd9d"
+      },
+      {
+        "id": "en-rules-and-policies-enforcement-philosophy",
+        "fetch": "https://help.x.com/en/rules-and-policies/enforcement-philosophy",
+        "select": [
+          "main"
+        ],
+        "remove": [
+          "[class^=u11__]",
+          "h4.b01__headline",
+          "button.b24--jumbo"
+        ],
+        "filter": [
+          "useXHelpCenterBaseURL"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "6f65e9008aa6679fa16aeccab7670f7d27fc0197"
+      }
+    ],
+    "reasons": [
+      "[extraction] Extract failed: The \"end\" selector has no match in document in: {\"startBefore\":\"h1\",\"endBefore\":\"[class*=\\\"share-tweet\\\"]\"}"
+    ]
+  }
+}
