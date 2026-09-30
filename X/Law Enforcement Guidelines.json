@@ -1,0 +1,35 @@
+{
+  "status": "failed",
+  "event": {
+    "date": "2026-09-30T01:20:43.257Z",
+    "serviceName": "X",
+    "sourceDocuments": [
+      {
+        "id": "en-rules-and-policies-twitter-law-enforcement-support",
+        "fetch": "https://help.x.com/en/rules-and-policies/twitter-law-enforcement-support",
+        "select": [
+          ".aem-Grid"
+        ],
+        "remove": [
+          ".twtr-type--roman-100r",
+          ".u11__breadcrumbs-list:nth-child(2)",
+          ".twtr-type--headline-md",
+          ".b24__wrapper",
+          ".b17",
+          ".u11__mobile-header",
+          ".twtr-component--first > .b02-v2 > ul",
+          ".twtr-component--first b"
+        ],
+        "filter": [
+          "useXHelpCenterBaseURL"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "1c5184cfa155eaa22e91945226a6e8067956f735"
+      }
+    ],
+    "reasons": [
+      "[extraction] Extract failed: The provided selector \"[\".aem-Grid\"]\" has no match in the web page at 'https://help.x.com/en/rules-and-policies/twitter-law-enforcement-support'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content."
+    ]
+  }
+}
