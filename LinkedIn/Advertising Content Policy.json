@@ -1,0 +1,24 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T00:53:25.809Z",
+    "serviceName": "LinkedIn",
+    "sourceDocuments": [
+      {
+        "id": "legal-ads-policy",
+        "fetch": "https://www.linkedin.com/legal/ads-policy",
+        "select": [
+          "main"
+        ],
+        "remove": [
+          "ol"
+        ],
+        "filter": [
+          "removeLinks"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "5c375db21a34aefc8fcf3fce1d14d6bb06993c31"
+      }
+    ]
+  }
+}
