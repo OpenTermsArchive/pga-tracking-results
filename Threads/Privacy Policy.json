@@ -1,0 +1,28 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:09:53.820Z",
+    "serviceName": "Threads",
+    "sourceDocuments": [
+      {
+        "id": "515230437301944",
+        "fetch": "https://help.instagram.com/515230437301944",
+        "select": [
+          "div[role=\"main\"]"
+        ],
+        "remove": [
+          "#Related",
+          "[class*=xrgej4m]",
+          "[class*=x4k7w5x]",
+          "[role*=navigation]",
+          "img",
+          "[role='button']",
+          "[role='listitem']"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "1705a6d96dadb1124624287ae76951976adc511f"
+      }
+    ]
+  }
+}
