@@ -1,0 +1,49 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T00:31:58.866Z",
+    "serviceName": "Facebook",
+    "sourceDocuments": [
+      {
+        "id": "legal-terms-dataprocessing",
+        "fetch": "https://www.facebook.com/legal/terms/dataprocessing",
+        "select": [
+          {
+            "startBefore": "div[role=main]",
+            "endBefore": "[role=\"separator\"]:first-child"
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "b19974336cd8c7380d03dba97441ca58e665c8e4"
+      },
+      {
+        "id": "legal-EU_data_transfer_addendum",
+        "fetch": "https://www.facebook.com/legal/EU_data_transfer_addendum",
+        "select": [
+          {
+            "startBefore": "div[role=main]",
+            "endBefore": "[role=\"separator\"]:first-child"
+          }
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "e4e49db800a93e1250d5f01359e0ca9eac1332f9"
+      },
+      {
+        "id": "legal-terms-UK_Data_Transfer_Addendum",
+        "fetch": "https://www.facebook.com/legal/terms/UK_Data_Transfer_Addendum",
+        "select": [
+          {
+            "startBefore": "div[role=main]",
+            "endBefore": "[role=\"separator\"]:first-child"
+          }
+        ],
+        "remove": "[role*=link]",
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "f539909c8238c8fbca925c79095945077cc5c410"
+      }
+    ]
+  }
+}
