@@ -1,0 +1,165 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:13:41.844Z",
+    "serviceName": "TikTok",
+    "sourceDocuments": [
+      {
+        "id": "community-guidelines",
+        "fetch": "https://www.tiktok.com/community-guidelines?lang=en",
+        "select": "main",
+        "remove": [
+          "header",
+          "footer",
+          "img"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "99788d468656fbd44d7f83cc00edad82e6131724"
+      },
+      {
+        "id": "community-guidelines-en-community-principles",
+        "fetch": "https://www.tiktok.com/community-guidelines/en/community-principles/",
+        "select": "main",
+        "remove": [
+          "header",
+          "footer",
+          "img"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "24c511ca64fa04e1339aa7bdde296ae9c90a35a0"
+      },
+      {
+        "id": "community-guidelines-en-youth-safety",
+        "fetch": "https://www.tiktok.com/community-guidelines/en/youth-safety/",
+        "select": "main",
+        "remove": [
+          "header",
+          "footer",
+          "img"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "2223bd4b7a84c17b657335a664cce8a92e44b5c3"
+      },
+      {
+        "id": "community-guidelines-en-safety-civility",
+        "fetch": "https://www.tiktok.com/community-guidelines/en/safety-civility/",
+        "select": "main",
+        "remove": [
+          "header",
+          "footer",
+          "img"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "0ac8045ebc10118b581dc9bce2883f34b45d28e2"
+      },
+      {
+        "id": "community-guidelines-en-mental-behavioral-health",
+        "fetch": "https://www.tiktok.com/community-guidelines/en/mental-behavioral-health/",
+        "select": "main",
+        "remove": [
+          "header",
+          "footer",
+          "img"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "e00715c4c61369603048198109f2d9c9e134774a"
+      },
+      {
+        "id": "community-guidelines-en-sensitive-mature-themes",
+        "fetch": "https://www.tiktok.com/community-guidelines/en/sensitive-mature-themes/",
+        "select": "main",
+        "remove": [
+          "header",
+          "footer",
+          "img"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "c767442f4839fd0956965b958b238cdffa7bc6c3"
+      },
+      {
+        "id": "community-guidelines-en-integrity-authenticity",
+        "fetch": "https://www.tiktok.com/community-guidelines/en/integrity-authenticity/",
+        "select": "main",
+        "remove": [
+          "header",
+          "footer",
+          "img"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "cce7df0e9e0fd8e3f0ebb54ca3f88602cdbc382d"
+      },
+      {
+        "id": "community-guidelines-en-regulated-commercial-activities",
+        "fetch": "https://www.tiktok.com/community-guidelines/en/regulated-commercial-activities/",
+        "select": "main",
+        "remove": [
+          "header",
+          "footer",
+          "img"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "7c777332fc3bcf4fd82b4f24c35b67f50efd405c"
+      },
+      {
+        "id": "community-guidelines-en-privacy-security",
+        "fetch": "https://www.tiktok.com/community-guidelines/en/privacy-security/",
+        "select": "main",
+        "remove": [
+          "header",
+          "footer",
+          "img"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "725fce331d4e7769531b395b5f610a2e67d4fef1"
+      },
+      {
+        "id": "community-guidelines-en-fyf-standards",
+        "fetch": "https://www.tiktok.com/community-guidelines/en/fyf-standards/",
+        "select": "main",
+        "remove": [
+          "header",
+          "footer",
+          "img"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "67ae5ec63158500a331bbfe009241d37c713913c"
+      },
+      {
+        "id": "community-guidelines-en-accounts-features",
+        "fetch": "https://www.tiktok.com/community-guidelines/en/accounts-features/",
+        "select": "main",
+        "remove": [
+          "header",
+          "footer",
+          "img"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "3c0458aad00a6a3d8f76984ca2f9aac7711e9dcc"
+      },
+      {
+        "id": "community-guidelines-en-enforcement",
+        "fetch": "https://www.tiktok.com/community-guidelines/en/enforcement/",
+        "select": "main",
+        "remove": [
+          "header",
+          "footer",
+          "img"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "bcfade9371e8871be4d2e17a0371700162204440"
+      }
+    ]
+  }
+}
