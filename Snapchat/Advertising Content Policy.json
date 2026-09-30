@@ -1,0 +1,25 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:08:39.133Z",
+    "serviceName": "Snapchat",
+    "sourceDocuments": [
+      {
+        "id": "ad-policies",
+        "fetch": "https://www.snap.com/ad-policies?lang=en-GB",
+        "select": [
+          "[data-testid=\"page\"]"
+        ],
+        "remove": [
+          "img",
+          "header",
+          "footer",
+          "li"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "21f7837237b1fafc02c980ff982d5da6ee9414ae"
+      }
+    ]
+  }
+}
