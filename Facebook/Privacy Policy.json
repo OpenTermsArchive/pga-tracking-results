@@ -1,0 +1,34 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T00:30:57.073Z",
+    "serviceName": "Facebook",
+    "sourceDocuments": [
+      {
+        "id": "privacy-policy-printable",
+        "fetch": "https://mbasic.facebook.com/privacy/policy/printable/",
+        "select": [
+          "#root"
+        ],
+        "remove": [
+          ".k",
+          ".l",
+          ".bh",
+          "img[style=\"display:none\"]",
+          "img",
+          ".bk",
+          ".bl",
+          ".bj"
+        ],
+        "filter": [
+          "removeTrackingIDs",
+          "cleanUrls",
+          "removeHelpButtons"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "ca4a19673ef5ff071056d0d459b62a31ca867935"
+      }
+    ]
+  }
+}
