@@ -1,0 +1,60 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T00:52:33.023Z",
+    "serviceName": "Instagram",
+    "sourceDocuments": [
+      {
+        "id": "business-help-2635536099905516",
+        "fetch": "https://www.facebook.com/business/help/2635536099905516",
+        "select": [
+          "div[role=\"main\"]"
+        ],
+        "remove": [
+          "img[alt='Permalink']",
+          "img[alt='Share']",
+          "#GBMRelatedLinkContent",
+          "div[role='radiogroup']",
+          "div.x1f6kntn",
+          "[id='GBMRelatedLinksSideRoot']",
+          "#GBMBizEdArticleRoot button span",
+          "[role='button']",
+          "img",
+          "#u_0_4k_z8",
+          "._3ofu"
+        ],
+        "filter": [
+          "removeLinks"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "ec8316f914ad5acf4bad44be1ac722bc77630b7f"
+      },
+      {
+        "id": "business-help-976993102696723",
+        "fetch": "https://www.facebook.com/business/help/976993102696723",
+        "select": [
+          "div[role=\"main\"]"
+        ],
+        "remove": [
+          "img[alt='Permalink']",
+          "img[alt='Share']",
+          "img._2qnn.img",
+          "div._2ba0",
+          "#GBMRelatedLinkContent",
+          "div[role='radiogroup']",
+          "div.x1f6kntn",
+          "[id='GBMRelatedLinksSideRoot']",
+          "#GBMBizEdArticleRoot button span",
+          "._3ofu"
+        ],
+        "filter": [
+          "removeLinks"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "135d9f192934f19eed92c0f3f08a24750dfaf429"
+      }
+    ]
+  }
+}
