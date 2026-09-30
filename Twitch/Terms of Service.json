@@ -1,0 +1,20 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:15:25.417Z",
+    "serviceName": "Twitch",
+    "sourceDocuments": [
+      {
+        "id": "p-en-legal-terms-of-service",
+        "fetch": "https://www.twitch.tv/p/en/legal/terms-of-service/",
+        "select": "#main-content",
+        "remove": [
+          ".highlight-container"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "146b5a3bdb949ac6ba13c8b147469cf31ba2270f"
+      }
+    ]
+  }
+}
