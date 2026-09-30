@@ -1,0 +1,22 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:08:41.119Z",
+    "serviceName": "Spotify",
+    "sourceDocuments": [
+      {
+        "id": "us-legal-privacy-policy",
+        "fetch": "https://www.spotify.com/us/legal/privacy-policy/",
+        "select": [
+          {
+            "startBefore": "h1",
+            "endBefore": "footer"
+          }
+        ],
+        "remove": "[href='#spotify-privacy-policy']",
+        "mimeType": "text/html",
+        "snapshotId": "fa04d7256fe7a3ad741739837616f638d84a1aec"
+      }
+    ]
+  }
+}
