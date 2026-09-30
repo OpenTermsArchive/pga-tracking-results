@@ -1,0 +1,20 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:17:39.703Z",
+    "serviceName": "Twitch",
+    "sourceDocuments": [
+      {
+        "id": "p-en-legal-cookie-notice",
+        "fetch": "https://www.twitch.tv/p/en/legal/cookie-notice/",
+        "select": "#main-content",
+        "remove": [
+          ".xl\\:sticky"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "4b85245ec346aa86a3291b8d44984fae8e7157bc"
+      }
+    ]
+  }
+}
