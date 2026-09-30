@@ -1,0 +1,28 @@
+{
+  "status": "failed",
+  "event": {
+    "date": "2026-09-30T01:28:55.829Z",
+    "serviceName": "X",
+    "sourceDocuments": [
+      {
+        "id": "en-rules-and-policies-data-processing-legal-bases",
+        "fetch": "https://help.x.com/en/rules-and-policies/data-processing-legal-bases",
+        "select": [
+          {
+            "startBefore": "h1",
+            "endBefore": "[class*=b24-share-tweet]"
+          }
+        ],
+        "filter": [
+          "useXHelpCenterBaseURL"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "1e4329833d0daf0361caaae7516c76b2b7fd5ef1"
+      }
+    ],
+    "reasons": [
+      "[extraction] Extract failed: The \"end\" selector has no match in document in: {\"startBefore\":\"h1\",\"endBefore\":\"[class*=b24-share-tweet]\"}"
+    ]
+  }
+}
