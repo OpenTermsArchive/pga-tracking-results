@@ -1,0 +1,24 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T00:39:53.908Z",
+    "serviceName": "Facebook",
+    "sourceDocuments": [
+      {
+        "id": "policies-ad-standards",
+        "fetch": "https://transparency.meta.com/policies/ad-standards/",
+        "select": [
+          "[class=xg0jo4d]"
+        ],
+        "remove": [
+          "b",
+          "a",
+          "img.xt0psk2"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "6acf44fa41fc0bbd387d7c882324389a54d8ad1a"
+      }
+    ]
+  }
+}
