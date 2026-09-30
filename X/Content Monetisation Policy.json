@@ -1,0 +1,39 @@
+{
+  "status": "failed",
+  "event": {
+    "date": "2026-09-30T01:29:23.769Z",
+    "serviceName": "X",
+    "sourceDocuments": [
+      {
+        "id": "en-rules-and-policies-content-monetization-standards",
+        "fetch": "https://help.x.com/en/rules-and-policies/content-monetization-standards",
+        "select": [
+          "[id=twtr-main]"
+        ],
+        "remove": [
+          "img"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "c8950dd5349d344f0181646f8871260057100952"
+      },
+      {
+        "id": "en-creator-revenue-sharing-terms",
+        "fetch": "https://legal.x.com/en/creator-revenue-sharing-terms",
+        "select": [
+          "h1",
+          "p"
+        ],
+        "remove": [
+          "img"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "32259709bb4f51b50f1b81a6d322118ea3a61154"
+      }
+    ],
+    "reasons": [
+      "[extraction] Extract failed: The provided selector \"[\"[id=twtr-main]\"]\" has no match in the web page at 'https://help.x.com/en/rules-and-policies/content-monetization-standards'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content."
+    ]
+  }
+}
