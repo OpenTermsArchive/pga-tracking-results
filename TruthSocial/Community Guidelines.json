@@ -1,0 +1,19 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:15:17.634Z",
+    "serviceName": "Truth Social",
+    "sourceDocuments": [
+      {
+        "id": "community-guidelines-page",
+        "fetch": "https://help.truthsocial.com/community-guidelines-page/",
+        "select": [
+          "h1",
+          "main"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "36ce68cf7c63fa5243bb6e85a1c56321b412e1c9"
+      }
+    ]
+  }
+}
