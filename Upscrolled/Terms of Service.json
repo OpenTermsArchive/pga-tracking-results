@@ -1,0 +1,19 @@
+{
+  "status": "ok",
+  "event": {
+    "date": "2026-09-30T01:18:03.186Z",
+    "serviceName": "Upscrolled",
+    "sourceDocuments": [
+      {
+        "id": "en-terms-of-service",
+        "fetch": "https://upscrolled.com/en/terms-of-service/",
+        "select": [
+          "main"
+        ],
+        "executeClientScripts": true,
+        "mimeType": "text/html",
+        "snapshotId": "daf3367188392619be995bb1f8d75ca28d39e6e5"
+      }
+    ]
+  }
+}
