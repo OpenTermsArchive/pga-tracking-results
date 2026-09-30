@@ -1,0 +1,21 @@
+{
+  "status": "failed",
+  "event": {
+    "date": "2026-09-30T01:15:21.977Z",
+    "serviceName": "Tumblr",
+    "sourceDocuments": [
+      {
+        "id": "policy-en-community",
+        "fetch": "https://www.tumblr.com/policy/en/community",
+        "select": [
+          "#left_column"
+        ],
+        "mimeType": "text/html",
+        "snapshotId": "add792abca84d00878588775e37e98ebf41b6b19"
+      }
+    ],
+    "reasons": [
+      "[extraction] Extract failed: The provided selector \"[\"#left_column\"]\" has no match in the web page at 'https://www.tumblr.com/policy/en/community'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content."
+    ]
+  }
+}
