@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "event": {
-    "date": "2026-09-30T00:52:54.505Z",
+    "date": "2026-10-01T01:34:01.696Z",
     "serviceName": "LINE",
     "sourceDocuments": [
       {
@@ -11,6 +11,11 @@
         "mimeType": "text/html",
         "snapshotId": "7534088611aa4a5307332408c990203bd9886a72"
       }
-    ]
+    ],
+    "transientError": {
+      "reasons": [
+        "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://terms.line.me/line_terms/?lang=en'"
+      ]
+    }
   }
 }
