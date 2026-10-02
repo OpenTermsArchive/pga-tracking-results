@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-09-30T01:20:57.228Z",
+    "date": "2026-10-02T01:16:03.773Z",
     "serviceName": "X",
     "sourceDocuments": [
       {
@@ -22,11 +22,8 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "1bda41cc500137fe01eeae6d1605177c89828fec"
+        "snapshotId": "51a43a7413e310f143b735f70a1665e43c892ae4"
       }
-    ],
-    "reasons": [
-      "[extraction] Extract failed: The provided selector \"[\".aem-Grid\"]\" has no match in the web page at 'https://help.x.com/en/rules-and-policies/twitter-cookies'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content."
     ]
   }
 }
