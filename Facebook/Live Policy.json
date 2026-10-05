@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "event": {
-    "date": "2026-10-05T01:33:11.035Z",
+    "date": "2026-10-05T12:32:39.254Z",
     "serviceName": "Facebook",
     "sourceDocuments": [
       {
@@ -18,7 +18,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "0924a811e8ce6ae5298b4e939578bc2a8c6da29a"
+        "snapshotId": "1c479165c9347b58b2be09a0944c2b8270ab3fb2"
       },
       {
         "id": "business-help-859112078191288",
@@ -40,13 +40,8 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "45db77970981b71e690668dac3428820e6f4e00e"
+        "snapshotId": "674388fa622585b6130924bb267f005450c93136"
       }
-    ],
-    "transientError": {
-      "reasons": [
-        "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.facebook.com/business/help/859112078191288?id=1123223941353904'"
-      ]
-    }
+    ]
   }
 }
