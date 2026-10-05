@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "event": {
-    "date": "2026-09-30T00:32:49.422Z",
+    "date": "2026-10-05T01:33:13.124Z",
     "serviceName": "Facebook",
     "sourceDocuments": [
       {
@@ -19,8 +19,13 @@
           "cleanUrls"
         ],
         "mimeType": "text/html",
-        "snapshotId": "081dda77eb88cddab17c3a5363635392f8712b20"
+        "snapshotId": "55aad4e2e9ff10b13be4dd19e7ff9b82d2928b7f"
       }
-    ]
+    ],
+    "transientError": {
+      "reasons": [
+        "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://about.meta.com/actions/safety/audiences/law/guidelines'"
+      ]
+    }
   }
 }
