@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-10-07T00:53:44.842Z",
+    "date": "2026-10-07T12:48:30.370Z",
     "serviceName": "LinkedIn",
     "sourceDocuments": [
       {
@@ -15,12 +15,9 @@
           ".expandable-section__header",
           ".banner__image-container "
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "44efcfcb4a5603a0a4a16f67896c842abd37befe"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Received HTTP code 400 when trying to fetch 'https://www.linkedin.com/legal/cookie-policy'"
     ]
   }
 }
