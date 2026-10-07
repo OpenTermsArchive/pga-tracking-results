@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-10-07T00:53:54.574Z",
+    "date": "2026-10-07T12:48:46.018Z",
     "serviceName": "LinkedIn",
     "sourceDocuments": [
       {
@@ -15,7 +15,7 @@
           ".component-standaloneImage"
         ],
         "mimeType": "text/html",
-        "snapshotId": "e03a4db6deee6424603037e5571e0c86dc4ed4b6"
+        "snapshotId": "05234bef662672301dc63fe0fbefe89629dc0f96"
       },
       {
         "id": "help-linkedin-answer-a1342756",
@@ -31,7 +31,7 @@
           "[data-test-selector*=\"relativeTime-container\"]"
         ],
         "mimeType": "text/html",
-        "snapshotId": "bb2fd89ba067388a2d385d2855e1c88628ea4559"
+        "snapshotId": "e5e01cbc4a1aa1cbd21cda976fd65c03e6f994eb"
       },
       {
         "id": "help-linkedin-answer-137374",
@@ -47,7 +47,7 @@
           "[data-test-selector*=\"relativeTime-container\"]"
         ],
         "mimeType": "text/html",
-        "snapshotId": "5e02b332735729ae91eeae4c264295d6a1808896"
+        "snapshotId": "199488a3bea02fbc543546f067690dba11ab20a6"
       },
       {
         "id": "help-linkedin-answer-137376",
@@ -63,7 +63,7 @@
           "[data-test-selector*=\"relativeTime-container\"]"
         ],
         "mimeType": "text/html",
-        "snapshotId": "07118a8c51d4c8715326757c5666eca7ca169dec"
+        "snapshotId": "9f1337c07d99a5bef658e600775da019d1123291"
       },
       {
         "id": "help-linkedin-answer-137373",
@@ -79,7 +79,7 @@
           "[data-test-selector*=\"relativeTime-container\"]"
         ],
         "mimeType": "text/html",
-        "snapshotId": "98618c609c48101b4db2398199db3651d599b61c"
+        "snapshotId": "37f8db160a5cddacf4ee06373ac9008811c9320e"
       },
       {
         "id": "help-linkedin-answer-137375",
@@ -95,7 +95,7 @@
           "[data-test-selector*=\"relativeTime-container\"]"
         ],
         "mimeType": "text/html",
-        "snapshotId": "a19eea4e4d339f2ec98637588083759a78afd07e"
+        "snapshotId": "b89b7c04d3e497ee732f7bef0356a9575714b60b"
       },
       {
         "id": "help-linkedin-answer-137371",
@@ -110,8 +110,8 @@
           ".answer-footer > p",
           "[data-test-selector*=\"relativeTime-container\"]"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "c9c38d4d1553a5f9bf0d556e18b03af0d0d473b3"
       },
       {
         "id": "help-linkedin-answer-137377",
@@ -127,7 +127,7 @@
           "[data-test-selector*=\"relativeTime-container\"]"
         ],
         "mimeType": "text/html",
-        "snapshotId": "e40d3e42b88edfecee40ef7a18edff0e13544c8c"
+        "snapshotId": "5e6bdede240ed899039271cac3674822d0225a56"
       },
       {
         "id": "help-linkedin-answer-137378",
@@ -143,7 +143,7 @@
           "[data-test-selector*=\"relativeTime-container\"]"
         ],
         "mimeType": "text/html",
-        "snapshotId": "df4ed9ce1a491cd7506fcaf311f7ee873f0f41fc"
+        "snapshotId": "5478311bb903fa71b50fa2b3a4951458b22a751f"
       },
       {
         "id": "help-linkedin-answer-137370",
@@ -159,7 +159,7 @@
           "[data-test-selector*=\"relativeTime-container\"]"
         ],
         "mimeType": "text/html",
-        "snapshotId": "620a334aa64daf033e3e162d087d2d0d420c957e"
+        "snapshotId": "9ba32c24de18c37cc52e5ce73c7f439452f1acf5"
       },
       {
         "id": "help-linkedin-answer-137372",
@@ -175,11 +175,8 @@
           "[data-test-selector*=\"relativeTime-container\"]"
         ],
         "mimeType": "text/html",
-        "snapshotId": "4f49d91499337f9f38a0765efdc7139fd47e3b44"
+        "snapshotId": "2d8eef3db1c37dede7b96b774a08921c3ff50e11"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Received HTTP code 404 when trying to fetch 'https://www.linkedin.com/help/linkedin/answer/137371'"
     ]
   }
 }
