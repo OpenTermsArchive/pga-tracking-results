@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-10-07T00:53:45.316Z",
+    "date": "2026-10-07T12:48:34.330Z",
     "serviceName": "LinkedIn",
     "sourceDocuments": [
       {
@@ -13,12 +13,9 @@
         "remove": [
           ".banner__image-container"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "b02ce3fcbfc485a3f2cf901d2e90076dfc4f3007"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Received HTTP code 400 when trying to fetch 'https://www.linkedin.com/legal/user-agreement'"
     ]
   }
 }
