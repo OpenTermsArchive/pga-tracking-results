@@ -1,49 +1,28 @@
 {
-  "runId": "ota-run-fc03348b-4ac0-4e2d-9a38-fc196022d572",
+  "runId": "ota-run-10678607-0321-4904-a8b6-01493fd51617",
   "collectionId": "pga",
   "schedule": "30 */12 * * *",
   "lastRun": {
-    "startDate": "2026-10-07T00:30:17.940Z",
-    "endDate": "2026-10-07T01:34:03.480Z",
-    "engineVersion": "16.2.0",
-    "status": "completed"
+    "startDate": "2026-10-07T12:30:20.578Z",
+    "endDate": null,
+    "engineVersion": "16.3.0",
+    "status": "in_progress"
   },
   "declarations": {
-    "commit": "a65345d8999de63c6b6f25f7273d38ba647105f6",
+    "commit": "de4ac9becbf9dfe7d150336d7cb9ae9f6cf0d24e",
     "services": 26,
     "terms": 121
   },
   "tracked": {
-    "ok": 107,
-    "failed": 14
+    "ok": 0,
+    "failed": 0
   },
   "coverage": {
-    "processed": 121,
+    "processed": 0,
     "skipped": []
   },
   "transitions": {
-    "newFailures": [
-      {
-        "serviceId": "LinkedIn",
-        "termsType": "Trackers Policy"
-      },
-      {
-        "serviceId": "LinkedIn",
-        "termsType": "Terms of Service"
-      },
-      {
-        "serviceId": "LinkedIn",
-        "termsType": "Developer Terms"
-      },
-      {
-        "serviceId": "LinkedIn",
-        "termsType": "Community Guidelines"
-      },
-      {
-        "serviceId": "LinkedIn",
-        "termsType": "Advertising Content Policy"
-      }
-    ],
+    "newFailures": [],
     "recoveries": [],
     "reasonChanges": []
   },
