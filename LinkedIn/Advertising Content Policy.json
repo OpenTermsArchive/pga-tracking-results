@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-10-07T00:53:54.874Z",
+    "date": "2026-10-07T12:48:47.166Z",
     "serviceName": "LinkedIn",
     "sourceDocuments": [
       {
@@ -16,12 +16,9 @@
         "filter": [
           "removeLinks"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "4d9215c7d16bc31eb1cf941e04c14d18fbc32b4b"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Received HTTP code 400 when trying to fetch 'https://www.linkedin.com/legal/ads-policy'"
     ]
   }
 }
