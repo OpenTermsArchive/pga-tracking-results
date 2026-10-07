@@ -1,7 +1,7 @@
 {
-  "status": "ok",
+  "status": "failed",
   "event": {
-    "date": "2026-09-30T01:14:19.903Z",
+    "date": "2026-10-07T13:10:50.983Z",
     "serviceName": "TikTok",
     "sourceDocuments": [
       {
@@ -12,8 +12,11 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "d60e26e7fb67941d547626ca689338f0f2860e4d"
+        "snapshotId": "01612598e8f58a84e6b4ad7f02e7e22e5ef81f2a"
       }
+    ],
+    "reasons": [
+      "[extraction] Extract failed: The provided selector \"[\".content\"]\" has no match in the web page at 'https://www.tiktok.com/legal/copyright-policy?lang=en'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content."
     ]
   }
 }
