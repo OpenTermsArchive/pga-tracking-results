@@ -1,7 +1,7 @@
 {
-  "status": "ok",
+  "status": "failed",
   "event": {
-    "date": "2026-09-30T00:53:13.908Z",
+    "date": "2026-10-07T00:53:45.866Z",
     "serviceName": "LinkedIn",
     "sourceDocuments": [
       {
@@ -10,9 +10,12 @@
         "select": [
           "main"
         ],
-        "mimeType": "text/html",
-        "snapshotId": "126598ef82973870fc82a8a491c1066cde40a6b6"
+        "mimeType": null,
+        "snapshotId": null
       }
+    ],
+    "reasons": [
+      "[fetch] Fetch failed: Received HTTP code 400 when trying to fetch 'https://legal.linkedin.com/api-terms-of-use'"
     ]
   }
 }
