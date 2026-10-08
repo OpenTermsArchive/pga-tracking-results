@@ -1,12 +1,12 @@
 {
-  "runId": "ota-run-10678607-0321-4904-a8b6-01493fd51617",
+  "runId": "ota-run-8ad691fe-56b1-4ff6-a891-e8e9318fbc25",
   "collectionId": "pga",
   "schedule": "30 */12 * * *",
   "lastRun": {
-    "startDate": "2026-10-07T12:30:20.578Z",
-    "endDate": "2026-10-07T13:41:02.054Z",
+    "startDate": "2026-10-08T00:30:17.527Z",
+    "endDate": null,
     "engineVersion": "16.3.0",
-    "status": "completed"
+    "status": "in_progress"
   },
   "declarations": {
     "commit": "de4ac9becbf9dfe7d150336d7cb9ae9f6cf0d24e",
@@ -14,42 +14,16 @@
     "terms": 121
   },
   "tracked": {
-    "ok": 111,
-    "failed": 10
+    "ok": 0,
+    "failed": 0
   },
   "coverage": {
-    "processed": 121,
+    "processed": 0,
     "skipped": []
   },
   "transitions": {
-    "newFailures": [
-      {
-        "serviceId": "TikTok",
-        "termsType": "Copyright Claims Policy"
-      }
-    ],
-    "recoveries": [
-      {
-        "serviceId": "LinkedIn",
-        "termsType": "Trackers Policy"
-      },
-      {
-        "serviceId": "LinkedIn",
-        "termsType": "Terms of Service"
-      },
-      {
-        "serviceId": "LinkedIn",
-        "termsType": "Developer Terms"
-      },
-      {
-        "serviceId": "LinkedIn",
-        "termsType": "Community Guidelines"
-      },
-      {
-        "serviceId": "LinkedIn",
-        "termsType": "Advertising Content Policy"
-      }
-    ],
+    "newFailures": [],
+    "recoveries": [],
     "reasonChanges": []
   },
   "transientErrors": 0
