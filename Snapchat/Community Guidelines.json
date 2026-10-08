@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "event": {
-    "date": "2026-09-30T01:07:54.086Z",
+    "date": "2026-10-08T01:34:01.698Z",
     "serviceName": "Snapchat",
     "sourceDocuments": [
       {
@@ -12,8 +12,13 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "5f7a55df99eda2acf132da1365ab963031984751"
+        "snapshotId": "7966ff51cc55ac8c6919d1e9f3aac0179d35a831"
       }
-    ]
+    ],
+    "transientError": {
+      "reasons": [
+        "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.snap.com/en-GB/community-guidelines'"
+      ]
+    }
   }
 }
