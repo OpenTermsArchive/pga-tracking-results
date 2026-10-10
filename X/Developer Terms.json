@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "event": {
-    "date": "2026-10-09T13:33:32.847Z",
+    "date": "2026-10-10T01:20:39.415Z",
     "serviceName": "X",
     "sourceDocuments": [
       {
@@ -17,7 +17,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "d8e4ba1099d2db61ca9f5f457ed6ae26313902b6"
+        "snapshotId": "6dcec3937d739a49b1dedb2ac62e7b5302eee2c8"
       },
       {
         "id": "developer-terms-policy",
@@ -32,7 +32,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "51b6d4b12539d3500196ab8ffe33bc854bcd70ed"
+        "snapshotId": "a332d3da6b486e18bb381597407db8a8ed115064"
       },
       {
         "id": "developer-terms-ads-api-agreement",
@@ -47,7 +47,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "f9f2e44faa995a2a89a2e473228deb8eb2181b57"
+        "snapshotId": "bba90b4b06f7a034ee8c9a27f70282e568e8411a"
       },
       {
         "id": "developer-terms-ppu-agreement",
@@ -62,7 +62,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "9623b5a31794f46103de457144eff2b50903806e"
+        "snapshotId": "8ce713fd1423a15e65e77e3965a9e06531f61fbe"
       },
       {
         "id": "developer-terms-restricted-use-cases",
@@ -77,7 +77,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "cab686e9b2f0cca6bd7da899a62494db01ff3afa"
+        "snapshotId": "ea2cd04151b0ef95aff8c33c3ef1d0fae7fab78c"
       },
       {
         "id": "developer-terms-geo-guidelines",
@@ -92,7 +92,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "ad070a251e3d50819c1888759637004e6810e458"
+        "snapshotId": "4466946c27955bc4c3e97951793ca35e5b2ffde4"
       },
       {
         "id": "developer-terms-display-requirements",
@@ -107,13 +107,8 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "cf7b24300d88ce90043d3ef640434d176808cce3"
+        "snapshotId": "4891e5c7de7ab941bc5da4ff46ae9fb92b7c5fd6"
       }
-    ],
-    "transientError": {
-      "reasons": [
-        "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://docs.x.com/developer-terms/display-requirements'"
-      ]
-    }
+    ]
   }
 }
