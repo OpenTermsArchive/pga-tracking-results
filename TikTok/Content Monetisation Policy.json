@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "event": {
-    "date": "2026-09-30T01:15:14.477Z",
+    "date": "2026-10-12T13:34:30.748Z",
     "serviceName": "TikTok",
     "sourceDocuments": [
       {
@@ -17,7 +17,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "28700c31cb975e1214703ee48dc42130b9cc2ece"
+        "snapshotId": "726d984cacb024b4dd686a29d354d856b2dc1360"
       },
       {
         "id": "legal-page-global-tiktok-creator-fund-terms-en",
@@ -30,7 +30,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "ed465613f0d9a1d39761c4d2cf0172c7964338cc"
+        "snapshotId": "96cf188f6b18156edd1bee888049d3d22ed36c27"
       },
       {
         "id": "legal-page-global-creator-rewards-program-us-en",
@@ -43,8 +43,13 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "64518f4f2b9e9a087a79b0de268ca399908dd296"
+        "snapshotId": "5d8cba562834205fa503b54001648712591a962d"
       }
-    ]
+    ],
+    "transientError": {
+      "reasons": [
+        "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.tiktok.com/legal/page/global/tiktok-creator-fund-terms/en'"
+      ]
+    }
   }
 }
