@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "event": {
-    "date": "2026-10-12T13:34:30.748Z",
+    "date": "2026-10-13T01:15:40.241Z",
     "serviceName": "TikTok",
     "sourceDocuments": [
       {
@@ -43,13 +43,8 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "5d8cba562834205fa503b54001648712591a962d"
+        "snapshotId": "8712962958581bab740d52f40270414c02809e07"
       }
-    ],
-    "transientError": {
-      "reasons": [
-        "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.tiktok.com/legal/page/global/tiktok-creator-fund-terms/en'"
-      ]
-    }
+    ]
   }
 }
