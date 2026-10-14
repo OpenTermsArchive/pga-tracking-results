@@ -1,12 +1,12 @@
 {
-  "runId": "ota-run-3ad69dd8-45a5-45a0-8237-2596b14e3dc8",
+  "runId": "ota-run-008178a4-f1a3-4e13-8d61-f6b4115cf0f5",
   "collectionId": "pga",
   "schedule": "30 */12 * * *",
   "lastRun": {
-    "startDate": "2026-10-13T12:30:21.640Z",
-    "endDate": "2026-10-13T13:33:55.131Z",
+    "startDate": "2026-10-14T00:30:17.881Z",
+    "endDate": null,
     "engineVersion": "16.3.0",
-    "status": "completed"
+    "status": "in_progress"
   },
   "declarations": {
     "commit": "de4ac9becbf9dfe7d150336d7cb9ae9f6cf0d24e",
@@ -14,21 +14,16 @@
     "terms": 121
   },
   "tracked": {
-    "ok": 112,
-    "failed": 9
+    "ok": 0,
+    "failed": 0
   },
   "coverage": {
-    "processed": 121,
+    "processed": 0,
     "skipped": []
   },
   "transitions": {
     "newFailures": [],
-    "recoveries": [
-      {
-        "serviceId": "Facebook",
-        "termsType": "Community Guidelines"
-      }
-    ],
+    "recoveries": [],
     "reasonChanges": []
   },
   "transientErrors": 0
