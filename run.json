@@ -4,9 +4,9 @@
   "schedule": "30 */12 * * *",
   "lastRun": {
     "startDate": "2026-10-15T00:30:17.697Z",
-    "endDate": null,
+    "endDate": "2026-10-15T01:29:22.479Z",
     "engineVersion": "16.3.0",
-    "status": "in_progress"
+    "status": "completed"
   },
   "declarations": {
     "commit": "8ad9a2392584374ec5ca816b05500a49c88087cc",
@@ -14,16 +14,54 @@
     "terms": 121
   },
   "tracked": {
-    "ok": 0,
-    "failed": 0
+    "ok": 118,
+    "failed": 3
   },
   "coverage": {
-    "processed": 0,
+    "processed": 121,
     "skipped": []
   },
   "transitions": {
-    "newFailures": [],
-    "recoveries": [],
+    "newFailures": [
+      {
+        "serviceId": "TikTok",
+        "termsType": "Privacy Policy"
+      }
+    ],
+    "recoveries": [
+      {
+        "serviceId": "X",
+        "termsType": "Copyright Claims Policy"
+      },
+      {
+        "serviceId": "X",
+        "termsType": "Law Enforcement Guidelines"
+      },
+      {
+        "serviceId": "X",
+        "termsType": "Data Processor Agreement"
+      },
+      {
+        "serviceId": "X",
+        "termsType": "Community Guidelines"
+      },
+      {
+        "serviceId": "X",
+        "termsType": "Deceased Users"
+      },
+      {
+        "serviceId": "X",
+        "termsType": "Data Controller Agreement"
+      },
+      {
+        "serviceId": "X",
+        "termsType": "Content Monetisation Policy"
+      },
+      {
+        "serviceId": "X",
+        "termsType": "Advertising Content Policy"
+      }
+    ],
     "reasonChanges": []
   },
   "transientErrors": 0
