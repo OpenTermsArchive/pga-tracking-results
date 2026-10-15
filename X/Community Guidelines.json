@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-09-30T01:28:26.257Z",
+    "date": "2026-10-15T01:24:19.825Z",
     "serviceName": "X",
     "sourceDocuments": [
       {
@@ -11,16 +11,17 @@
           "main"
         ],
         "remove": [
-          "[class^=u11__]",
-          "h4.b01__headline",
-          "button.b24--jumbo"
+          "footer",
+          "nav",
+          "button",
+          "img"
         ],
         "filter": [
           "useXHelpCenterBaseURL"
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "4e95c293fc79ba06f4f8bf90d48e1e4d24e03c3e"
+        "snapshotId": "070f611ae3f57eeaededb19d93b619ee94741e85"
       },
       {
         "id": "en-rules-and-policies-violent-content",
@@ -29,16 +30,17 @@
           "main"
         ],
         "remove": [
-          "[class^=u11__]",
-          "h4.b01__headline",
-          "button.b24--jumbo"
+          "footer",
+          "nav",
+          "button",
+          "img"
         ],
         "filter": [
           "useXHelpCenterBaseURL"
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "dcd61a2bbb8b1b8047c4eed0ca62161939f68555"
+        "snapshotId": "a2b141cbe97a3fa8309bd244ef69c703380d6b65"
       },
       {
         "id": "en-rules-and-policies-violent-entities",
@@ -47,16 +49,17 @@
           "main"
         ],
         "remove": [
-          "[class^=u11__]",
-          "h4.b01__headline",
-          "button.b24--jumbo"
+          "footer",
+          "nav",
+          "button",
+          "img"
         ],
         "filter": [
           "useXHelpCenterBaseURL"
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "57c119216680617b678230d9fc51188f1c72a30c"
+        "snapshotId": "67c9d6938ecc9e1d2e312504332d8fe3540f5a97"
       },
       {
         "id": "en-rules-and-policies-child-safety",
@@ -65,16 +68,17 @@
           "main"
         ],
         "remove": [
-          "[class^=u11__]",
-          "h4.b01__headline",
-          "button.b24--jumbo"
+          "footer",
+          "nav",
+          "button",
+          "img"
         ],
         "filter": [
           "useXHelpCenterBaseURL"
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "2c5fe5983b2d0f8dd20fa177c9cf603182612ff5"
+        "snapshotId": "c9e34ce00623db00860c5ff9195b3a3ab3b9ff7d"
       },
       {
         "id": "en-rules-and-policies-abusive-behavior",
@@ -83,16 +87,17 @@
           "main"
         ],
         "remove": [
-          "[class^=u11__]",
-          "h4.b01__headline",
-          "button.b24--jumbo"
+          "footer",
+          "nav",
+          "button",
+          "img"
         ],
         "filter": [
           "useXHelpCenterBaseURL"
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "8316ff258c828a9298f742c9e46dcc5ac3b05c31"
+        "snapshotId": "3303dc3706769848a17d831fb62f92e0d420de37"
       },
       {
         "id": "en-rules-and-policies-hateful-conduct-policy",
@@ -101,16 +106,17 @@
           "main"
         ],
         "remove": [
-          "[class^=u11__]",
-          "h4.b01__headline",
-          "button.b24--jumbo"
+          "footer",
+          "nav",
+          "button",
+          "img"
         ],
         "filter": [
           "useXHelpCenterBaseURL"
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "7c6041286d6b59d91915f643bc27c96d714e3759"
+        "snapshotId": "cc8fceb07ba3fc2135fe19e704bee378b6e84a79"
       },
       {
         "id": "en-rules-and-policies-perpetrators-of-violent-attacks",
@@ -119,16 +125,17 @@
           "main"
         ],
         "remove": [
-          "[class^=u11__]",
-          "h4.b01__headline",
-          "button.b24--jumbo"
+          "footer",
+          "nav",
+          "button",
+          "img"
         ],
         "filter": [
           "useXHelpCenterBaseURL"
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "afe6b98f46931e13258f20bd75410af4e4c124b3"
+        "snapshotId": "8a261927908a754e4ef1ac214c5ada441dfb78bb"
       },
       {
         "id": "en-rules-and-policies-glorifying-self-harm",
@@ -137,16 +144,17 @@
           "main"
         ],
         "remove": [
-          "[class^=u11__]",
-          "h4.b01__headline",
-          "button.b24--jumbo"
+          "footer",
+          "nav",
+          "button",
+          "img"
         ],
         "filter": [
           "useXHelpCenterBaseURL"
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "b3e599811a7c08f8d7f01b0fb89d81dc8eb1f1f2"
+        "snapshotId": "38d266bf0de55354a4d5591137928f0b02a78ad2"
       },
       {
         "id": "en-rules-and-policies-adult-content",
@@ -155,16 +163,17 @@
           "main"
         ],
         "remove": [
-          "[class^=u11__]",
-          "h4.b01__headline",
-          "button.b24--jumbo"
+          "footer",
+          "nav",
+          "button",
+          "img"
         ],
         "filter": [
           "useXHelpCenterBaseURL"
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "cdbadb8aa98267feff9173e471e4988def6fcacf"
+        "snapshotId": "f0c4868ba2bb90d9b89d5fb16a6c3a845acc6050"
       },
       {
         "id": "en-rules-and-policies-shopping-policies",
@@ -173,16 +182,17 @@
           "main"
         ],
         "remove": [
-          "[class^=u11__]",
-          "h4.b01__headline",
-          "button.b24--jumbo"
+          "footer",
+          "nav",
+          "button",
+          "img"
         ],
         "filter": [
           "useXHelpCenterBaseURL"
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "05d630505e34ce8f1de3ce78671fe64758cb4932"
+        "snapshotId": "02092b1a79ed74d632d89da08e1b81e3dc51241f"
       },
       {
         "id": "en-rules-and-policies-personal-information",
@@ -191,16 +201,17 @@
           "main"
         ],
         "remove": [
-          "[class^=u11__]",
-          "h4.b01__headline",
-          "button.b24--jumbo"
+          "footer",
+          "nav",
+          "button",
+          "img"
         ],
         "filter": [
           "useXHelpCenterBaseURL"
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "580b9e7d6ef11fe98fdfad47aed633fa99460cc4"
+        "snapshotId": "ec4945747133ac0a8a00d00120ce87ede8391fc8"
       },
       {
         "id": "en-rules-and-policies-intimate-media",
@@ -209,16 +220,17 @@
           "main"
         ],
         "remove": [
-          "[class^=u11__]",
-          "h4.b01__headline",
-          "button.b24--jumbo"
+          "footer",
+          "nav",
+          "button",
+          "img"
         ],
         "filter": [
           "useXHelpCenterBaseURL"
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "84e0a48f3b7b74fa4ca4bf338ff75f75e6d24fbe"
+        "snapshotId": "cf4efcbd20291283d726c51de99480c9bc8c03fa"
       },
       {
         "id": "en-rules-and-policies-platform-manipulation",
@@ -227,16 +239,17 @@
           "main"
         ],
         "remove": [
-          "[class^=u11__]",
-          "h4.b01__headline",
-          "button.b24--jumbo"
+          "footer",
+          "nav",
+          "button",
+          "img"
         ],
         "filter": [
           "useXHelpCenterBaseURL"
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "c16ce7cda604b1353a5d10c76356e2c2cfb54669"
+        "snapshotId": "cf7fe00ad026098cb7e32843bc7981228237aca7"
       },
       {
         "id": "en-rules-and-policies-election-integrity-policy",
@@ -245,16 +258,17 @@
           "main"
         ],
         "remove": [
-          "[class^=u11__]",
-          "h4.b01__headline",
-          "button.b24--jumbo"
+          "footer",
+          "nav",
+          "button",
+          "img"
         ],
         "filter": [
           "useXHelpCenterBaseURL"
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "03176015d18373433bb88194ba0fdeb962ae8738"
+        "snapshotId": "8bacf770567a1977a91baf9eeb459b6bc441891d"
       },
       {
         "id": "en-rules-and-policies-twitter-impersonation-and-deceptive-identities-policy",
@@ -263,16 +277,17 @@
           "main"
         ],
         "remove": [
-          "[class^=u11__]",
-          "h4.b01__headline",
-          "button.b24--jumbo"
+          "footer",
+          "nav",
+          "button",
+          "img"
         ],
         "filter": [
           "useXHelpCenterBaseURL"
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "d72f7c9f3dd7a67125f54f634bde973d81861047"
+        "snapshotId": "1c2d54d2a9d924f3affa8470826a57fbbc923334"
       },
       {
         "id": "en-rules-and-policies-manipulated-media",
@@ -281,16 +296,17 @@
           "main"
         ],
         "remove": [
-          "[class^=u11__]",
-          "h4.b01__headline",
-          "button.b24--jumbo"
+          "footer",
+          "nav",
+          "button",
+          "img"
         ],
         "filter": [
           "useXHelpCenterBaseURL"
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "692e6e49cc9158feb5271cd2ed408487b36e7888"
+        "snapshotId": "a08a4db0fd4b36ed21b2cd5bf7b0d20736d9ca6f"
       },
       {
         "id": "en-rules-and-policies-x-trademark-policy",
@@ -299,16 +315,17 @@
           "main"
         ],
         "remove": [
-          "[class^=u11__]",
-          "h4.b01__headline",
-          "button.b24--jumbo"
+          "footer",
+          "nav",
+          "button",
+          "img"
         ],
         "filter": [
           "useXHelpCenterBaseURL"
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "1ae505a9c308a0d3caf6c4aa3f11a1e6e32df112"
+        "snapshotId": "f4536fce75b24cfd1b4ce6da600ec8bdbf7b47e9"
       },
       {
         "id": "en-rules-and-policies-x-username-squatting",
@@ -317,16 +334,17 @@
           "main"
         ],
         "remove": [
-          "[class^=u11__]",
-          "h4.b01__headline",
-          "button.b24--jumbo"
+          "footer",
+          "nav",
+          "button",
+          "img"
         ],
         "filter": [
           "useXHelpCenterBaseURL"
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "6f1b7b90ff4ef87bd727c8cf54bbd64d6b642b9c"
+        "snapshotId": "ee3fda15dd337d2285f5c0dd929c20e70326cf1a"
       },
       {
         "id": "en-rules-and-policies-copypasta-duplicate-content",
@@ -335,16 +353,17 @@
           "main"
         ],
         "remove": [
-          "[class^=u11__]",
-          "h4.b01__headline",
-          "button.b24--jumbo"
+          "footer",
+          "nav",
+          "button",
+          "img"
         ],
         "filter": [
           "useXHelpCenterBaseURL"
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "0d36ba7af777cea0b469e2244b9394b1f0970c7b"
+        "snapshotId": "7ac23565669cecba038762581d00b148ae655446"
       },
       {
         "id": "en-rules-and-policies-financial-scam",
@@ -353,16 +372,17 @@
           "main"
         ],
         "remove": [
-          "[class^=u11__]",
-          "h4.b01__headline",
-          "button.b24--jumbo"
+          "footer",
+          "nav",
+          "button",
+          "img"
         ],
         "filter": [
           "useXHelpCenterBaseURL"
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "9c4447a03e38b61b2888942bba8c86b1ac7dc026"
+        "snapshotId": "59d1994a535cd1a57abd71b4c4e746623f16722d"
       },
       {
         "id": "en-rules-and-policies-abusive-profile",
@@ -371,16 +391,17 @@
           "main"
         ],
         "remove": [
-          "[class^=u11__]",
-          "h4.b01__headline",
-          "button.b24--jumbo"
+          "footer",
+          "nav",
+          "button",
+          "img"
         ],
         "filter": [
           "useXHelpCenterBaseURL"
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "b48d9da7ea292d97b7a9e41a381362a2d4ea6155"
+        "snapshotId": "7f19f51acbb942394f1d95543def479a97767489"
       },
       {
         "id": "en-rules-and-policies-automated-claims-policy",
@@ -389,16 +410,17 @@
           "main"
         ],
         "remove": [
-          "[class^=u11__]",
-          "h4.b01__headline",
-          "button.b24--jumbo"
+          "footer",
+          "nav",
+          "button",
+          "img"
         ],
         "filter": [
           "useXHelpCenterBaseURL"
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "9a030f93d472e3cddb1653e554a4d259edfd797d"
+        "snapshotId": "00a785860337acc0e59573fbdf0def25d4ebc572"
       },
       {
         "id": "en-rules-and-policies-counterfeit-goods-policy",
@@ -407,16 +429,17 @@
           "main"
         ],
         "remove": [
-          "[class^=u11__]",
-          "h4.b01__headline",
-          "button.b24--jumbo"
+          "footer",
+          "nav",
+          "button",
+          "img"
         ],
         "filter": [
           "useXHelpCenterBaseURL"
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "ebf8eda3479619f91b2e7a7a29a5cf62e661de73"
+        "snapshotId": "a9ec4f3d74d92bc882a0f632dff35220aa5fb7a6"
       },
       {
         "id": "en-rules-and-policies-public-interest",
@@ -425,16 +448,17 @@
           "main"
         ],
         "remove": [
-          "[class^=u11__]",
-          "h4.b01__headline",
-          "button.b24--jumbo"
+          "footer",
+          "nav",
+          "button",
+          "img"
         ],
         "filter": [
           "useXHelpCenterBaseURL"
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "a22b21537ce2a05d581c70be1779a238e57bccf2"
+        "snapshotId": "4c3257a2eb146e6d27c5065518e53a7559691552"
       },
       {
         "id": "en-rules-and-policies-x-limits",
@@ -443,16 +467,17 @@
           "main"
         ],
         "remove": [
-          "[class^=u11__]",
-          "h4.b01__headline",
-          "button.b24--jumbo"
+          "footer",
+          "nav",
+          "button",
+          "img"
         ],
         "filter": [
           "useXHelpCenterBaseURL"
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "18a1490e5bd39cbc05f42f940c5d88615805f1f4"
+        "snapshotId": "112bea92560e1116bb39fd053c156ba6a61acc22"
       },
       {
         "id": "en-rules-and-policies-x-reach-limited",
@@ -461,16 +486,17 @@
           "main"
         ],
         "remove": [
-          "[class^=u11__]",
-          "h4.b01__headline",
-          "button.b24--jumbo"
+          "footer",
+          "nav",
+          "button",
+          "img"
         ],
         "filter": [
           "useXHelpCenterBaseURL"
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "f5b16565e143e896932d0954a176bd8873f57c6f"
+        "snapshotId": "427ff507936de7dd7e88b18e40f6588059ea4612"
       },
       {
         "id": "en-rules-and-policies-enforcement-options",
@@ -479,16 +505,17 @@
           "main"
         ],
         "remove": [
-          "[class^=u11__]",
-          "h4.b01__headline",
-          "button.b24--jumbo"
+          "footer",
+          "nav",
+          "button",
+          "img"
         ],
         "filter": [
           "useXHelpCenterBaseURL"
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "52e36bf2e6a3da2f7edb6e7e9495c66e05733a68"
+        "snapshotId": "7aab88483690897265c345e8d3e2a973916cf957"
       },
       {
         "id": "en-rules-and-policies-x-moments-guidelines-and-principles",
@@ -497,16 +524,17 @@
           "main"
         ],
         "remove": [
-          "[class^=u11__]",
-          "h4.b01__headline",
-          "button.b24--jumbo"
+          "footer",
+          "nav",
+          "button",
+          "img"
         ],
         "filter": [
           "useXHelpCenterBaseURL"
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "332487afdf46a274f854bafb28a1fd28c16a5857"
+        "snapshotId": "f612d6d1717d567142ddd4d501131514d7b7e499"
       },
       {
         "id": "en-rules-and-policies-fair-use-policy",
@@ -515,25 +543,23 @@
           "main"
         ],
         "remove": [
-          "[class^=u11__]",
-          "h4.b01__headline",
-          "button.b24--jumbo"
+          "footer",
+          "nav",
+          "button",
+          "img"
         ],
         "filter": [
           "useXHelpCenterBaseURL"
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "599efb0c760fbcada7870636350c9b5450234766"
+        "snapshotId": "89d21f0d48b13c94a2c65d845546784bd703a62c"
       },
       {
         "id": "en-rules-and-policies-copyright-policy",
         "fetch": "https://help.x.com/en/rules-and-policies/copyright-policy",
         "select": [
-          {
-            "startBefore": "h1",
-            "endBefore": "[class*=\"share-tweet\"]"
-          }
+          "main"
         ],
         "remove": [
           "[class*=\"twtr-type--headline-md\"]"
@@ -543,7 +569,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "616e87f6d3fba5a80cef1301a029168b816abd9d"
+        "snapshotId": "2f36ace16613ee60da1abc669955da02e94b51f6"
       },
       {
         "id": "en-rules-and-policies-enforcement-philosophy",
@@ -552,20 +578,18 @@
           "main"
         ],
         "remove": [
-          "[class^=u11__]",
-          "h4.b01__headline",
-          "button.b24--jumbo"
+          "footer",
+          "nav",
+          "button",
+          "img"
         ],
         "filter": [
           "useXHelpCenterBaseURL"
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "6f65e9008aa6679fa16aeccab7670f7d27fc0197"
+        "snapshotId": "dd8c337ec29c72e5a8d8a5ac922b5e6d22b47f93"
       }
-    ],
-    "reasons": [
-      "[extraction] Extract failed: The \"end\" selector has no match in document in: {\"startBefore\":\"h1\",\"endBefore\":\"[class*=\\\"share-tweet\\\"]\"}"
     ]
   }
 }
