@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "event": {
-    "date": "2026-10-16T13:33:55.822Z",
+    "date": "2026-10-17T00:47:56.940Z",
     "serviceName": "Instagram",
     "sourceDocuments": [
       {
@@ -28,7 +28,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "8b8fcf43a3de4a801c75d9788b20bd0d861bb786"
+        "snapshotId": "072401c6d64a5c0960a58a0232cb906dfd3f36da"
       },
       {
         "id": "business-help-976993102696723",
@@ -53,13 +53,8 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "1981df2e910219412292392c7b12d19a8039f3e3"
+        "snapshotId": "d8551e9a5fd32d13da2b4decc69f6df7d9249cb4"
       }
-    ],
-    "transientError": {
-      "reasons": [
-        "[fetch] Fetch failed: Received HTTP code 500 when trying to fetch 'https://www.facebook.com/business/help/976993102696723'"
-      ]
-    }
+    ]
   }
 }
