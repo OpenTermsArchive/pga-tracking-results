@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "event": {
-    "date": "2026-10-16T13:34:24.480Z",
+    "date": "2026-10-17T01:17:40.039Z",
     "serviceName": "X",
     "sourceDocuments": [
       {
@@ -21,13 +21,8 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "07a340e3d119daad4767e599dc997266dff65180"
+        "snapshotId": "b058461adc773bae68bad1b6ace90dcaa8e64326"
       }
-    ],
-    "transientError": {
-      "reasons": [
-        "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://help.x.com/en/rules-and-policies/twitter-cookies'"
-      ]
-    }
+    ]
   }
 }
