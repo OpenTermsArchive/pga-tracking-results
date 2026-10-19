@@ -1,7 +1,7 @@
 {
-  "status": "ok",
+  "status": "failed",
   "event": {
-    "date": "2026-09-30T01:00:04.712Z",
+    "date": "2026-10-19T12:59:15.676Z",
     "serviceName": "Reddit",
     "sourceDocuments": [
       {
@@ -15,7 +15,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "3207e1da510c9d200cd70fee89bd07a24f579753"
+        "snapshotId": "f51d970fbf131982764f961c92bc870b4134789e"
       },
       {
         "id": "hc-en-us-articles-360043071072",
@@ -29,7 +29,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "5afd50e10c7eb05e0f54dca11a99a02430d4e4ec"
+        "snapshotId": "06b8795bc206e5ba73efd0e5a3f955711b053e4a"
       },
       {
         "id": "hc-en-us-articles-360043513151",
@@ -43,7 +43,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "12595b7430b57ccdbcaa8c766471e73d4661e393"
+        "snapshotId": null
       },
       {
         "id": "hc-en-us-articles-360045715951",
@@ -57,7 +57,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "7f55284e4d8f818bc907a1fc689e75db78fdb0a8"
+        "snapshotId": "8c0fe0b6f560070f15ab4cc0e094d7ec636f51eb"
       },
       {
         "id": "hc-en-us-articles-360043504051",
@@ -71,7 +71,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "e356e6ad5f5ccc442596c0c67ca36faf6302e848"
+        "snapshotId": "9579af8007eb04e25f88c50d8223fda8106e527d"
       },
       {
         "id": "hc-en-us-articles-360043066412",
@@ -84,8 +84,8 @@
           "[data-prevnext]"
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "3b73cd699250237256e61d7edd4b22d29d29f409"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "hc-en-us-articles-360043066452",
@@ -99,7 +99,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "03043976045fc4e17fcd6386692fe03dcb0e13b2"
+        "snapshotId": "cff5df0242269eb80ae0a5ac00ca1802d2c6e19b"
       },
       {
         "id": "hc-en-us-articles-360043513411",
@@ -113,7 +113,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "4ddf4d7802573c240583754df47b020b3693fd52"
+        "snapshotId": "51f9f5337c97bef6883ac953b5d2047f5a6f4f85"
       },
       {
         "id": "hc-en-us-articles-360043075352",
@@ -127,7 +127,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "6bcd06188cee8a348e4bff56d6fc45cbc76af53d"
+        "snapshotId": "318e75eea64e2a427c126c09fb1a0867ae75440d"
       },
       {
         "id": "hc-en-us-articles-360043075032",
@@ -141,7 +141,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "d4b0e9fe1ae35f8709c91580971460e508ed5c41"
+        "snapshotId": "aadfb43197f11fd1ef1e4deadca320236dcae7b3"
       },
       {
         "id": "hc-en-us-articles-360043513471",
@@ -155,7 +155,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "820804f3b863aa3b84260abf889711705ef7bbdf"
+        "snapshotId": "88a4f82d94ad5a8bd03d94b047cb5ad4517ca59c"
       },
       {
         "id": "hc-en-us-articles-360043512931",
@@ -169,8 +169,11 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "460b51ba9d6d31db3e1c864d7a706a57dbbad2b3"
+        "snapshotId": "2accb8a0c74f1976458c32ae231bb7a6d1ebb695"
       }
+    ],
+    "reasons": [
+      "[fetch] Fetch failed: Target.createTarget timed out. Increase the 'protocolTimeout' setting in launch/connect calls for a higher timeout if needed."
     ]
   }
 }
