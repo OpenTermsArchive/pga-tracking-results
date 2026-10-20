@@ -1,12 +1,12 @@
 {
-  "runId": "ota-run-5da6995a-1075-4d95-ba81-8697e6eba6ae",
+  "runId": "ota-run-e33a5f41-64f0-44f8-8382-c1af22b10181",
   "collectionId": "pga",
   "schedule": "30 */12 * * *",
   "lastRun": {
-    "startDate": "2026-10-19T12:30:17.876Z",
-    "endDate": "2026-10-19T13:34:11.848Z",
+    "startDate": "2026-10-20T00:30:17.891Z",
+    "endDate": null,
     "engineVersion": "16.3.0",
-    "status": "completed"
+    "status": "in_progress"
   },
   "declarations": {
     "commit": "539ce30c157fe623393a73f23d2b2aa62dd26ee7",
@@ -14,20 +14,15 @@
     "terms": 121
   },
   "tracked": {
-    "ok": 119,
-    "failed": 2
+    "ok": 0,
+    "failed": 0
   },
   "coverage": {
-    "processed": 121,
+    "processed": 0,
     "skipped": []
   },
   "transitions": {
-    "newFailures": [
-      {
-        "serviceId": "Reddit",
-        "termsType": "Community Guidelines"
-      }
-    ],
+    "newFailures": [],
     "recoveries": [],
     "reasonChanges": []
   },
