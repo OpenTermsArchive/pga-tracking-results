@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "event": {
-    "date": "2026-10-20T00:55:45.835Z",
+    "date": "2026-10-20T13:36:59.096Z",
     "serviceName": "Reddit",
     "sourceDocuments": [
       {
@@ -15,7 +15,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "2014cb0b9a330df9734e52b9cb07effe3afe37e0"
+        "snapshotId": "6264edc112f141702f0e90539797d4be4532edb4"
       },
       {
         "id": "hc-en-us-articles-360043071072",
@@ -29,7 +29,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "080a2f5337134adac59623ef8d60045bc167bf47"
+        "snapshotId": "f3b1d8d8d19e4dd5a55820767009cf55e284728c"
       },
       {
         "id": "hc-en-us-articles-360043513151",
@@ -43,7 +43,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "389f75a48ee4cd051f1c614c4729a1114af09f9b"
+        "snapshotId": "ab26bd6f2276143be671b5a7ed2f0c3479a4359e"
       },
       {
         "id": "hc-en-us-articles-360045715951",
@@ -57,7 +57,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "02eec10b5ee3f7c058a9f5c550e4e4ad74846f65"
+        "snapshotId": "fd9a04c37ffcc8e25aa7f5078402734b70da642a"
       },
       {
         "id": "hc-en-us-articles-360043504051",
@@ -71,7 +71,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "ff78f794542a52ed564429c0fb358c8e574e3215"
+        "snapshotId": "4e53093409d30496daccbdf664e4cb50cfe76aa4"
       },
       {
         "id": "hc-en-us-articles-360043066412",
@@ -85,7 +85,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "f569f7f99664344d25903c77fa500c17982bcd78"
+        "snapshotId": "340ebb979e4dbca406683811f1d75cf3287b8fe2"
       },
       {
         "id": "hc-en-us-articles-360043066452",
@@ -99,7 +99,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "e7d0dbfecf7ea139d0d8ee18c6b6abae92ab718f"
+        "snapshotId": "b3f7ebe26ef20b3fde6b40ad6ea0de0e6b0a8b78"
       },
       {
         "id": "hc-en-us-articles-360043513411",
@@ -113,7 +113,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "8db4300be9b9a2f2233acb29a4580305d56dcf15"
+        "snapshotId": "ae2d119c5d66ef3565041d7e3344afb383ee5b78"
       },
       {
         "id": "hc-en-us-articles-360043075352",
@@ -127,7 +127,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "2bcf03c4eaec95ad18cdcee1f2e77403b8c30a75"
+        "snapshotId": "272c39575a4f9afaf3e8c81a7277a4e0b761b6d1"
       },
       {
         "id": "hc-en-us-articles-360043075032",
@@ -141,7 +141,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "7dadb3e4bd179fa36f2c55a4e995328a915d9874"
+        "snapshotId": "ef40d33a0e245cde22964363e63377ad1be103f9"
       },
       {
         "id": "hc-en-us-articles-360043513471",
@@ -155,7 +155,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "00cd0f5f2ae213aa5ddf31b912f179f07427807d"
+        "snapshotId": "f93d9bccadc6725b275361095143aa3b75f333f2"
       },
       {
         "id": "hc-en-us-articles-360043512931",
@@ -169,8 +169,14 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "fbc7dc5236e49429081ab93386a83b6772c0e06b"
+        "snapshotId": "81289827a202051e873a1dd989ffaff2bae7fe67"
       }
-    ]
+    ],
+    "transientError": {
+      "reasons": [
+        "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.reddithelp.com/hc/en-us/articles/360043513471'",
+        "[fetch] Fetch failed: net::ERR_NAME_NOT_RESOLVED at https://www.reddithelp.com/hc/en-us/articles/360043512931"
+      ]
+    }
   }
 }
