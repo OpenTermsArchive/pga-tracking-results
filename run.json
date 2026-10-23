@@ -1,33 +1,28 @@
 {
-  "runId": "ota-run-2ef18655-14b7-4cbd-b3aa-1663d6a79676",
+  "runId": "ota-run-f9b999e4-41d0-4473-8a64-5e5afdd821c5",
   "collectionId": "pga",
   "schedule": "30 */12 * * *",
   "lastRun": {
-    "startDate": "2026-10-22T12:30:26.810Z",
-    "endDate": "2026-10-22T13:40:28.244Z",
+    "startDate": "2026-10-23T00:30:19.561Z",
+    "endDate": null,
     "engineVersion": "16.3.0",
-    "status": "completed"
+    "status": "in_progress"
   },
   "declarations": {
-    "commit": "539ce30c157fe623393a73f23d2b2aa62dd26ee7",
+    "commit": "8cdcfeb6d9dfa098234e8cf132651515b37f2b51",
     "services": 26,
     "terms": 121
   },
   "tracked": {
-    "ok": 119,
-    "failed": 2
+    "ok": 0,
+    "failed": 0
   },
   "coverage": {
-    "processed": 121,
+    "processed": 0,
     "skipped": []
   },
   "transitions": {
-    "newFailures": [
-      {
-        "serviceId": "YouTube",
-        "termsType": "Community Guidelines"
-      }
-    ],
+    "newFailures": [],
     "recoveries": [],
     "reasonChanges": []
   },
