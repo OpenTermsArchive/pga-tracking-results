@@ -1,7 +1,7 @@
 {
-  "status": "ok",
+  "status": "failed",
   "event": {
-    "date": "2026-09-30T01:17:39.703Z",
+    "date": "2026-10-23T13:18:07.686Z",
     "serviceName": "Twitch",
     "sourceDocuments": [
       {
@@ -12,9 +12,12 @@
           ".xl\\:sticky"
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "4b85245ec346aa86a3291b8d44984fae8e7157bc"
+        "mimeType": null,
+        "snapshotId": null
       }
+    ],
+    "reasons": [
+      "[fetch] Fetch failed: Connection closed."
     ]
   }
 }
