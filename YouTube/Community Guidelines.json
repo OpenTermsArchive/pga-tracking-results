@@ -1,14 +1,14 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-10-22T13:40:20.997Z",
+    "date": "2026-10-23T01:33:10.013Z",
     "serviceName": "YouTube",
     "sourceDocuments": [
       {
         "id": "intl-ALL_en-howyoutubeworks-policies-community-guidelines",
         "fetch": "https://www.youtube.com/intl/ALL_en/howyoutubeworks/policies/community-guidelines/",
         "select": [
-          "#content"
+          "main"
         ],
         "remove": [
           ".ytr-hero__eyebrow",
@@ -16,10 +16,13 @@
           ".ytr-media",
           "#how-we-support-creators img",
           "#content .hero-section .lb-grid__cell--span-12",
-          "#our-policies-explore-more > div"
+          "#our-policies-explore-more > div",
+          "img",
+          ".glue-grid",
+          ".glue-footer__upper"
         ],
         "mimeType": "text/html",
-        "snapshotId": "ede4b37391084879a8e51490c84a2f3b15dce84a"
+        "snapshotId": "21d90adf8ca4ab703ff535296ab1a60106fa0600"
       },
       {
         "id": "youtube-answer-3399767",
@@ -31,7 +34,7 @@
           ".scClientFeedbackInlineFeedbacklinkroot"
         ],
         "mimeType": "text/html",
-        "snapshotId": "fa06c8898feb46fa2a29db2d9022c1ae58d94545"
+        "snapshotId": "86217319341e27957d04ed1fd50918d46336c34e"
       },
       {
         "id": "youtube-answer-2801947",
@@ -43,7 +46,7 @@
           ".scClientFeedbackInlineFeedbacklinkroot"
         ],
         "mimeType": "text/html",
-        "snapshotId": "b7551483b7469445b51b43dafbe4840b8bb74cfa"
+        "snapshotId": "f474e144c613d97c3733369027062cd9dbabebd4"
       },
       {
         "id": "youtube-answer-9054257",
@@ -55,7 +58,7 @@
           ".scClientFeedbackInlineFeedbacklinkroot"
         ],
         "mimeType": "text/html",
-        "snapshotId": "7e09b8cb6b80992f3f36003d408a3d1506816018"
+        "snapshotId": "719ea4e25e1b344c7c8f1f4742e82e82a1abe616"
       },
       {
         "id": "youtube-answer-2801973",
@@ -67,7 +70,7 @@
           ".scClientFeedbackInlineFeedbacklinkroot"
         ],
         "mimeType": "text/html",
-        "snapshotId": "39b0f4352446c01b41883517b5a1e2a4f13638b2"
+        "snapshotId": "73a35875fab0191275e4f1f8f48e44b294f4a951"
       },
       {
         "id": "youtube-answer-9713446",
@@ -79,7 +82,7 @@
           ".scClientFeedbackInlineFeedbacklinkroot"
         ],
         "mimeType": "text/html",
-        "snapshotId": "f696810cc4f13bace5ad31ffccb4ce773e307223"
+        "snapshotId": "0ed2d95bba40497a6cf45fe686095bd8b17a3f0d"
       },
       {
         "id": "youtube-answer-2801981",
@@ -91,7 +94,7 @@
           ".scClientFeedbackInlineFeedbacklinkroot"
         ],
         "mimeType": "text/html",
-        "snapshotId": "984b0977ef06dab8c729b01cd1463370792942bc"
+        "snapshotId": "a48e7552263f5b02a94b25e30a5dcd1f21cb782a"
       },
       {
         "id": "youtube-answer-2801999",
@@ -103,7 +106,7 @@
           ".scClientFeedbackInlineFeedbacklinkroot"
         ],
         "mimeType": "text/html",
-        "snapshotId": "57bba6bf60e9bb92e3693e513eb6192acd982f20"
+        "snapshotId": "898009b83d4db261ba6d13d8d946cde9412fd0de"
       },
       {
         "id": "youtube-answer-9229980",
@@ -115,7 +118,7 @@
           ".scClientFeedbackInlineFeedbacklinkroot"
         ],
         "mimeType": "text/html",
-        "snapshotId": "06451d2886ec5f05c52ead56cbcfcff903977cd9"
+        "snapshotId": "a85349ccccd3eb436f1f5b4b38f6f9f4396dc0b2"
       },
       {
         "id": "youtube-answer-2802002",
@@ -127,7 +130,7 @@
           ".scClientFeedbackInlineFeedbacklinkroot"
         ],
         "mimeType": "text/html",
-        "snapshotId": "c81fb999645b1497b999daa43feb018401afcc7b"
+        "snapshotId": "1eaca2b6357adee5efe19b460e5e51047134bbb9"
       },
       {
         "id": "youtube-answer-2802245",
@@ -139,7 +142,7 @@
           ".scClientFeedbackInlineFeedbacklinkroot"
         ],
         "mimeType": "text/html",
-        "snapshotId": "cad374ad9f175fc0040d381745a29f0dcf8ee975"
+        "snapshotId": "4691125300fe2f4fc16487a3824c334244a9e2ad"
       },
       {
         "id": "youtube-answer-10072685",
@@ -151,7 +154,7 @@
           ".scClientFeedbackInlineFeedbacklinkroot"
         ],
         "mimeType": "text/html",
-        "snapshotId": "0cec4d786da2b1cc43d45744ad91515bd2d671ea"
+        "snapshotId": "942cba574f27d79b3e67abaafbbb28153448675a"
       },
       {
         "id": "youtube-answer-2802268",
@@ -163,7 +166,7 @@
           ".scClientFeedbackInlineFeedbacklinkroot"
         ],
         "mimeType": "text/html",
-        "snapshotId": "805f8f0e06ee3bbd419aa894c269684f91ee7124"
+        "snapshotId": "59277f3e0c04a02f651c191f3b606b687b8699e0"
       },
       {
         "id": "youtube-answer-2801964",
@@ -175,7 +178,7 @@
           ".scClientFeedbackInlineFeedbacklinkroot"
         ],
         "mimeType": "text/html",
-        "snapshotId": "8972dabf07fb982565a3a9f05c3f6f4c44302090"
+        "snapshotId": "5645f45a304a577b34ea0bbc2abf02fa54942e52"
       },
       {
         "id": "youtube-answer-2801939",
@@ -187,7 +190,7 @@
           ".scClientFeedbackInlineFeedbacklinkroot"
         ],
         "mimeType": "text/html",
-        "snapshotId": "330d67fc2a265a398d80a83320cb0c1e3b62a091"
+        "snapshotId": "d1e36dad7ed349a360598e550a9451ead6ff0717"
       },
       {
         "id": "youtube-answer-9229472",
@@ -199,7 +202,7 @@
           ".scClientFeedbackInlineFeedbacklinkroot"
         ],
         "mimeType": "text/html",
-        "snapshotId": "a5679cf93c42e6676fc0a10e7fe9f28c476ac023"
+        "snapshotId": "162416f1320dc19a83a49dbc54fcc68d1ff6639a"
       },
       {
         "id": "youtube-answer-2802008",
@@ -211,7 +214,7 @@
           ".scClientFeedbackInlineFeedbacklinkroot"
         ],
         "mimeType": "text/html",
-        "snapshotId": "91daea41fc3a5edc3f9259bde9f21ba7f33983d8"
+        "snapshotId": "14a51f43b9437cdeaec418810206c5afeadda262"
       },
       {
         "id": "youtube-answer-7667605",
@@ -223,7 +226,7 @@
           ".scClientFeedbackInlineFeedbacklinkroot"
         ],
         "mimeType": "text/html",
-        "snapshotId": "0e4f811229058a2e5932838c3b2801592ce0bb43"
+        "snapshotId": "dcf11ca82db05da65aba243cc90923f82b76935f"
       },
       {
         "id": "youtube-answer-9229611",
@@ -235,7 +238,7 @@
           ".scClientFeedbackInlineFeedbacklinkroot"
         ],
         "mimeType": "text/html",
-        "snapshotId": "2dcdb514a776c8c00d5fd70b38a7a909aaa1002e"
+        "snapshotId": "17f4c89225bbe78510d2b724bd317756881cf0e3"
       },
       {
         "id": "youtube-answer-10834785",
@@ -247,7 +250,7 @@
           ".scClientFeedbackInlineFeedbacklinkroot"
         ],
         "mimeType": "text/html",
-        "snapshotId": "6b79b013f39919186fa4a1d616cedb09030fddb8"
+        "snapshotId": "3de6d6589ed30ccf85d6b1f5ccca2c79fe372b21"
       },
       {
         "id": "youtube-answer-10835034",
@@ -259,7 +262,7 @@
           ".scClientFeedbackInlineFeedbacklinkroot"
         ],
         "mimeType": "text/html",
-        "snapshotId": "8c872ad449437f19057076f52d48e0b53ab333e4"
+        "snapshotId": "ad93a7bdb8e07244a324592b04bc2ee6d58cafcb"
       },
       {
         "id": "youtube-answer-9891785",
@@ -271,7 +274,7 @@
           ".scClientFeedbackInlineFeedbacklinkroot"
         ],
         "mimeType": "text/html",
-        "snapshotId": "5bf81824a3f87fa13a98f655e8ea9dd88a114bbf"
+        "snapshotId": "85fc1ffc853f1ca01ab77ab97dc3b14346c4d4c2"
       },
       {
         "id": "youtube-answer-11161123",
@@ -283,11 +286,8 @@
           ".scClientFeedbackInlineFeedbacklinkroot"
         ],
         "mimeType": "text/html",
-        "snapshotId": "2d29c3df9b36bd6a404f797159d1d5ab6ba7e445"
+        "snapshotId": "dfcc59f58cd6ea87c68e4a667ba642c451f056a7"
       }
-    ],
-    "reasons": [
-      "[extraction] Extract failed: The provided selector \"[\"#content\"]\" has no match in the web page at 'https://www.youtube.com/intl/ALL_en/howyoutubeworks/policies/community-guidelines/'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content."
     ]
   }
 }
