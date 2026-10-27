@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "event": {
-    "date": "2026-10-15T01:24:19.825Z",
+    "date": "2026-10-27T13:50:04.768Z",
     "serviceName": "X",
     "sourceDocuments": [
       {
@@ -21,7 +21,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "070f611ae3f57eeaededb19d93b619ee94741e85"
+        "snapshotId": "48c5e9762ebbdf30fd43e560da25e1ae600e7dd4"
       },
       {
         "id": "en-rules-and-policies-violent-content",
@@ -40,7 +40,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "a2b141cbe97a3fa8309bd244ef69c703380d6b65"
+        "snapshotId": "452c73ec85f0b3f44e56590074db3502d2973376"
       },
       {
         "id": "en-rules-and-policies-violent-entities",
@@ -59,7 +59,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "67c9d6938ecc9e1d2e312504332d8fe3540f5a97"
+        "snapshotId": "e2f05cdf13a534d1f2b4e839fdbfb328c27d31ff"
       },
       {
         "id": "en-rules-and-policies-child-safety",
@@ -78,7 +78,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "c9e34ce00623db00860c5ff9195b3a3ab3b9ff7d"
+        "snapshotId": "794496b76af2745a700a95b82d9a691324f1e4f1"
       },
       {
         "id": "en-rules-and-policies-abusive-behavior",
@@ -97,7 +97,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "3303dc3706769848a17d831fb62f92e0d420de37"
+        "snapshotId": "390061caa1ae3f298c4872735d6e212894644a71"
       },
       {
         "id": "en-rules-and-policies-hateful-conduct-policy",
@@ -116,7 +116,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "cc8fceb07ba3fc2135fe19e704bee378b6e84a79"
+        "snapshotId": "02c94b05d6fa72b6323ec7d017e5c4d9da302b4f"
       },
       {
         "id": "en-rules-and-policies-perpetrators-of-violent-attacks",
@@ -135,7 +135,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "8a261927908a754e4ef1ac214c5ada441dfb78bb"
+        "snapshotId": "b554d22906985ad53939540b206e9cb82ff54b24"
       },
       {
         "id": "en-rules-and-policies-glorifying-self-harm",
@@ -154,7 +154,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "38d266bf0de55354a4d5591137928f0b02a78ad2"
+        "snapshotId": "ccc2f820e4547479e7377b6a1b4fb8a34417fa15"
       },
       {
         "id": "en-rules-and-policies-adult-content",
@@ -173,7 +173,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "f0c4868ba2bb90d9b89d5fb16a6c3a845acc6050"
+        "snapshotId": "ab0fe6dba8ac891b93ef45a1a457fc5367a2b1e7"
       },
       {
         "id": "en-rules-and-policies-shopping-policies",
@@ -192,7 +192,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "02092b1a79ed74d632d89da08e1b81e3dc51241f"
+        "snapshotId": "9ff5405980226ff05de518da43d84f11827139f9"
       },
       {
         "id": "en-rules-and-policies-personal-information",
@@ -211,7 +211,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "ec4945747133ac0a8a00d00120ce87ede8391fc8"
+        "snapshotId": "3ff35c4b44719597f1a62cdcad5816acf46d6895"
       },
       {
         "id": "en-rules-and-policies-intimate-media",
@@ -230,7 +230,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "cf4efcbd20291283d726c51de99480c9bc8c03fa"
+        "snapshotId": "9e1d7c677ce2687be4bdfcb393179e89a7030f86"
       },
       {
         "id": "en-rules-and-policies-platform-manipulation",
@@ -249,7 +249,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "cf7fe00ad026098cb7e32843bc7981228237aca7"
+        "snapshotId": "62dfd71ad1aba1fe582e68658ffbd9e0712745fb"
       },
       {
         "id": "en-rules-and-policies-election-integrity-policy",
@@ -268,7 +268,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "8bacf770567a1977a91baf9eeb459b6bc441891d"
+        "snapshotId": "2a8e8fe5eefbe9c972d16eff99c49f106360b423"
       },
       {
         "id": "en-rules-and-policies-twitter-impersonation-and-deceptive-identities-policy",
@@ -287,7 +287,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "1c2d54d2a9d924f3affa8470826a57fbbc923334"
+        "snapshotId": "52a90fac3489f72f49f38a376bed7a022c25d372"
       },
       {
         "id": "en-rules-and-policies-manipulated-media",
@@ -306,7 +306,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "a08a4db0fd4b36ed21b2cd5bf7b0d20736d9ca6f"
+        "snapshotId": "4f0e3fc0cab1c5bbd304943218e80f71eed5d9d3"
       },
       {
         "id": "en-rules-and-policies-x-trademark-policy",
@@ -325,7 +325,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "f4536fce75b24cfd1b4ce6da600ec8bdbf7b47e9"
+        "snapshotId": "5692a3b3aa173b59685319c4f76f29402cec1ee9"
       },
       {
         "id": "en-rules-and-policies-x-username-squatting",
@@ -344,7 +344,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "ee3fda15dd337d2285f5c0dd929c20e70326cf1a"
+        "snapshotId": "88aa0fd70954ba69ad77a5077d92c5b30e1618c9"
       },
       {
         "id": "en-rules-and-policies-copypasta-duplicate-content",
@@ -363,7 +363,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "7ac23565669cecba038762581d00b148ae655446"
+        "snapshotId": "01325cc2ed92d82dbd1e72c260814838bd177820"
       },
       {
         "id": "en-rules-and-policies-financial-scam",
@@ -382,7 +382,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "59d1994a535cd1a57abd71b4c4e746623f16722d"
+        "snapshotId": "0682161f4d2151a2d5fd81268a45b66ec3cb183c"
       },
       {
         "id": "en-rules-and-policies-abusive-profile",
@@ -401,7 +401,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "7f19f51acbb942394f1d95543def479a97767489"
+        "snapshotId": "cc719795e2cf92d01d47a05d8b9e5fe6162cde68"
       },
       {
         "id": "en-rules-and-policies-automated-claims-policy",
@@ -420,7 +420,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "00a785860337acc0e59573fbdf0def25d4ebc572"
+        "snapshotId": "be58382902579970a3f45b9e842f01d0d87e6c49"
       },
       {
         "id": "en-rules-and-policies-counterfeit-goods-policy",
@@ -439,7 +439,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "a9ec4f3d74d92bc882a0f632dff35220aa5fb7a6"
+        "snapshotId": "3d9e0c1e64b296439093294c52223bc7c5201a46"
       },
       {
         "id": "en-rules-and-policies-public-interest",
@@ -458,7 +458,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "4c3257a2eb146e6d27c5065518e53a7559691552"
+        "snapshotId": "90d267f53a3b81847ba132a62a099ab1849605f8"
       },
       {
         "id": "en-rules-and-policies-x-limits",
@@ -477,7 +477,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "112bea92560e1116bb39fd053c156ba6a61acc22"
+        "snapshotId": "11eea5c7fbc1e55d1a95b20b5570e3fb5542914c"
       },
       {
         "id": "en-rules-and-policies-x-reach-limited",
@@ -496,7 +496,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "427ff507936de7dd7e88b18e40f6588059ea4612"
+        "snapshotId": "48fd968373d372949b1994bde8a246a3e56718b9"
       },
       {
         "id": "en-rules-and-policies-enforcement-options",
@@ -515,7 +515,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "7aab88483690897265c345e8d3e2a973916cf957"
+        "snapshotId": "106f693e580d79837a197fbf68aef46d8da15d6a"
       },
       {
         "id": "en-rules-and-policies-x-moments-guidelines-and-principles",
@@ -534,7 +534,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "f612d6d1717d567142ddd4d501131514d7b7e499"
+        "snapshotId": "d0bdd0d365e7a137ad7246d6dfe49de85ee780e0"
       },
       {
         "id": "en-rules-and-policies-fair-use-policy",
@@ -553,7 +553,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "89d21f0d48b13c94a2c65d845546784bd703a62c"
+        "snapshotId": "a57949dff1247347e7db3d85b7a194b65aca874d"
       },
       {
         "id": "en-rules-and-policies-copyright-policy",
@@ -569,7 +569,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "2f36ace16613ee60da1abc669955da02e94b51f6"
+        "snapshotId": "b56c65072553b7129d45ceef90b9b68a01954e4f"
       },
       {
         "id": "en-rules-and-policies-enforcement-philosophy",
@@ -588,8 +588,14 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "dd8c337ec29c72e5a8d8a5ac922b5e6d22b47f93"
+        "snapshotId": "246e8a7659e3c20b612ccdb516d776629d420d13"
       }
-    ]
+    ],
+    "transientError": {
+      "reasons": [
+        "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://help.x.com/en/rules-and-policies/x-username-squatting'",
+        "[fetch] Fetch failed: net::ERR_NAME_NOT_RESOLVED at https://help.x.com/en/rules-and-policies/copypasta-duplicate-content"
+      ]
+    }
   }
 }
