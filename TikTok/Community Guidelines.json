@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "event": {
-    "date": "2026-09-30T01:13:41.844Z",
+    "date": "2026-10-27T13:42:16.771Z",
     "serviceName": "TikTok",
     "sourceDocuments": [
       {
@@ -15,7 +15,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "99788d468656fbd44d7f83cc00edad82e6131724"
+        "snapshotId": "71698afb63a5c72e383a436f54900db300e114e3"
       },
       {
         "id": "community-guidelines-en-community-principles",
@@ -28,7 +28,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "24c511ca64fa04e1339aa7bdde296ae9c90a35a0"
+        "snapshotId": "be765a69f9222d8f25c01b4cc94669132e70964a"
       },
       {
         "id": "community-guidelines-en-youth-safety",
@@ -41,7 +41,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "2223bd4b7a84c17b657335a664cce8a92e44b5c3"
+        "snapshotId": "aa506a0f81ed910a4d4644107f40d8340e136587"
       },
       {
         "id": "community-guidelines-en-safety-civility",
@@ -54,7 +54,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "0ac8045ebc10118b581dc9bce2883f34b45d28e2"
+        "snapshotId": "9fc7d93da1a243afccd96aba10864aa886157f45"
       },
       {
         "id": "community-guidelines-en-mental-behavioral-health",
@@ -67,7 +67,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "e00715c4c61369603048198109f2d9c9e134774a"
+        "snapshotId": "d2fafc4bf02c45787df3ef73e77ba947b5f04442"
       },
       {
         "id": "community-guidelines-en-sensitive-mature-themes",
@@ -80,7 +80,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "c767442f4839fd0956965b958b238cdffa7bc6c3"
+        "snapshotId": "6ee1d42901720e2709c3c72284bbf038708db5d9"
       },
       {
         "id": "community-guidelines-en-integrity-authenticity",
@@ -93,7 +93,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "cce7df0e9e0fd8e3f0ebb54ca3f88602cdbc382d"
+        "snapshotId": "9f5b4ac1a094e4cfe4bb605c3d1831c675abbd78"
       },
       {
         "id": "community-guidelines-en-regulated-commercial-activities",
@@ -106,7 +106,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "7c777332fc3bcf4fd82b4f24c35b67f50efd405c"
+        "snapshotId": "a1c5978215c5c823018884d61427965bc6b917af"
       },
       {
         "id": "community-guidelines-en-privacy-security",
@@ -119,7 +119,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "725fce331d4e7769531b395b5f610a2e67d4fef1"
+        "snapshotId": "3dcffa7585a0ec781f22c767761267b554c6ee5c"
       },
       {
         "id": "community-guidelines-en-fyf-standards",
@@ -132,7 +132,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "67ae5ec63158500a331bbfe009241d37c713913c"
+        "snapshotId": "4e5ef397232836ac74ae3b507659300693515b3d"
       },
       {
         "id": "community-guidelines-en-accounts-features",
@@ -145,7 +145,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "3c0458aad00a6a3d8f76984ca2f9aac7711e9dcc"
+        "snapshotId": "c7113f317fc30558524e62f1df15b1161a67d757"
       },
       {
         "id": "community-guidelines-en-enforcement",
@@ -158,8 +158,13 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "bcfade9371e8871be4d2e17a0371700162204440"
+        "snapshotId": "f99b75d438c6a2ae71157d79db1ed7c881a69adf"
       }
-    ]
+    ],
+    "transientError": {
+      "reasons": [
+        "[fetch] Fetch failed: Received HTTP code 502 when trying to fetch 'https://www.tiktok.com/community-guidelines?lang=en'"
+      ]
+    }
   }
 }
