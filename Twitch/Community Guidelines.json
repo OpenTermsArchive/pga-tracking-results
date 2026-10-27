@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-10-23T13:18:07.282Z",
+    "date": "2026-10-27T01:29:00.511Z",
     "serviceName": "Twitch",
     "sourceDocuments": [
       {
@@ -15,7 +15,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "307d7bbbe8741c385430739743ca2306fdaaa364"
+        "snapshotId": "90311c0fdae230e4e3e200e742e4bf1d0d0e2bb1"
       },
       {
         "id": "s-article-about-account-suspensions-dmca-suspensions-and-chat-bans",
@@ -24,8 +24,8 @@
           "#article"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "c8c152e86de6189dcf4bd73dd02f89291e104273"
       },
       {
         "id": "s-article-Prohibited-Games",
@@ -34,8 +34,8 @@
           ".tsc-subtopic-content"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "5353bbb4f6c86b5a5ce2c20a81e90f12a7d10a5a"
       },
       {
         "id": "s-article-Content-Classification-Guidelines",
@@ -47,8 +47,8 @@
           "[class*=tsc-subtopic-toc]"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "2469481d9cc5ff3e77d8e8b6d1a1fb6a35f64882"
       },
       {
         "id": "s-article-Emote-Policy",
@@ -60,8 +60,8 @@
           "[class*=tsc-subtopic-toc]"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "a11344f4d36c2236dbe35eb006ce007caefe818f"
       },
       {
         "id": "s-article-Tags-Guidelines",
@@ -70,8 +70,8 @@
           ".tsc-subtopic-content"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "ab20f4f78ffcd88cbb25199bf22c59d963099953"
       },
       {
         "id": "s-article-Usernames",
@@ -83,17 +83,9 @@
           "[class*=tsc-subtopic-toc]"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "b3035a6dd7c92e0f44ee7aeac96fe12fdb6eca0e"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: waitForFunction failed: frame got detached.",
-      "[fetch] Fetch failed: Connection closed.",
-      "[fetch] Fetch failed: Connection closed.",
-      "[fetch] Fetch failed: Connection closed.",
-      "[fetch] Fetch failed: Connection closed.",
-      "[fetch] Fetch failed: Connection closed."
     ]
   }
 }
