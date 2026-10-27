@@ -1,12 +1,12 @@
 {
-  "runId": "ota-run-398a5689-ac03-4da7-9934-ea317aee120d",
+  "runId": "ota-run-0ba651a1-9d88-4b83-a9b4-d2fb8091fbfc",
   "collectionId": "pga",
   "schedule": "30 */12 * * *",
   "lastRun": {
-    "startDate": "2026-10-27T00:30:18.650Z",
-    "endDate": "2026-10-27T01:46:02.102Z",
+    "startDate": "2026-10-27T12:30:24.174Z",
+    "endDate": null,
     "engineVersion": "16.3.0",
-    "status": "completed"
+    "status": "in_progress"
   },
   "declarations": {
     "commit": "8cdcfeb6d9dfa098234e8cf132651515b37f2b51",
@@ -14,33 +14,16 @@
     "terms": 121
   },
   "tracked": {
-    "ok": 120,
-    "failed": 1
+    "ok": 0,
+    "failed": 0
   },
   "coverage": {
-    "processed": 121,
+    "processed": 0,
     "skipped": []
   },
   "transitions": {
     "newFailures": [],
-    "recoveries": [
-      {
-        "serviceId": "Twitch",
-        "termsType": "Community Guidelines"
-      },
-      {
-        "serviceId": "Twitch",
-        "termsType": "Trackers Policy"
-      },
-      {
-        "serviceId": "Twitch",
-        "termsType": "Content Monetisation Policy"
-      },
-      {
-        "serviceId": "Twitch",
-        "termsType": "Advertising Content Policy"
-      }
-    ],
+    "recoveries": [],
     "reasonChanges": []
   },
   "transientErrors": 0
