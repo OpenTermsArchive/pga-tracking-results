@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-10-23T13:18:08.159Z",
+    "date": "2026-10-27T01:29:29.151Z",
     "serviceName": "Twitch",
     "sourceDocuments": [
       {
@@ -15,12 +15,9 @@
           "img"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "bd160dd441468b653906c60b3e210dc241a02aea"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Connection closed."
     ]
   }
 }
