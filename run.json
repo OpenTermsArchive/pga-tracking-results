@@ -4,9 +4,9 @@
   "schedule": "30 */12 * * *",
   "lastRun": {
     "startDate": "2026-10-27T00:30:18.650Z",
-    "endDate": null,
+    "endDate": "2026-10-27T01:46:02.102Z",
     "engineVersion": "16.3.0",
-    "status": "in_progress"
+    "status": "completed"
   },
   "declarations": {
     "commit": "8cdcfeb6d9dfa098234e8cf132651515b37f2b51",
@@ -14,16 +14,33 @@
     "terms": 121
   },
   "tracked": {
-    "ok": 0,
-    "failed": 0
+    "ok": 120,
+    "failed": 1
   },
   "coverage": {
-    "processed": 0,
+    "processed": 121,
     "skipped": []
   },
   "transitions": {
     "newFailures": [],
-    "recoveries": [],
+    "recoveries": [
+      {
+        "serviceId": "Twitch",
+        "termsType": "Community Guidelines"
+      },
+      {
+        "serviceId": "Twitch",
+        "termsType": "Trackers Policy"
+      },
+      {
+        "serviceId": "Twitch",
+        "termsType": "Content Monetisation Policy"
+      },
+      {
+        "serviceId": "Twitch",
+        "termsType": "Advertising Content Policy"
+      }
+    ],
     "reasonChanges": []
   },
   "transientErrors": 0
