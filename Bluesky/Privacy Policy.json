@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "event": {
-    "date": "2026-10-28T13:34:59.641Z",
+    "date": "2026-10-29T00:30:24.358Z",
     "serviceName": "Bluesky",
     "sourceDocuments": [
       {
@@ -12,11 +12,6 @@
         "mimeType": "text/html",
         "snapshotId": "fe9f16b2212ef27fb8921ba2b32f8fb27dc11fbd"
       }
-    ],
-    "transientError": {
-      "reasons": [
-        "[fetch] Fetch failed: Received HTTP code 502 when trying to fetch 'https://bsky.social/about/support/privacy-policy'"
-      ]
-    }
+    ]
   }
 }
