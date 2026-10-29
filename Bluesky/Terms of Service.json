@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "event": {
-    "date": "2026-10-28T13:34:58.596Z",
+    "date": "2026-10-29T00:30:23.251Z",
     "serviceName": "Bluesky",
     "sourceDocuments": [
       {
@@ -12,11 +12,6 @@
         "mimeType": "text/html",
         "snapshotId": "016730f0c060d29d03293cb0b0ee7a461fa69405"
       }
-    ],
-    "transientError": {
-      "reasons": [
-        "[fetch] Fetch failed: Received HTTP code 502 when trying to fetch 'https://bsky.social/about/support/tos'"
-      ]
-    }
+    ]
   }
 }
