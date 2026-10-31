@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "event": {
-    "date": "2026-09-30T01:15:38.217Z",
+    "date": "2026-10-31T13:35:27.279Z",
     "serviceName": "Twitch",
     "sourceDocuments": [
       {
@@ -17,6 +17,11 @@
         "mimeType": "text/html",
         "snapshotId": "01ee9f2ec6eb98d986671eabd61f7b0f3d68191c"
       }
-    ]
+    ],
+    "transientError": {
+      "reasons": [
+        "[fetch] Fetch failed: net::ERR_NAME_NOT_RESOLVED at https://www.twitch.tv/p/en/legal/privacy-notice/"
+      ]
+    }
   }
 }
