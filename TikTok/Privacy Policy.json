@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-02T01:06:58.635Z",
+    "date": "2026-11-02T13:07:33.524Z",
     "serviceName": "TikTok",
     "sourceDocuments": [
       {
@@ -16,7 +16,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "c1bd62586fba2b16a5899b3f8ac049e0c25855bc"
+        "snapshotId": "bf5b2114d8e43eb9cf69f39f8335fdb9a0fbd8d3"
       },
       {
         "id": "legal-page-global-childrens-privacy-policy-en",
@@ -30,11 +30,8 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "ab1a79706b87195a021e8380a27d951226390e5c"
+        "snapshotId": "6bef3495731d9e092d0877e6d6c223b69b4514e6"
       }
-    ],
-    "reasons": [
-      "[extraction] Extract failed: The provided selector \"[\".policy-title\",\"section.content\"]\" has no match in the web page at 'https://www.tiktok.com/legal/privacy-policy-eea?lang=en'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content."
     ]
   }
 }
