@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "event": {
-    "date": "2026-11-07T13:42:48.796Z",
+    "date": "2026-11-08T01:03:44.430Z",
     "serviceName": "Reddit",
     "sourceDocuments": [
       {
@@ -15,7 +15,7 @@
         "remove": "li",
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "3b9085b6b7383577a97c5a258bf021d22351fd79"
+        "snapshotId": "9ba431642e86b4ba69ed48c086858734e76d49ce"
       },
       {
         "id": "s-article-adult-content",
@@ -30,7 +30,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "1056a77fd56280a0686098fb91a875866ba818ba"
+        "snapshotId": "3c1cef1e0450df79ad400f02f1b01dfde73a995f"
       },
       {
         "id": "s-article-alcohol-policy",
@@ -45,7 +45,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "b47aebb35eb762eee52b5490d811ece4174c4201"
+        "snapshotId": "d55fee77258d3c3b4df3e0786fbc0e155d305060"
       },
       {
         "id": "s-article-counterfeit-goods-policy",
@@ -60,7 +60,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "7a8c7acdc56d07f21c2fdd28b4c331f89739cdcc"
+        "snapshotId": "75e5642c1dad80cf9c318744c9a4b5c5727a977b"
       },
       {
         "id": "s-article-dating-services-policy",
@@ -75,7 +75,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "1a09fa2f1dd786f2ad5be41a9fa8a9bd0cf418e1"
+        "snapshotId": "2b619287977ee014695a3263ee30384129aae2f3"
       },
       {
         "id": "s-article-deceptive-untrue-or-misleading-advertising-policy",
@@ -90,7 +90,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "a3af00670a3b0462328326a84491bc6a1729ea6e"
+        "snapshotId": "ba7c71c96febccc05165c2195387e16bcf8ca890"
       },
       {
         "id": "s-article-dynamic-product-ads-policy",
@@ -105,7 +105,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "8553c28ed668a011f2089d072c35918902253110"
+        "snapshotId": "77ead04063d4a67cae7133a993f18cf4eb0cc840"
       },
       {
         "id": "s-article-Reddit-Advertising-Policy-Editorial-Requirements",
@@ -120,7 +120,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "34640b2e79da574c512a235d433f75acab75baa9"
+        "snapshotId": "2d87dc045507c59dfc396fadb30fcca29b336c3a"
       },
       {
         "id": "s-article-financial-cryptocurrency-products-and-services-policy",
@@ -135,7 +135,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "b281d26643dc06ac61f4f0cadc53c95d986b3061"
+        "snapshotId": "d33fa6b4c86cfd3917475a216d862fc2751db7dc"
       },
       {
         "id": "s-article-gambling-and-gaming-related-services-policy",
@@ -150,7 +150,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "99a881d24e34272c9b1a4dd14a39f8b358f161b3"
+        "snapshotId": "b3a72e4479aab95e05033b4bb5266da651d6644b"
       },
       {
         "id": "s-article-healthcare-products-and-services-policy",
@@ -165,7 +165,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "4e3cc7fa6e2a08512fcaf4bb5275ba972bbd5f41"
+        "snapshotId": "90b76335ac78cc497b61365ecd3505e41451722d"
       },
       {
         "id": "s-article-high-fat-salt-sugar-food-and-drinks-policy",
@@ -180,7 +180,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "15cae2fb826c03c062974e82287197408761448c"
+        "snapshotId": "341351accbb676f1299270eccac936c269640240"
       },
       {
         "id": "s-article-inappropriate-content-policy",
@@ -195,7 +195,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "187e3755a223f7ba5aec369e7469aaeeb16499aa"
+        "snapshotId": "a56e528f5569e67ac26e01b82db6d3331715d187"
       },
       {
         "id": "s-article-lead-generation-ads-policy",
@@ -210,7 +210,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "1269a255051f9e91baa55e8631b0c4706b178749"
+        "snapshotId": "b44e5353c98cdccb020ea125efd1757f2afc067c"
       },
       {
         "id": "s-article-live-animals-and-animal-products-policy",
@@ -225,7 +225,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "244a2e4482f17b5ade5423c125463e6beeb0475f"
+        "snapshotId": "2c3f60c19c2b1553d8b22ecffa23178b78c0e333"
       },
       {
         "id": "s-article-political-advertisements-policy",
@@ -240,7 +240,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "3bf53ef8407d07eaa822ba1a3d866df8c74b73f8"
+        "snapshotId": "4c22e77ffda1e1a8887f3ca49daac4fd076cd913"
       },
       {
         "id": "s-article-products-or-services-that-facilitate-illegal-fraudulent-or-misleading-activity-policy",
@@ -255,7 +255,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "8c164d7d885ce9fe8624745af891c8884ae7838a"
+        "snapshotId": "48c054737332c6acd4c21bbd7f490154569565d0"
       },
       {
         "id": "s-article-recreational-drugs-policy",
@@ -270,7 +270,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "f1542cfe071f75da4486d83c360e0a4392157d17"
+        "snapshotId": "63f7f11e6a9309c840e75964ecd646664cd7d39b"
       },
       {
         "id": "s-article-Reddit-Advertising-Policy-Targeting-Guidelines",
@@ -285,7 +285,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "f99093cc95ee142704e3a2db5c1503e7a3a17906"
+        "snapshotId": "128fcacff4e6ec3bc7ab6230e77159294a750fa2"
       },
       {
         "id": "s-article-third-party-rights-policy",
@@ -300,7 +300,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "9bac8a4e77b9abc5279c6ffdc224d80d1135fb71"
+        "snapshotId": "09f746c11be573525c748a092aa72ea140bbe81e"
       },
       {
         "id": "s-article-tobacco-policy",
@@ -315,7 +315,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "826a32d08f4428f850e93df64de98e7417e3bbbc"
+        "snapshotId": "3b795b8df07eb5fb9495e9a8119994b8e95f4dbd"
       },
       {
         "id": "s-article-unofficial-resale-of-event-tickets-policy",
@@ -330,7 +330,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "119184ea019a4cb04640ba574223ad5d7309adfe"
+        "snapshotId": "4488acdd931c5ae4390fd328c5613a0004ca8d63"
       },
       {
         "id": "s-article-user-data-collection-policy",
@@ -345,7 +345,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "629725bf9d33a83ff289fd13f1ca627d8831ab7d"
+        "snapshotId": "1394eddc4ddaf56d6d62ca2a2e52e8f67b88e9e1"
       },
       {
         "id": "s-article-weapons-and-related-products-policy",
@@ -360,13 +360,8 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "2525155c008ac926ba2d0b622514841c01aeaa14"
+        "snapshotId": "b7fb53dab702e818a63142f2dc397089571b50a2"
       }
-    ],
-    "transientError": {
-      "reasons": [
-        "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://business.reddithelp.com/s/article/dynamic-product-ads-policy'"
-      ]
-    }
+    ]
   }
 }
