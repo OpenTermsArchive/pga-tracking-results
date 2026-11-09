@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "event": {
-    "date": "2026-11-08T13:42:52.813Z",
+    "date": "2026-11-09T00:47:11.595Z",
     "serviceName": "Instagram",
     "sourceDocuments": [
       {
@@ -30,7 +30,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "10b1b1a4fd810ef5fc642afe3284fefd45bf44c3"
+        "snapshotId": "542a3c0f5f818bde6e62eee2ba2d258f0d05d09a"
       },
       {
         "id": "policies-community-standards-violence-incitement",
@@ -51,7 +51,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "f8db47d6862924e4ab6b705c1882b77d8acaf7cb"
+        "snapshotId": "22131a98b02f1fa7cb88f83b317661d1ee496139"
       },
       {
         "id": "policies-community-standards-dangerous-individuals-organizations",
@@ -72,7 +72,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "1872257b7f94358f342e854f5c95075a86da0426"
+        "snapshotId": "aac1c758476c4e6ce484c3cc89bc02fa4792b3fb"
       },
       {
         "id": "policies-community-standards-coordinating-harm-publicizing-crime",
@@ -93,7 +93,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "a5ae508cd31f29b17550d6dff6270e37f4632c7d"
+        "snapshotId": "6565d1c59468030b1ee126aa21b72bded7956edf"
       },
       {
         "id": "policies-community-standards-regulated-goods",
@@ -114,7 +114,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "6b67f7155a3c3ac2aa7fb42f271b6c7be5e2657b"
+        "snapshotId": "e4471703110b330f404792ebfd8f56ec757c458a"
       },
       {
         "id": "policies-community-standards-fraud-deception",
@@ -135,7 +135,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "6ca04afeaadf104700fcfff265f21b119dc0e0db"
+        "snapshotId": "63e818a55f2a620ebe2a83a26101d59842130876"
       },
       {
         "id": "policies-community-standards-suicide-self-injury",
@@ -156,7 +156,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "904f081bc7e3466f2735620dfb69fa2d2a7f96f8"
+        "snapshotId": "e4a8c023fbd5ef3003cec4c97427d7fc0d3d8f97"
       },
       {
         "id": "policies-community-standards-child-sexual-exploitation-abuse-nudity",
@@ -177,7 +177,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "e527c713dff12c1488ce32c7b0deb63a83ebcd26"
+        "snapshotId": "c58b83fae02e14a93eba91717396c6ea2f1af31c"
       },
       {
         "id": "policies-community-standards-sexual-exploitation-adults",
@@ -198,7 +198,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "ee60251ee095fa43180d43e3cfa7a08cb6f45767"
+        "snapshotId": "828211bb5b832f221b342725f7eced218ffc2061"
       },
       {
         "id": "policies-community-standards-bullying-harassment",
@@ -219,7 +219,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "fc8ed7df53befcaee5873adff33a57da9f482b37"
+        "snapshotId": "f73c8049cafc9061d11b981adc7dca8556533893"
       },
       {
         "id": "policies-community-standards-human-exploitation",
@@ -240,7 +240,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "266f4d8020e75b39b1f88cb35af5369c991e3954"
+        "snapshotId": "c29c9564fc91207ed04571865cc5895fc8927316"
       },
       {
         "id": "policies-community-standards-privacy-violations-image-privacy-rights",
@@ -261,7 +261,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "7136619c2fe41a8db02be54042f960742bd1365f"
+        "snapshotId": "85e64f95fc9569757bc87f6ac47d9b0b5f408756"
       },
       {
         "id": "policies-community-standards-hate-speech",
@@ -282,7 +282,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "95058f7f01fba3bdbc01b5483e32e5df069f6314"
+        "snapshotId": "5201a050cf71a8d53fdd62740bfa51acda48ce48"
       },
       {
         "id": "policies-community-standards-violent-graphic-content",
@@ -303,7 +303,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "16ee0544ced7059bba7dbded4bebb36a22e26a2e"
+        "snapshotId": "b091c1e2934bba10f700fdb4b95cb6e03003b323"
       },
       {
         "id": "policies-community-standards-adult-nudity-sexual-activity",
@@ -324,7 +324,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "e92c6dfc797c9c6991e43617a263eb9f6c658588"
+        "snapshotId": "9283dad85170f92086c5e73dda65eac38df0bdb8"
       },
       {
         "id": "policies-community-standards-sexual-solicitation",
@@ -345,7 +345,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "8ce34d41413130d97c98751417087b56fe9cef9e"
+        "snapshotId": "f03189b22d7309559d82088a4b796a38f70a14e6"
       },
       {
         "id": "policies-community-standards-account-integrity",
@@ -366,7 +366,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "a23c5bcb1ff981a5fc077a0df152767c5928fc24"
+        "snapshotId": "4e3a835a0e65fc2807a05965d1dae3056fcc44e7"
       },
       {
         "id": "policies-community-standards-authentic-identity-representation",
@@ -387,7 +387,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "e371f7805d363c0f61f56f7654d28c8794592c7c"
+        "snapshotId": "08deb84c312c849fd04eb056e07231f5873397cd"
       },
       {
         "id": "policies-community-standards-spam",
@@ -408,7 +408,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "42bcf67707e9896529bd3d89267b0087f43beb19"
+        "snapshotId": "90117bf0f7c93e1ddc16b5d005d52ee5cfa3f42f"
       },
       {
         "id": "policies-community-standards-cybersecurity",
@@ -429,7 +429,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "32785856d520fd8187350f2f2c1abc5dba4d15de"
+        "snapshotId": "3f9922f918fd08198a89b2240f7027f9dc136a88"
       },
       {
         "id": "policies-community-standards-inauthentic-behavior",
@@ -450,7 +450,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "fe775c9c790e71ea3db44a0f81bff391611d4601"
+        "snapshotId": "6242c57f30825a579877912310e3a9c943f1c1c9"
       },
       {
         "id": "policies-community-standards-misinformation",
@@ -471,7 +471,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "347cfe983df55574cefc5cf606b657beeef86496"
+        "snapshotId": "7a20ab1ceb57542e1f024453b4702aadfa989d1b"
       },
       {
         "id": "policies-community-standards-memorialization",
@@ -492,7 +492,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "d7686a662c101ab30467f6ca18bfbf113fccda8a"
+        "snapshotId": "a6ca15f1740c0a12d6ece55d2fb66575fbd9aa88"
       },
       {
         "id": "policies-community-standards-intellectual-property",
@@ -513,7 +513,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "2f64bff5ee320d323a748a6e588072970031f203"
+        "snapshotId": "45e991fd9dbee924e4df983115a4470fbe7ed779"
       },
       {
         "id": "policies-community-standards-user-requests",
@@ -534,7 +534,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "7e9d32c4c5efa825e51e1bf6b00fe019657da7b3"
+        "snapshotId": "ca621aa55abbc0aabbe6682496a5392e9eb10a1b"
       },
       {
         "id": "policies-community-standards-additional-protection-minors",
@@ -555,13 +555,8 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "67a829723a0edbd03ac5a247faec2278088c346b"
+        "snapshotId": "1881d35728df7e181a2f9b01203c1e5a96a3f3c2"
       }
-    ],
-    "transientError": {
-      "reasons": [
-        "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://transparency.fb.com/policies/community-standards/violent-graphic-content/'"
-      ]
-    }
+    ]
   }
 }
