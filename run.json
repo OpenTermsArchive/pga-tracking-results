@@ -1,33 +1,28 @@
 {
-  "runId": "ota-run-6e328dc7-d1e4-4c79-81ef-786713caf142",
+  "runId": "ota-run-861730e7-4895-46b8-80e6-95a42ce47254",
   "collectionId": "pga",
   "schedule": "30 */12 * * *",
   "lastRun": {
-    "startDate": "2026-11-10T12:30:18.066Z",
-    "endDate": "2026-11-10T13:35:37.187Z",
-    "engineVersion": "17.0.0",
-    "status": "completed"
+    "startDate": "2026-11-11T00:30:17.588Z",
+    "endDate": null,
+    "engineVersion": "17.0.1",
+    "status": "in_progress"
   },
   "declarations": {
-    "commit": "c4697eab879fc3b02ccabcd5b5a9f5279112f79d",
+    "commit": "6f2524ae41dd1d7485751d1354455492a47bb882",
     "services": 26,
     "terms": 121
   },
   "tracked": {
-    "ok": 119,
-    "failed": 2
+    "ok": 0,
+    "failed": 0
   },
   "coverage": {
-    "processed": 121,
+    "processed": 0,
     "skipped": []
   },
   "transitions": {
-    "newFailures": [
-      {
-        "serviceId": "Snapchat",
-        "termsType": "Terms of Service"
-      }
-    ],
+    "newFailures": [],
     "recoveries": [],
     "reasonChanges": []
   },
