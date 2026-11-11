@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-10T13:05:17.426Z",
+    "date": "2026-11-11T01:03:51.926Z",
     "serviceName": "Snapchat",
     "sourceDocuments": [
       {
@@ -15,12 +15,9 @@
           "hr"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "d364db3785db86d7b9eea9886754191a2ffe49ff"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: net::ERR_CONNECTION_RESET at https://www.snap.com/en-GB/terms"
     ]
   }
 }
