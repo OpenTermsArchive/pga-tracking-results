@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "event": {
-    "date": "2026-11-11T13:38:43.269Z",
+    "date": "2026-11-12T01:09:56.659Z",
     "serviceName": "TikTok",
     "sourceDocuments": [
       {
@@ -15,7 +15,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "8ee20d0c27151f21af82517b5a968b1c87fa1461"
+        "snapshotId": "5b6750b69b3b2912d484e86a332e2cce7b1f63f3"
       },
       {
         "id": "community-guidelines-en-community-principles",
@@ -28,7 +28,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "25f539616a93eccb17e138f3cc35d1205c07a721"
+        "snapshotId": "528bcf16872e4123144c9e1bde9ba660018d1e87"
       },
       {
         "id": "community-guidelines-en-youth-safety",
@@ -41,7 +41,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "6792a230a8fe615e434c6d6818435e16ee534942"
+        "snapshotId": "7e5485e800e971aef8aeeaddb740f4ab6b6c607c"
       },
       {
         "id": "community-guidelines-en-safety-civility",
@@ -54,7 +54,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "96de377c1932e90f4083807f8fe226272551cf9e"
+        "snapshotId": "686a5f81f6d79ce276d9e77a887fbdcaee843943"
       },
       {
         "id": "community-guidelines-en-mental-behavioral-health",
@@ -67,7 +67,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "b31f7431099c7221c44bc30d7a8f0d5acb50c9fc"
+        "snapshotId": "9d53f07bf98a20bb7e0d9cd3a442cd72485bfacd"
       },
       {
         "id": "community-guidelines-en-sensitive-mature-themes",
@@ -80,7 +80,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "82fa8d9ce448d9d2b75600f9c9bc76ab057b464f"
+        "snapshotId": "6f52a9985c347c4344b5aa545ed372e3293b5682"
       },
       {
         "id": "community-guidelines-en-integrity-authenticity",
@@ -93,7 +93,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "01ba56adf037ad31defdec8ae18b5bee6b556187"
+        "snapshotId": "f6c3203579764ec5c8fb0b9994df9df8bc4880c2"
       },
       {
         "id": "community-guidelines-en-regulated-commercial-activities",
@@ -106,7 +106,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "c62230dc8b5b8462200d76951ee078db7c3bec6f"
+        "snapshotId": "b75b57a90ebd8b34f46887e73a1ca5b322b8c412"
       },
       {
         "id": "community-guidelines-en-privacy-security",
@@ -119,7 +119,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "522ae96bf5df603cbfa9e9d71f8e2f7269a1a247"
+        "snapshotId": "d54b8ad7fb174910a0687afffbde077d91d30eae"
       },
       {
         "id": "community-guidelines-en-fyf-standards",
@@ -132,7 +132,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "0905de912d4be67cc852bc52af3ceab218c5f6a2"
+        "snapshotId": "66e85157779e3c6acc4c8fb3104ca072c1503425"
       },
       {
         "id": "community-guidelines-en-accounts-features",
@@ -145,7 +145,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "17c2c0848eb91668737fcf557afc70fe825f460d"
+        "snapshotId": "6b8a20ef36aed44e657221f667a9f5fa8c1f5cb7"
       },
       {
         "id": "community-guidelines-en-enforcement",
@@ -158,13 +158,8 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "4c9e0f5fe44235ebfc261d36339889d747d42359"
+        "snapshotId": "2de4d31fa83f95977a2103082a3fcc9d64b4fc80"
       }
-    ],
-    "transientError": {
-      "reasons": [
-        "[fetch] Fetch failed: Received HTTP code 502 when trying to fetch 'https://www.tiktok.com/community-guidelines/en/privacy-security/'"
-      ]
-    }
+    ]
   }
 }
