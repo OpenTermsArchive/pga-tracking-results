@@ -1,7 +1,7 @@
 {
-  "status": "ok",
+  "status": "failed",
   "event": {
-    "date": "2026-10-07T12:48:47.166Z",
+    "date": "2026-11-13T03:50:12.524Z",
     "serviceName": "LinkedIn",
     "sourceDocuments": [
       {
@@ -16,9 +16,12 @@
         "filter": [
           "removeLinks"
         ],
-        "mimeType": "text/html",
-        "snapshotId": "4d9215c7d16bc31eb1cf941e04c14d18fbc32b4b"
+        "mimeType": null,
+        "snapshotId": null
       }
+    ],
+    "reasons": [
+      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://www.linkedin.com/legal/ads-policy'"
     ]
   }
 }
