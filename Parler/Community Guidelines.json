@@ -1,7 +1,7 @@
 {
-  "status": "ok",
+  "status": "failed",
   "event": {
-    "date": "2026-09-30T00:53:55.013Z",
+    "date": "2026-11-13T03:53:27.106Z",
     "serviceName": "Parler",
     "sourceDocuments": [
       {
@@ -10,9 +10,12 @@
         "select": "main",
         "remove": "footer",
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "0b9a23544319f3bf46c4cad6fa1223a39e5d0712"
+        "mimeType": null,
+        "snapshotId": null
       }
+    ],
+    "reasons": [
+      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://parler.com/community-guidelines/'"
     ]
   }
 }
