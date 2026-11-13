@@ -1,16 +1,19 @@
 {
-  "status": "ok",
+  "status": "failed",
   "event": {
-    "date": "2026-09-30T01:09:16.239Z",
+    "date": "2026-11-13T04:32:56.538Z",
     "serviceName": "Telegram",
     "sourceDocuments": [
       {
         "id": "privacy",
         "fetch": "https://telegram.org/privacy",
         "select": "#dev_page_content_wrap",
-        "mimeType": "text/html",
-        "snapshotId": "1a8d936c47f18b543b50723a071a6d2e6a789d1e"
+        "mimeType": null,
+        "snapshotId": null
       }
+    ],
+    "reasons": [
+      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://telegram.org/privacy'"
     ]
   }
 }
