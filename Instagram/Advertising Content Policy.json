@@ -1,7 +1,7 @@
 {
-  "status": "ok",
+  "status": "failed",
   "event": {
-    "date": "2026-09-30T00:52:48.584Z",
+    "date": "2026-11-13T03:43:30.560Z",
     "serviceName": "Instagram",
     "sourceDocuments": [
       {
@@ -21,9 +21,12 @@
           "removeLinks"
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "6165c48ebb6ea7cbd65479cc7ed4963eb0c3bbc4"
+        "mimeType": null,
+        "snapshotId": null
       }
+    ],
+    "reasons": [
+      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://transparency.meta.com/policies/ad-standards/'"
     ]
   }
 }
