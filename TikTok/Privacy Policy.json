@@ -1,7 +1,7 @@
 {
   "status": "failed",
   "event": {
-    "date": "2026-11-12T13:09:51.734Z",
+    "date": "2026-11-13T04:36:31.474Z",
     "serviceName": "TikTok",
     "sourceDocuments": [
       {
@@ -15,8 +15,8 @@
           "img[src*=\"/_assets/icon_arrow_down\"]"
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "55730fcc14e5f32858d48935126f5a05c7f194fd"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "legal-page-global-childrens-privacy-policy-en",
@@ -29,12 +29,13 @@
           "img[src*=\"/_assets/icon_arrow_down\"]"
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "d93b73c7b2f85e8f576ba1870bea1b9ecec2ca05"
+        "mimeType": null,
+        "snapshotId": null
       }
     ],
     "reasons": [
-      "[extraction] Extract failed: The provided selector \"[\".policy-title\",\"section.content\"]\" has no match in the web page at 'https://www.tiktok.com/legal/privacy-policy-eea?lang=en'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content."
+      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.tiktok.com/legal/privacy-policy-eea?lang=en'",
+      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.tiktok.com/legal/page/global/childrens-privacy-policy/en'"
     ]
   }
 }
