@@ -1,7 +1,7 @@
 {
-  "status": "ok",
+  "status": "failed",
   "event": {
-    "date": "2026-09-30T01:10:00.123Z",
+    "date": "2026-11-13T04:35:29.542Z",
     "serviceName": "TikTok",
     "sourceDocuments": [
       {
@@ -11,9 +11,12 @@
           "#policy-card"
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "d5ec393afd792cf04b1978c1efd08d487dca85b5"
+        "mimeType": null,
+        "snapshotId": null
       }
+    ],
+    "reasons": [
+      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.tiktok.com/legal/terms-of-use?lang=en'"
     ]
   }
 }
