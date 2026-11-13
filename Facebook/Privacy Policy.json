@@ -1,7 +1,7 @@
 {
-  "status": "ok",
+  "status": "failed",
   "event": {
-    "date": "2026-09-30T00:30:57.073Z",
+    "date": "2026-11-13T03:07:49.257Z",
     "serviceName": "Facebook",
     "sourceDocuments": [
       {
@@ -26,9 +26,12 @@
           "removeHelpButtons"
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "ca4a19673ef5ff071056d0d459b62a31ca867935"
+        "mimeType": null,
+        "snapshotId": null
       }
+    ],
+    "reasons": [
+      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://mbasic.facebook.com/privacy/policy/printable/'"
     ]
   }
 }
