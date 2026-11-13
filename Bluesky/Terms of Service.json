@@ -1,7 +1,7 @@
 {
-  "status": "ok",
+  "status": "failed",
   "event": {
-    "date": "2026-10-29T00:30:23.251Z",
+    "date": "2026-11-13T03:06:06.916Z",
     "serviceName": "Bluesky",
     "sourceDocuments": [
       {
@@ -9,9 +9,12 @@
         "fetch": "https://bsky.social/about/support/tos",
         "select": "main",
         "remove": "[class*=flex]",
-        "mimeType": "text/html",
-        "snapshotId": "016730f0c060d29d03293cb0b0ee7a461fa69405"
+        "mimeType": null,
+        "snapshotId": null
       }
+    ],
+    "reasons": [
+      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://bsky.social/about/support/tos'"
     ]
   }
 }
