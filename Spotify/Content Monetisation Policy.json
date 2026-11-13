@@ -1,7 +1,7 @@
 {
-  "status": "ok",
+  "status": "failed",
   "event": {
-    "date": "2026-09-30T01:08:58.620Z",
+    "date": "2026-11-13T04:32:05.516Z",
     "serviceName": "Spotify",
     "sourceDocuments": [
       {
@@ -19,8 +19,8 @@
           "[data-testid='cta-card']",
           "[role='list']"
         ],
-        "mimeType": "text/html",
-        "snapshotId": "cbf53ea36faa326bf6e6c20b85b8c9a6a8c2d8a7"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "us-creators-article-spotify-partner-program-terms",
@@ -37,9 +37,13 @@
           "[data-testid='cta-card']",
           "[role='list']"
         ],
-        "mimeType": "text/html",
-        "snapshotId": "4725a8343935db981a8648fc86c3527e039675eb"
+        "mimeType": null,
+        "snapshotId": null
       }
+    ],
+    "reasons": [
+      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://support.spotify.com/us/creators/article/spotify-partner-program-monetization-policies/'",
+      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://support.spotify.com/us/creators/article/spotify-partner-program-terms/'"
     ]
   }
 }
