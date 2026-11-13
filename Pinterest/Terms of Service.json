@@ -1,7 +1,7 @@
 {
-  "status": "ok",
+  "status": "failed",
   "event": {
-    "date": "2026-09-30T00:53:59.587Z",
+    "date": "2026-11-13T03:54:18.119Z",
     "serviceName": "Pinterest",
     "sourceDocuments": [
       {
@@ -11,9 +11,12 @@
         "remove": [
           ".chakra-link"
         ],
-        "mimeType": "text/html",
-        "snapshotId": "9d7772c1bf7d631cae3c0f687e20315b11ed2133"
+        "mimeType": null,
+        "snapshotId": null
       }
+    ],
+    "reasons": [
+      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://policy.pinterest.com/en-gb/terms-of-service'"
     ]
   }
 }
