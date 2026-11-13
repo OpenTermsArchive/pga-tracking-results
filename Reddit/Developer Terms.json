@@ -1,7 +1,7 @@
 {
-  "status": "ok",
+  "status": "failed",
   "event": {
-    "date": "2026-09-30T01:07:15.289Z",
+    "date": "2026-11-13T04:21:48.447Z",
     "serviceName": "Reddit",
     "sourceDocuments": [
       {
@@ -17,9 +17,12 @@
           ".lang_switcher_class"
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "9bfc5ac6c4bcb5a24912df758a2625cf25be1ca0"
+        "mimeType": null,
+        "snapshotId": null
       }
+    ],
+    "reasons": [
+      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://redditinc.com/policies/developer-terms'"
     ]
   }
 }
