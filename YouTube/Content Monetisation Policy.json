@@ -1,7 +1,7 @@
 {
-  "status": "ok",
+  "status": "failed",
   "event": {
-    "date": "2026-09-30T01:33:26.738Z",
+    "date": "2026-11-13T05:39:29.550Z",
     "serviceName": "YouTube",
     "sourceDocuments": [
       {
@@ -12,8 +12,8 @@
           "#article-survey-container",
           ".need-more-help-container"
         ],
-        "mimeType": "text/html",
-        "snapshotId": "fea02a9b6343601dfa06cd1a27f83933fe2e2362"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "youtube-answer-6162278",
@@ -23,9 +23,13 @@
           "#article-survey-container",
           ".need-more-help-container"
         ],
-        "mimeType": "text/html",
-        "snapshotId": "73f8beb1997c56640fa8280aa8779e17b1e737df"
+        "mimeType": null,
+        "snapshotId": null
       }
+    ],
+    "reasons": [
+      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://support.google.com/youtube/answer/1311392?hl=en'",
+      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://support.google.com/youtube/answer/6162278?hl=en&sjid=7026834534181460115-EU'"
     ]
   }
 }
