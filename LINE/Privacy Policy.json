@@ -1,7 +1,7 @@
 {
-  "status": "ok",
+  "status": "failed",
   "event": {
-    "date": "2026-09-30T00:53:00.366Z",
+    "date": "2026-11-13T03:44:10.894Z",
     "serviceName": "LINE",
     "sourceDocuments": [
       {
@@ -11,9 +11,12 @@
           "h1",
           "[class*=body-container]"
         ],
-        "mimeType": "text/html",
-        "snapshotId": "2a1ffcadd5e865fb41a48d0deed4c3381a926baa"
+        "mimeType": null,
+        "snapshotId": null
       }
+    ],
+    "reasons": [
+      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://terms.line.me/line_rules/?lang=en'"
     ]
   }
 }
