@@ -1,7 +1,7 @@
 {
-  "status": "ok",
+  "status": "failed",
   "event": {
-    "date": "2026-09-30T00:54:01.352Z",
+    "date": "2026-11-13T03:54:38.293Z",
     "serviceName": "Pinterest",
     "sourceDocuments": [
       {
@@ -11,9 +11,12 @@
         "remove": [
           ".chakra-link"
         ],
-        "mimeType": "text/html",
-        "snapshotId": "5099c33f17aabdd67faeb56fbda2d36b47992e75"
+        "mimeType": null,
+        "snapshotId": null
       }
+    ],
+    "reasons": [
+      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://policy.pinterest.com/en-gb/privacy-policy'"
     ]
   }
 }
