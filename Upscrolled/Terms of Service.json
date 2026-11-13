@@ -1,7 +1,7 @@
 {
-  "status": "ok",
+  "status": "failed",
   "event": {
-    "date": "2026-09-30T01:18:03.186Z",
+    "date": "2026-11-13T04:55:18.195Z",
     "serviceName": "Upscrolled",
     "sourceDocuments": [
       {
@@ -11,9 +11,12 @@
           "main"
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "daf3367188392619be995bb1f8d75ca28d39e6e5"
+        "mimeType": null,
+        "snapshotId": null
       }
+    ],
+    "reasons": [
+      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://upscrolled.com/en/terms-of-service/'"
     ]
   }
 }
