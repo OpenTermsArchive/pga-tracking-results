@@ -1,7 +1,7 @@
 {
-  "status": "ok",
+  "status": "failed",
   "event": {
-    "date": "2026-09-30T01:07:40.879Z",
+    "date": "2026-11-13T04:22:50.077Z",
     "serviceName": "Snapchat",
     "sourceDocuments": [
       {
@@ -11,9 +11,12 @@
           "[data-testid=\"page\"]"
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "c9b6210619569b8d21fa5cd0313dbb1e52a75b57"
+        "mimeType": null,
+        "snapshotId": null
       }
+    ],
+    "reasons": [
+      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.snap.com/en-GB/privacy/privacy-policy'"
     ]
   }
 }
