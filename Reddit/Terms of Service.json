@@ -1,7 +1,7 @@
 {
-  "status": "ok",
+  "status": "failed",
   "event": {
-    "date": "2026-09-30T00:56:44.486Z",
+    "date": "2026-11-13T04:01:48.432Z",
     "serviceName": "Reddit",
     "sourceDocuments": [
       {
@@ -9,9 +9,12 @@
         "fetch": "https://www.redditinc.com/policies/user-agreement",
         "select": "#content",
         "remove": ".filter-holder",
-        "mimeType": "text/html",
-        "snapshotId": "859a3ee73bf134461746eed22e281cf1ba163ec7"
+        "mimeType": null,
+        "snapshotId": null
       }
+    ],
+    "reasons": [
+      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://www.redditinc.com/policies/user-agreement'"
     ]
   }
 }
