@@ -1,7 +1,7 @@
 {
-  "status": "ok",
+  "status": "failed",
   "event": {
-    "date": "2026-10-08T01:14:39.997Z",
+    "date": "2026-11-13T04:44:12.896Z",
     "serviceName": "TikTok",
     "sourceDocuments": [
       {
@@ -11,9 +11,12 @@
           ".content"
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "229a85a093dee586a9942672b6f9431e174c8360"
+        "mimeType": null,
+        "snapshotId": null
       }
+    ],
+    "reasons": [
+      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.tiktok.com/legal/copyright-policy?lang=en'"
     ]
   }
 }
