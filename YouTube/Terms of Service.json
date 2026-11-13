@@ -1,16 +1,19 @@
 {
-  "status": "ok",
+  "status": "failed",
   "event": {
-    "date": "2026-09-30T01:32:38.061Z",
+    "date": "2026-11-13T05:30:28.291Z",
     "serviceName": "YouTube",
     "sourceDocuments": [
       {
         "id": "t-terms",
         "fetch": "https://www.youtube.com/t/terms",
         "select": "div#main-content",
-        "mimeType": "text/html",
-        "snapshotId": "34befdee80bf9a6629131ba04ed89a48ccf5ab3f"
+        "mimeType": null,
+        "snapshotId": null
       }
+    ],
+    "reasons": [
+      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://www.youtube.com/t/terms'"
     ]
   }
 }
