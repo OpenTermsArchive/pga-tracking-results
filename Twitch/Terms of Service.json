@@ -1,7 +1,7 @@
 {
-  "status": "ok",
+  "status": "failed",
   "event": {
-    "date": "2026-11-01T01:12:54.214Z",
+    "date": "2026-11-13T04:49:08.087Z",
     "serviceName": "Twitch",
     "sourceDocuments": [
       {
@@ -12,9 +12,12 @@
           ".highlight-container"
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "9cf88d2b203f479e19b47171ad2eb541f84ae0fd"
+        "mimeType": null,
+        "snapshotId": null
       }
+    ],
+    "reasons": [
+      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.twitch.tv/p/en/legal/terms-of-service/'"
     ]
   }
 }
