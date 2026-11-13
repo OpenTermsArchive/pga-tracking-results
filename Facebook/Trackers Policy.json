@@ -1,7 +1,7 @@
 {
-  "status": "ok",
+  "status": "failed",
   "event": {
-    "date": "2026-09-30T00:31:14.691Z",
+    "date": "2026-11-13T03:08:40.352Z",
     "serviceName": "Facebook",
     "sourceDocuments": [
       {
@@ -14,9 +14,12 @@
           "cleanUrls"
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "d97cd4c2bcb9d1ffd9bfb3ced9150c1cba35b152"
+        "mimeType": null,
+        "snapshotId": null
       }
+    ],
+    "reasons": [
+      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.facebook.com/policies/cookies'"
     ]
   }
 }
