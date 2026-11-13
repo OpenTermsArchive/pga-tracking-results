@@ -1,7 +1,7 @@
 {
-  "status": "ok",
+  "status": "failed",
   "event": {
-    "date": "2026-09-30T01:08:24.787Z",
+    "date": "2026-11-13T04:24:53.258Z",
     "serviceName": "Snapchat",
     "sourceDocuments": [
       {
@@ -14,8 +14,8 @@
           "img"
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "3fdad45ddfa97998f98b449187c8bfabdf1d3d4e"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "terms-creator-stories",
@@ -27,9 +27,13 @@
           "img"
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "ef368b6e8852c832df9046446f42e023a268b135"
+        "mimeType": null,
+        "snapshotId": null
       }
+    ],
+    "reasons": [
+      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.snap.com/monetization-terms'",
+      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.snap.com/terms/creator-stories'"
     ]
   }
 }
