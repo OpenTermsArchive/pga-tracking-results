@@ -1,7 +1,7 @@
 {
-  "status": "ok",
+  "status": "failed",
   "event": {
-    "date": "2026-11-12T01:09:56.659Z",
+    "date": "2026-11-13T04:42:40.556Z",
     "serviceName": "TikTok",
     "sourceDocuments": [
       {
@@ -14,8 +14,8 @@
           "img"
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "5b6750b69b3b2912d484e86a332e2cce7b1f63f3"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "community-guidelines-en-community-principles",
@@ -27,8 +27,8 @@
           "img"
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "528bcf16872e4123144c9e1bde9ba660018d1e87"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "community-guidelines-en-youth-safety",
@@ -40,8 +40,8 @@
           "img"
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "7e5485e800e971aef8aeeaddb740f4ab6b6c607c"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "community-guidelines-en-safety-civility",
@@ -53,8 +53,8 @@
           "img"
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "686a5f81f6d79ce276d9e77a887fbdcaee843943"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "community-guidelines-en-mental-behavioral-health",
@@ -66,8 +66,8 @@
           "img"
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "9d53f07bf98a20bb7e0d9cd3a442cd72485bfacd"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "community-guidelines-en-sensitive-mature-themes",
@@ -79,8 +79,8 @@
           "img"
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "6f52a9985c347c4344b5aa545ed372e3293b5682"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "community-guidelines-en-integrity-authenticity",
@@ -92,8 +92,8 @@
           "img"
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "f6c3203579764ec5c8fb0b9994df9df8bc4880c2"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "community-guidelines-en-regulated-commercial-activities",
@@ -105,8 +105,8 @@
           "img"
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "b75b57a90ebd8b34f46887e73a1ca5b322b8c412"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "community-guidelines-en-privacy-security",
@@ -118,8 +118,8 @@
           "img"
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "d54b8ad7fb174910a0687afffbde077d91d30eae"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "community-guidelines-en-fyf-standards",
@@ -131,8 +131,8 @@
           "img"
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "66e85157779e3c6acc4c8fb3104ca072c1503425"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "community-guidelines-en-accounts-features",
@@ -144,8 +144,8 @@
           "img"
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "6b8a20ef36aed44e657221f667a9f5fa8c1f5cb7"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "community-guidelines-en-enforcement",
@@ -157,9 +157,23 @@
           "img"
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "2de4d31fa83f95977a2103082a3fcc9d64b4fc80"
+        "mimeType": null,
+        "snapshotId": null
       }
+    ],
+    "reasons": [
+      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.tiktok.com/community-guidelines?lang=en'",
+      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.tiktok.com/community-guidelines/en/community-principles/'",
+      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.tiktok.com/community-guidelines/en/youth-safety/'",
+      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.tiktok.com/community-guidelines/en/safety-civility/'",
+      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.tiktok.com/community-guidelines/en/mental-behavioral-health/'",
+      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.tiktok.com/community-guidelines/en/sensitive-mature-themes/'",
+      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.tiktok.com/community-guidelines/en/integrity-authenticity/'",
+      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.tiktok.com/community-guidelines/en/regulated-commercial-activities/'",
+      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.tiktok.com/community-guidelines/en/privacy-security/'",
+      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.tiktok.com/community-guidelines/en/fyf-standards/'",
+      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.tiktok.com/community-guidelines/en/accounts-features/'",
+      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.tiktok.com/community-guidelines/en/enforcement/'"
     ]
   }
 }
