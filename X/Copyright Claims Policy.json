@@ -1,7 +1,7 @@
 {
-  "status": "ok",
+  "status": "failed",
   "event": {
-    "date": "2026-10-15T01:16:17.897Z",
+    "date": "2026-11-13T05:03:38.055Z",
     "serviceName": "X",
     "sourceDocuments": [
       {
@@ -20,9 +20,12 @@
           "useXHelpCenterBaseURL"
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "4b87dfce2352c686cd9403a35ac773eace6c9ad5"
+        "mimeType": null,
+        "snapshotId": null
       }
+    ],
+    "reasons": [
+      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://help.x.com/en/rules-and-policies/copyright-policy'"
     ]
   }
 }
