@@ -1,7 +1,7 @@
 {
-  "status": "ok",
+  "status": "failed",
   "event": {
-    "date": "2026-09-30T00:40:11.727Z",
+    "date": "2026-11-13T03:26:26.481Z",
     "serviceName": "Instagram",
     "sourceDocuments": [
       {
@@ -22,9 +22,12 @@
           "removeLinks"
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "81fa759ef9c383842af3e3cb26dbb45a63ebed6c"
+        "mimeType": null,
+        "snapshotId": null
       }
+    ],
+    "reasons": [
+      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://help.instagram.com/581066165581870'"
     ]
   }
 }
