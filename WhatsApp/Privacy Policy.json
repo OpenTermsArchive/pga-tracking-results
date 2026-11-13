@@ -1,7 +1,7 @@
 {
-  "status": "ok",
+  "status": "failed",
   "event": {
-    "date": "2026-09-30T01:18:23.450Z",
+    "date": "2026-11-13T04:58:11.507Z",
     "serviceName": "WhatsApp",
     "sourceDocuments": [
       {
@@ -14,9 +14,12 @@
           "[href='#top-of-page']",
           "img"
         ],
-        "mimeType": "text/html",
-        "snapshotId": "65eba545cf6fddddc46f243e70fac004b1f83f13"
+        "mimeType": null,
+        "snapshotId": null
       }
+    ],
+    "reasons": [
+      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://www.whatsapp.com/legal/privacy-policy-eea?lang=en'"
     ]
   }
 }
