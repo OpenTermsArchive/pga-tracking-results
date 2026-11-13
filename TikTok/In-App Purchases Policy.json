@@ -1,7 +1,7 @@
 {
-  "status": "ok",
+  "status": "failed",
   "event": {
-    "date": "2026-09-30T01:14:25.655Z",
+    "date": "2026-11-13T04:44:43.672Z",
     "serviceName": "TikTok",
     "sourceDocuments": [
       {
@@ -14,9 +14,12 @@
           "[data-testid=\"language-selection-header\"]"
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "ea374632bc1eb6787db63a076a2986c59cbe9a50"
+        "mimeType": null,
+        "snapshotId": null
       }
+    ],
+    "reasons": [
+      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.tiktok.com/legal/virtual-items?lang=en'"
     ]
   }
 }
