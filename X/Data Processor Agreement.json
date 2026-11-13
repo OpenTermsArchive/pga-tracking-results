@@ -1,7 +1,7 @@
 {
-  "status": "ok",
+  "status": "failed",
   "event": {
-    "date": "2026-10-15T01:17:03.887Z",
+    "date": "2026-11-13T05:05:10.463Z",
     "serviceName": "X",
     "sourceDocuments": [
       {
@@ -20,9 +20,12 @@
           "useXHelpCenterBaseURL"
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "036360963694f249b383050749bf14ab019dbf81"
+        "mimeType": null,
+        "snapshotId": null
       }
+    ],
+    "reasons": [
+      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://help.x.com/en/rules-and-policies/data-processing-legal-bases'"
     ]
   }
 }
