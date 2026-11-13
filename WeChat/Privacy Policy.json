@@ -1,7 +1,7 @@
 {
-  "status": "ok",
+  "status": "failed",
   "event": {
-    "date": "2026-09-30T01:18:17.096Z",
+    "date": "2026-11-13T04:57:10.972Z",
     "serviceName": "WeChat",
     "sourceDocuments": [
       {
@@ -9,9 +9,12 @@
         "fetch": "https://www.wechat.com/en/privacy_policy.html",
         "select": "#agreement6",
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "f05762c91be6064ded0a0a15ec2135fb8d22e1eb"
+        "mimeType": null,
+        "snapshotId": null
       }
+    ],
+    "reasons": [
+      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.wechat.com/en/privacy_policy.html'"
     ]
   }
 }
