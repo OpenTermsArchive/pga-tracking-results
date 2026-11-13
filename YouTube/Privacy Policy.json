@@ -1,7 +1,7 @@
 {
-  "status": "ok",
+  "status": "failed",
   "event": {
-    "date": "2026-09-30T01:32:37.340Z",
+    "date": "2026-11-13T05:30:08.105Z",
     "serviceName": "YouTube",
     "sourceDocuments": [
       {
@@ -9,9 +9,12 @@
         "fetch": "https://policies.google.com/privacy",
         "select": "div[role=\"article\"]",
         "remove": "img[src$='.svg'], img[src^='data:image/svg+xml']",
-        "mimeType": "text/html",
-        "snapshotId": "361172766878b85506bf644253f72e2baf6d3fee"
+        "mimeType": null,
+        "snapshotId": null
       }
+    ],
+    "reasons": [
+      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://policies.google.com/privacy'"
     ]
   }
 }
