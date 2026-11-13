@@ -1,7 +1,7 @@
 {
-  "status": "ok",
+  "status": "failed",
   "event": {
-    "date": "2026-09-30T00:56:49.466Z",
+    "date": "2026-11-13T04:02:19.280Z",
     "serviceName": "Reddit",
     "sourceDocuments": [
       {
@@ -14,9 +14,12 @@
           "button"
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "740b06fb7aeb065d6d0bf3a2c4fb9e158968ffb9"
+        "mimeType": null,
+        "snapshotId": null
       }
+    ],
+    "reasons": [
+      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.redditinc.com/policies/privacy-policy'"
     ]
   }
 }
