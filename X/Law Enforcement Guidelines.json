@@ -1,7 +1,7 @@
 {
-  "status": "ok",
+  "status": "failed",
   "event": {
-    "date": "2026-10-15T01:16:32.734Z",
+    "date": "2026-11-13T05:04:08.854Z",
     "serviceName": "X",
     "sourceDocuments": [
       {
@@ -20,9 +20,12 @@
           "useXHelpCenterBaseURL"
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "891a7a272c9e0452d95db48d3fad1775e7166c24"
+        "mimeType": null,
+        "snapshotId": null
       }
+    ],
+    "reasons": [
+      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://help.x.com/en/rules-and-policies/twitter-law-enforcement-support'"
     ]
   }
 }
