@@ -1,7 +1,7 @@
 {
-  "status": "ok",
+  "status": "failed",
   "event": {
-    "date": "2026-09-30T01:08:55.051Z",
+    "date": "2026-11-13T04:31:05.151Z",
     "serviceName": "Spotify",
     "sourceDocuments": [
       {
@@ -20,8 +20,8 @@
           "[data-encore-id=textLink]",
           "img"
         ],
-        "mimeType": "text/html",
-        "snapshotId": "39922421c106c7f980a88bcd3ff130967534ffe3"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "de-en-safetyandprivacy-content-actions",
@@ -39,8 +39,8 @@
           "[data-encore-id=textLink]",
           "img"
         ],
-        "mimeType": "text/html",
-        "snapshotId": "827353e49f4d2547e545c3c666d478df885b705e"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "de-en-safetyandprivacy-reporting-content",
@@ -58,8 +58,8 @@
           "[data-encore-id=textLink]",
           "img"
         ],
-        "mimeType": "text/html",
-        "snapshotId": "ed0bdc8644ef5306565b080c97abf15ed5bcb42e"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "de-en-safetyandprivacy-parental-guide",
@@ -77,8 +77,8 @@
           "[data-encore-id=textLink]",
           "img"
         ],
-        "mimeType": "text/html",
-        "snapshotId": "5052786626e6c838634c5429b5363ce59f644ce8"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "de-en-safetyandprivacy-age-assurance",
@@ -96,8 +96,8 @@
           "[data-encore-id=textLink]",
           "img"
         ],
-        "mimeType": "text/html",
-        "snapshotId": "a181bd2c262e466b5f785aff52e48102d63d004d"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "de-en-safetyandprivacy-elections-integrity",
@@ -115,8 +115,8 @@
           "[data-encore-id=textLink]",
           "img"
         ],
-        "mimeType": "text/html",
-        "snapshotId": "478d6ae72014334198b446dd2f7915e3a06cace4"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "de-en-safetyandprivacy-dangerous-deceptive-content",
@@ -134,8 +134,8 @@
           "[data-encore-id=textLink]",
           "img"
         ],
-        "mimeType": "text/html",
-        "snapshotId": "fd5a58854fffae111aca4982c3becab46c34ee77"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "de-en-safetyandprivacy-violent-extremism",
@@ -153,8 +153,8 @@
           "[data-encore-id=textLink]",
           "img"
         ],
-        "mimeType": "text/html",
-        "snapshotId": "13cfab9adf31c045496216b2582c33f4ad8e50eb"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "de-en-safetyandprivacy-understanding-recommendations",
@@ -172,8 +172,8 @@
           "[data-encore-id=textLink]",
           "img"
         ],
-        "mimeType": "text/html",
-        "snapshotId": "f58a246b494b883d5069ea6c3a00017096cbef40"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "de-en-safetyandprivacy-dsa-points-of-contact",
@@ -191,8 +191,8 @@
           "[data-encore-id=textLink]",
           "img"
         ],
-        "mimeType": "text/html",
-        "snapshotId": "0f525b3f8f140388b55e2bd96a77db22a2d21ec0"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "de-en-safetyandprivacy-personal-data-collected",
@@ -210,8 +210,8 @@
           "[data-encore-id=textLink]",
           "img"
         ],
-        "mimeType": "text/html",
-        "snapshotId": "d029f398c580261ea92b4ac83aad70b2579010aa"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "de-en-safetyandprivacy-protecting-personal-data",
@@ -229,8 +229,8 @@
           "[data-encore-id=textLink]",
           "img"
         ],
-        "mimeType": "text/html",
-        "snapshotId": "228f0389bfd6b433f31eaa2d7ba475bc44a73e9a"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "de-en-safetyandprivacy-privacy-controls",
@@ -248,8 +248,8 @@
           "[data-encore-id=textLink]",
           "img"
         ],
-        "mimeType": "text/html",
-        "snapshotId": "82c52b54e61eeed5fa38e601c526ff707e824d63"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "de-en-safetyandprivacy-transparency",
@@ -267,9 +267,25 @@
           "[data-encore-id=textLink]",
           "img"
         ],
-        "mimeType": "text/html",
-        "snapshotId": "943ec5162f39ef986b206ba86cba7aaef990572f"
+        "mimeType": null,
+        "snapshotId": null
       }
+    ],
+    "reasons": [
+      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://www.spotify.com/de-en/safetyandprivacy/platform-rules'",
+      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://www.spotify.com/de-en/safetyandprivacy/content-actions'",
+      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://www.spotify.com/de-en/safetyandprivacy/reporting-content'",
+      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://www.spotify.com/de-en/safetyandprivacy/parental-guide'",
+      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://www.spotify.com/de-en/safetyandprivacy/age-assurance'",
+      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://www.spotify.com/de-en/safetyandprivacy/elections-integrity'",
+      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://www.spotify.com/de-en/safetyandprivacy/dangerous-deceptive-content'",
+      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://www.spotify.com/de-en/safetyandprivacy/violent-extremism'",
+      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://www.spotify.com/de-en/safetyandprivacy/understanding-recommendations'",
+      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://www.spotify.com/de-en/safetyandprivacy/dsa-points-of-contact'",
+      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://www.spotify.com/de-en/safetyandprivacy/personal-data-collected'",
+      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://www.spotify.com/de-en/safetyandprivacy/protecting-personal-data'",
+      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://www.spotify.com/de-en/safetyandprivacy/privacy-controls'",
+      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://www.spotify.com/de-en/safetyandprivacy/transparency'"
     ]
   }
 }
