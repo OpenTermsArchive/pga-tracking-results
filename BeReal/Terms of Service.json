@@ -1,7 +1,7 @@
 {
-  "status": "ok",
+  "status": "failed",
   "event": {
-    "date": "2026-09-30T00:30:21.183Z",
+    "date": "2026-11-13T03:05:06.397Z",
     "serviceName": "BeReal",
     "sourceDocuments": [
       {
@@ -10,9 +10,12 @@
         "select": [
           "[data-framer-name='Column']"
         ],
-        "mimeType": "text/html",
-        "snapshotId": "9803077889c6c5d1e1542e53b6b7c57b62262df2"
+        "mimeType": null,
+        "snapshotId": null
       }
+    ],
+    "reasons": [
+      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://bereal.com/terms/'"
     ]
   }
 }
