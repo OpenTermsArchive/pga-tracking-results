@@ -1,7 +1,7 @@
 {
-  "status": "ok",
+  "status": "failed",
   "event": {
-    "date": "2026-09-30T01:32:40.261Z",
+    "date": "2026-11-13T05:31:08.610Z",
     "serviceName": "YouTube",
     "sourceDocuments": [
       {
@@ -17,9 +17,12 @@
           "svg",
           ".mobile-only"
         ],
-        "mimeType": "text/html",
-        "snapshotId": "9ace26ae15452c1c2fbf98bbf2db98d8f7635e78"
+        "mimeType": null,
+        "snapshotId": null
       }
+    ],
+    "reasons": [
+      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://www.youtube.com/intl/en_be/howyoutubeworks/policies/copyright/'"
     ]
   }
 }
