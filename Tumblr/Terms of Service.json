@@ -1,7 +1,7 @@
 {
-  "status": "ok",
+  "status": "failed",
   "event": {
-    "date": "2026-09-30T01:15:21.030Z",
+    "date": "2026-11-13T04:48:17.003Z",
     "serviceName": "Tumblr",
     "sourceDocuments": [
       {
@@ -10,9 +10,12 @@
         "select": [
           "#left_column"
         ],
-        "mimeType": "text/html",
-        "snapshotId": "19fab705bf70f1d81fe472b6929789efbd17f8a2"
+        "mimeType": null,
+        "snapshotId": null
       }
+    ],
+    "reasons": [
+      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://www.tumblr.com/policy/en/terms-of-service'"
     ]
   }
 }
