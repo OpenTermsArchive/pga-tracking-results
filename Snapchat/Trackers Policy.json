@@ -1,7 +1,7 @@
 {
-  "status": "ok",
+  "status": "failed",
   "event": {
-    "date": "2026-09-30T01:07:46.695Z",
+    "date": "2026-11-13T04:23:20.895Z",
     "serviceName": "Snapchat",
     "sourceDocuments": [
       {
@@ -9,9 +9,12 @@
         "fetch": "https://www.snap.com/en-GB/cookie-policy/",
         "select": "[data-testid=\"page\"]",
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "3347d1169dc7a4c9a524ab86b097b263b8fa356d"
+        "mimeType": null,
+        "snapshotId": null
       }
+    ],
+    "reasons": [
+      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.snap.com/en-GB/cookie-policy/'"
     ]
   }
 }
