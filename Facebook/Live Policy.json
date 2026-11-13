@@ -1,7 +1,7 @@
 {
-  "status": "ok",
+  "status": "failed",
   "event": {
-    "date": "2026-10-05T12:32:39.254Z",
+    "date": "2026-11-13T03:11:45.148Z",
     "serviceName": "Facebook",
     "sourceDocuments": [
       {
@@ -17,8 +17,8 @@
           "removeTrackingIDs"
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "1c479165c9347b58b2be09a0944c2b8270ab3fb2"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "business-help-859112078191288",
@@ -39,9 +39,13 @@
           "removeTrackingIDs"
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "674388fa622585b6130924bb267f005450c93136"
+        "mimeType": null,
+        "snapshotId": null
       }
+    ],
+    "reasons": [
+      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.facebook.com/policies/live'",
+      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.facebook.com/business/help/859112078191288?id=1123223941353904'"
     ]
   }
 }
