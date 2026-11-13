@@ -1,7 +1,7 @@
 {
-  "status": "ok",
+  "status": "failed",
   "event": {
-    "date": "2026-09-30T01:18:28.190Z",
+    "date": "2026-11-13T04:59:32.049Z",
     "serviceName": "X",
     "sourceDocuments": [
       {
@@ -19,16 +19,20 @@
           ".b04__image",
           ".twtr-hidden--lg"
         ],
-        "mimeType": "text/html",
-        "snapshotId": "21f3b8a6194e3e589b3b21dd778aebecae84fb27"
+        "mimeType": null,
+        "snapshotId": null
       },
       {
         "id": "en",
         "fetch": "https://gdpr.x.com/en.html",
         "select": "main",
-        "mimeType": "text/html",
-        "snapshotId": "23a8e306ad51a004011b0e1c611c05ef0691cbd6"
+        "mimeType": null,
+        "snapshotId": null
       }
+    ],
+    "reasons": [
+      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://x.com/en/privacy'",
+      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://gdpr.x.com/en.html'"
     ]
   }
 }
