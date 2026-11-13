@@ -1,7 +1,7 @@
 {
-  "status": "ok",
+  "status": "failed",
   "event": {
-    "date": "2026-09-30T01:09:15.486Z",
+    "date": "2026-11-13T04:32:36.359Z",
     "serviceName": "Spotify",
     "sourceDocuments": [
       {
@@ -18,9 +18,12 @@
           "c-article-vote"
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "e5ea4cfc7653ab6bec27d505cd1031a9bfdabaaa"
+        "mimeType": null,
+        "snapshotId": null
       }
+    ],
+    "reasons": [
+      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://adshelp.spotify.com/s/article/advertising-policies-UK?language=en_GB'"
     ]
   }
 }
