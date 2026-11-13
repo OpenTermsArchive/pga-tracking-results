@@ -1,7 +1,7 @@
 {
-  "status": "ok",
+  "status": "failed",
   "event": {
-    "date": "2026-09-30T01:08:39.133Z",
+    "date": "2026-11-13T04:25:24.081Z",
     "serviceName": "Snapchat",
     "sourceDocuments": [
       {
@@ -17,9 +17,12 @@
           "li"
         ],
         "executeClientScripts": true,
-        "mimeType": "text/html",
-        "snapshotId": "21f7837237b1fafc02c980ff982d5da6ee9414ae"
+        "mimeType": null,
+        "snapshotId": null
       }
+    ],
+    "reasons": [
+      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.snap.com/ad-policies?lang=en-GB'"
     ]
   }
 }
