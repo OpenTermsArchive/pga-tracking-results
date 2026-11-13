@@ -1,7 +1,7 @@
 {
-  "status": "ok",
+  "status": "failed",
   "event": {
-    "date": "2026-09-30T01:15:20.096Z",
+    "date": "2026-11-13T04:47:56.836Z",
     "serviceName": "Tumblr",
     "sourceDocuments": [
       {
@@ -10,9 +10,12 @@
         "select": [
           "#left_column"
         ],
-        "mimeType": "text/html",
-        "snapshotId": "4f9b89c678e9a169d5beb29e3a584a10881e70b2"
+        "mimeType": null,
+        "snapshotId": null
       }
+    ],
+    "reasons": [
+      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://www.tumblr.com/privacy/en'"
     ]
   }
 }
