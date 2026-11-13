@@ -1,7 +1,7 @@
 {
-  "status": "ok",
+  "status": "failed",
   "event": {
-    "date": "2026-09-30T00:30:23.210Z",
+    "date": "2026-11-13T03:05:26.593Z",
     "serviceName": "BeReal",
     "sourceDocuments": [
       {
@@ -10,9 +10,12 @@
         "select": [
           "[data-framer-name='Column']"
         ],
-        "mimeType": "text/html",
-        "snapshotId": "5d0d0c7e9d0b93fc391034cf90a1002e0a0ed72b"
+        "mimeType": null,
+        "snapshotId": null
       }
+    ],
+    "reasons": [
+      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://bereal.com/privacy-2/'"
     ]
   }
 }
