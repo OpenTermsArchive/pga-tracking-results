@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-13T04:46:56.330Z",
+    "date": "2026-11-14T01:11:42.841Z",
     "serviceName": "Truth Social",
     "sourceDocuments": [
       {
@@ -11,12 +11,9 @@
           "h1",
           "main"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "8859ed0e560627600f51db1bb2d7c46b999214e6"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://help.truthsocial.com/legal/terms-of-service/'"
     ]
   }
 }
