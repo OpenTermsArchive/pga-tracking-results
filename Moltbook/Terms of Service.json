@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-13T03:51:34.447Z",
+    "date": "2026-11-14T00:49:12.730Z",
     "serviceName": "Moltbook",
     "sourceDocuments": [
       {
@@ -10,12 +10,9 @@
         "select": [
           ".legal-content"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "2c7babf09592458191d84e210ebac5071d9649fb"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://www.moltbook.com/terms'"
     ]
   }
 }
