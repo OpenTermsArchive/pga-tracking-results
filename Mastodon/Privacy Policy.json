@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-13T03:51:14.255Z",
+    "date": "2026-11-14T00:49:11.660Z",
     "serviceName": "Mastodon",
     "sourceDocuments": [
       {
@@ -14,12 +14,9 @@
           "[role='navigation']"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "260dfc136d8e474ee79b709af514e4a1f588466e"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://groups.joinmastodon.org/privacy'"
     ]
   }
 }
