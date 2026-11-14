@@ -1,19 +1,16 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-13T04:33:16.714Z",
+    "date": "2026-11-14T01:05:17.562Z",
     "serviceName": "Telegram",
     "sourceDocuments": [
       {
         "id": "tos",
         "fetch": "https://telegram.org/tos",
         "select": "#dev_page_content_wrap",
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "8b2f5e4617ce1c8adae31ccc2869c7b2e24dc6ac"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://telegram.org/tos'"
     ]
   }
 }
