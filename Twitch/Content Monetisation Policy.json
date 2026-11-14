@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-13T04:54:16.502Z",
+    "date": "2026-11-14T01:14:58.293Z",
     "serviceName": "Twitch",
     "sourceDocuments": [
       {
@@ -12,12 +12,9 @@
           "#main-content .xl\\:sticky"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "1f944a3ad181f2346069784f8786823df10514ce"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://legal.twitch.com/en/legal/monetized-streamer-agreement'"
     ]
   }
 }
