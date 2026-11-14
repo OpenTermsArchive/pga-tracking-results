@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-13T03:53:57.928Z",
+    "date": "2026-11-14T00:49:29.613Z",
     "serviceName": "Parler",
     "sourceDocuments": [
       {
@@ -10,12 +10,9 @@
         "select": "main",
         "remove": "footer",
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "f5765eb058d05533ed7308680d60e842567b8f4a"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.parler.com/cookie-policy'"
     ]
   }
 }
