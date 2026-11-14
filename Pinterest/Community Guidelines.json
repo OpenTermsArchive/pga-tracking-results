@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-13T03:54:58.463Z",
+    "date": "2026-11-14T00:49:34.160Z",
     "serviceName": "Pinterest",
     "sourceDocuments": [
       {
@@ -11,12 +11,9 @@
         "remove": [
           ".chakra-link"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "39022068b03ec666635b6c96d7d2ef254a4a334d"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://policy.pinterest.com/en-gb/community-guidelines'"
     ]
   }
 }
