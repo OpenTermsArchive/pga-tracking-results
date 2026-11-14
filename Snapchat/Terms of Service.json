@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-13T04:22:19.266Z",
+    "date": "2026-11-14T01:03:47.183Z",
     "serviceName": "Snapchat",
     "sourceDocuments": [
       {
@@ -15,12 +15,9 @@
           "hr"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "4d0a152a3a505ddc8337aba00eddbc2d11d0a732"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.snap.com/en-GB/terms'"
     ]
   }
 }
