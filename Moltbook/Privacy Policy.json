@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-13T03:51:54.618Z",
+    "date": "2026-11-14T00:49:14.013Z",
     "serviceName": "Moltbook",
     "sourceDocuments": [
       {
@@ -10,12 +10,9 @@
         "select": [
           ".legal-content"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "156eee41bfaa899818ffe091908db0587e94951f"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://www.moltbook.com/privacy'"
     ]
   }
 }
