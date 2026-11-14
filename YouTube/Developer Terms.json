@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-13T05:30:48.449Z",
+    "date": "2026-11-14T01:31:05.474Z",
     "serviceName": "YouTube",
     "sourceDocuments": [
       {
@@ -9,12 +9,9 @@
         "fetch": "https://developers.google.com/youtube/terms/developer-policies",
         "select": "article.devsite-article",
         "remove": ".devsite-article-meta, .devsite-thumb-rating, .devsite-banner-message",
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "326fd9b75b3a0ce01c7f06e1ff434737443538ce"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://developers.google.com/youtube/terms/developer-policies'"
     ]
   }
 }
