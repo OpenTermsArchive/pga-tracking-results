@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-13T03:10:12.741Z",
+    "date": "2026-11-14T00:31:53.382Z",
     "serviceName": "Facebook",
     "sourceDocuments": [
       {
@@ -14,8 +14,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "4c0f97a6d4889d779fca6774a7e10d1cb0f161dc"
       },
       {
         "id": "legal-EU_data_transfer_addendum",
@@ -27,8 +27,8 @@
           }
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "be849c1ffd726143d4b5cadc2e6d2df8111b4e68"
       },
       {
         "id": "legal-terms-UK_Data_Transfer_Addendum",
@@ -41,14 +41,9 @@
         ],
         "remove": "[role*=link]",
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "6b86794fbb6124b0f331c364c5b6e2eb4351c70d"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.facebook.com/legal/terms/dataprocessing'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.facebook.com/legal/EU_data_transfer_addendum'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.facebook.com/legal/terms/UK_Data_Transfer_Addendum'"
     ]
   }
 }
