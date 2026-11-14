@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-13T04:26:04.435Z",
+    "date": "2026-11-14T01:04:43.442Z",
     "serviceName": "Spotify",
     "sourceDocuments": [
       {
@@ -13,12 +13,9 @@
             "endBefore": "footer"
           }
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "36a01703dcd82691ced7ebab88eadedab83b35bf"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://www.spotify.com/us/legal/end-user-agreement/'"
     ]
   }
 }
