@@ -1,19 +1,16 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-13T04:33:57.052Z",
+    "date": "2026-11-14T01:05:18.909Z",
     "serviceName": "Telegram",
     "sourceDocuments": [
       {
         "id": "guidelines",
         "fetch": "https://ads.telegram.org/guidelines",
         "select": "#dev_page_content_wrap",
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "4c0909c74ce85506d185a88cd635e704bd1b7e90"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://ads.telegram.org/guidelines'"
     ]
   }
 }
