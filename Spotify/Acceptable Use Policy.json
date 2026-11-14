@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-13T04:26:24.599Z",
+    "date": "2026-11-14T01:04:44.698Z",
     "serviceName": "Spotify",
     "sourceDocuments": [
       {
@@ -13,12 +13,9 @@
             "endBefore": "footer"
           }
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "beaf2bf7d715c342cdba3b14d054ae79388db8e9"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://www.spotify.com/us/legal/user-guidelines/'"
     ]
   }
 }
