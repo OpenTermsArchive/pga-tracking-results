@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-13T03:50:43.422Z",
+    "date": "2026-11-14T00:48:56.394Z",
     "serviceName": "Mastodon",
     "sourceDocuments": [
       {
@@ -14,12 +14,9 @@
           "[role='navigation']"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "90751e84eba029c08ff6c7b839c23f963c3acd60"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://groups.joinmastodon.org/tos'"
     ]
   }
 }
