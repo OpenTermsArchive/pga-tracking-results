@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-13T05:21:04.121Z",
+    "date": "2026-11-14T01:26:44.425Z",
     "serviceName": "X",
     "sourceDocuments": [
       {
@@ -20,8 +20,8 @@
           "useXHelpCenterBaseURL"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "14b2ca9249191bcaafd1cb00408c75359a0dd03f"
       },
       {
         "id": "en-rules-and-policies-violent-content",
@@ -39,8 +39,8 @@
           "useXHelpCenterBaseURL"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "cda2a66239f337fa45f46ae5f4b9698a63b75f4a"
       },
       {
         "id": "en-rules-and-policies-violent-entities",
@@ -58,8 +58,8 @@
           "useXHelpCenterBaseURL"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "fe12b34cee534730242916fde2175c6185fa32f0"
       },
       {
         "id": "en-rules-and-policies-child-safety",
@@ -77,8 +77,8 @@
           "useXHelpCenterBaseURL"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "6df49c080bad678e5a3b924614db58e2f0eccd65"
       },
       {
         "id": "en-rules-and-policies-abusive-behavior",
@@ -96,8 +96,8 @@
           "useXHelpCenterBaseURL"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "8e30d1eb80e9267833c81eed4f5771742b43749e"
       },
       {
         "id": "en-rules-and-policies-hateful-conduct-policy",
@@ -115,8 +115,8 @@
           "useXHelpCenterBaseURL"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "fdd4a59dc2a7c8404466cf9b356bea5ac8d80fa4"
       },
       {
         "id": "en-rules-and-policies-perpetrators-of-violent-attacks",
@@ -134,8 +134,8 @@
           "useXHelpCenterBaseURL"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "821ec124c66716c38d7784ba52c4e72f9db803cd"
       },
       {
         "id": "en-rules-and-policies-glorifying-self-harm",
@@ -153,8 +153,8 @@
           "useXHelpCenterBaseURL"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "5beba2c3f86fc8d3c8bbb720faa434e764997d21"
       },
       {
         "id": "en-rules-and-policies-adult-content",
@@ -172,8 +172,8 @@
           "useXHelpCenterBaseURL"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "c362ae4ae96ec6380b12f3fae0af641ddd9831ce"
       },
       {
         "id": "en-rules-and-policies-shopping-policies",
@@ -191,8 +191,8 @@
           "useXHelpCenterBaseURL"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "9541991dbfef3e8ee40518146435f00039bb69a9"
       },
       {
         "id": "en-rules-and-policies-personal-information",
@@ -210,8 +210,8 @@
           "useXHelpCenterBaseURL"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "f4d241689ceee9acd0f2c16d75c74b6c0d58955f"
       },
       {
         "id": "en-rules-and-policies-intimate-media",
@@ -229,8 +229,8 @@
           "useXHelpCenterBaseURL"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "c5f5e07e1d9afd049be7e623574ba6b09d5b799a"
       },
       {
         "id": "en-rules-and-policies-platform-manipulation",
@@ -248,8 +248,8 @@
           "useXHelpCenterBaseURL"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "8d5daa993609eeb8b81e1f1509877eb2cfd4abcc"
       },
       {
         "id": "en-rules-and-policies-election-integrity-policy",
@@ -267,8 +267,8 @@
           "useXHelpCenterBaseURL"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "1bf15984721ced31c368317aba9c5f8de3cbcdcb"
       },
       {
         "id": "en-rules-and-policies-twitter-impersonation-and-deceptive-identities-policy",
@@ -286,8 +286,8 @@
           "useXHelpCenterBaseURL"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "d6a15eacf51b28650cd4f05899e15debdfb275ae"
       },
       {
         "id": "en-rules-and-policies-manipulated-media",
@@ -305,8 +305,8 @@
           "useXHelpCenterBaseURL"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "c007f87a024602262a86b3580b4b785a3ab60fff"
       },
       {
         "id": "en-rules-and-policies-x-trademark-policy",
@@ -324,8 +324,8 @@
           "useXHelpCenterBaseURL"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "ac58339a0dedeeaf7e8ea7b9594e1b7551c93759"
       },
       {
         "id": "en-rules-and-policies-x-username-squatting",
@@ -343,8 +343,8 @@
           "useXHelpCenterBaseURL"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "9cb480302bc0084792b93bf79169292fd9262028"
       },
       {
         "id": "en-rules-and-policies-copypasta-duplicate-content",
@@ -362,8 +362,8 @@
           "useXHelpCenterBaseURL"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "c50987af971f0e6cc1612ba828d33cc61c2fc65e"
       },
       {
         "id": "en-rules-and-policies-financial-scam",
@@ -381,8 +381,8 @@
           "useXHelpCenterBaseURL"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "743279af9e57a8499f6690d39cd428e2ece4c1d4"
       },
       {
         "id": "en-rules-and-policies-abusive-profile",
@@ -400,8 +400,8 @@
           "useXHelpCenterBaseURL"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "281c3d55325be414681c58678356b2de0b20f8fc"
       },
       {
         "id": "en-rules-and-policies-automated-claims-policy",
@@ -419,8 +419,8 @@
           "useXHelpCenterBaseURL"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "1e455c1db89d043c911d1014b54eab66f108faef"
       },
       {
         "id": "en-rules-and-policies-counterfeit-goods-policy",
@@ -438,8 +438,8 @@
           "useXHelpCenterBaseURL"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "be0c1f0f708f934974cb638da79e110c12644319"
       },
       {
         "id": "en-rules-and-policies-public-interest",
@@ -457,8 +457,8 @@
           "useXHelpCenterBaseURL"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "ef31144fb065484bb8ae22f8437ae8f0966f7162"
       },
       {
         "id": "en-rules-and-policies-x-limits",
@@ -476,8 +476,8 @@
           "useXHelpCenterBaseURL"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "08dbc37f6ca31e5e5e9c03d7191c9806cd48075c"
       },
       {
         "id": "en-rules-and-policies-x-reach-limited",
@@ -495,8 +495,8 @@
           "useXHelpCenterBaseURL"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "847389db4b34b1782a7164ad1a5205edad35da55"
       },
       {
         "id": "en-rules-and-policies-enforcement-options",
@@ -514,8 +514,8 @@
           "useXHelpCenterBaseURL"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "9e7f1c1a307c7cd59bc1b69e64cbe099f4b0c219"
       },
       {
         "id": "en-rules-and-policies-x-moments-guidelines-and-principles",
@@ -533,8 +533,8 @@
           "useXHelpCenterBaseURL"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "ec29efa12ce352737f08adff6ef6d26858a0846c"
       },
       {
         "id": "en-rules-and-policies-fair-use-policy",
@@ -552,8 +552,8 @@
           "useXHelpCenterBaseURL"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "3d8931a4de9cd153410f23e8b698d5eaa81f5dfc"
       },
       {
         "id": "en-rules-and-policies-copyright-policy",
@@ -568,8 +568,8 @@
           "useXHelpCenterBaseURL"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "a71abd2b520955a4602e721b1f4ef8737b856d2d"
       },
       {
         "id": "en-rules-and-policies-enforcement-philosophy",
@@ -587,42 +587,9 @@
           "useXHelpCenterBaseURL"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "4506095442e5442c6cc02520db82d27a7bfbc38c"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://help.x.com/en/rules-and-policies/x-rules'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://help.x.com/en/rules-and-policies/violent-content'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://help.x.com/en/rules-and-policies/violent-entities'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://help.x.com/en/rules-and-policies/child-safety'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://help.x.com/en/rules-and-policies/abusive-behavior'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://help.x.com/en/rules-and-policies/hateful-conduct-policy'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://help.x.com/en/rules-and-policies/perpetrators-of-violent-attacks'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://help.x.com/en/rules-and-policies/glorifying-self-harm'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://help.x.com/en/rules-and-policies/adult-content'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://help.x.com/en/rules-and-policies/shopping-policies'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://help.x.com/en/rules-and-policies/personal-information'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://help.x.com/en/rules-and-policies/intimate-media'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://help.x.com/en/rules-and-policies/platform-manipulation'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://help.x.com/en/rules-and-policies/election-integrity-policy'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://help.x.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://help.x.com/en/rules-and-policies/manipulated-media'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://help.x.com/en/rules-and-policies/x-trademark-policy'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://help.x.com/en/rules-and-policies/x-username-squatting'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://help.x.com/en/rules-and-policies/copypasta-duplicate-content'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://help.x.com/en/rules-and-policies/financial-scam'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://help.x.com/en/rules-and-policies/abusive-profile'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://help.x.com/en/rules-and-policies/automated-claims-policy'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://help.x.com/en/rules-and-policies/counterfeit-goods-policy'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://help.x.com/en/rules-and-policies/public-interest'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://help.x.com/en/rules-and-policies/x-limits'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://help.x.com/en/rules-and-policies/x-reach-limited'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://help.x.com/en/rules-and-policies/enforcement-options'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://help.x.com/en/rules-and-policies/x-moments-guidelines-and-principles'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://help.x.com/en/rules-and-policies/fair-use-policy'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://help.x.com/en/rules-and-policies/copyright-policy'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://help.x.com/en/rules-and-policies/enforcement-philosophy'"
     ]
   }
 }
