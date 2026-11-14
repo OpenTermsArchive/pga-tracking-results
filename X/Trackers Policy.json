@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-13T05:04:39.660Z",
+    "date": "2026-11-14T01:18:54.375Z",
     "serviceName": "X",
     "sourceDocuments": [
       {
@@ -20,12 +20,9 @@
           "useXHelpCenterBaseURL"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "1714ce483eab53d09a214c1f3362538fee75fc80"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://help.x.com/en/rules-and-policies/twitter-cookies'"
     ]
   }
 }
