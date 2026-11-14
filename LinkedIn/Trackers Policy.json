@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-13T03:45:11.367Z",
+    "date": "2026-11-14T00:48:32.100Z",
     "serviceName": "LinkedIn",
     "sourceDocuments": [
       {
@@ -15,12 +15,9 @@
           ".expandable-section__header",
           ".banner__image-container "
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "63cb06917bbcbf1ef7c0a7c467a5badc932b064d"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://www.linkedin.com/legal/cookie-policy'"
     ]
   }
 }
