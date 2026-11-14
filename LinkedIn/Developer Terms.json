@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-13T03:45:51.714Z",
+    "date": "2026-11-14T00:48:37.784Z",
     "serviceName": "LinkedIn",
     "sourceDocuments": [
       {
@@ -10,12 +10,9 @@
         "select": [
           "main"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "3d06b2133a797874c244cbad07987f1949b6c99b"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://legal.linkedin.com/api-terms-of-use'"
     ]
   }
 }
