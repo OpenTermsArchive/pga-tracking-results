@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-13T03:52:56.275Z",
+    "date": "2026-11-14T00:49:19.902Z",
     "serviceName": "Parler",
     "sourceDocuments": [
       {
@@ -10,12 +10,9 @@
         "select": "main",
         "remove": "footer",
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "be84fdad03a884a29ccf309ea04fe7b8a678e9f5"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://parler.com/terms-of-service'"
     ]
   }
 }
