@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-13T03:56:20.300Z",
+    "date": "2026-11-14T00:49:54.825Z",
     "serviceName": "Quora",
     "sourceDocuments": [
       {
@@ -15,12 +15,9 @@
           ".q-flex"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "765dad4a63e7ad465ac8fb047cae0db5f0d68dbf"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.quora.com/about/privacy'"
     ]
   }
 }
