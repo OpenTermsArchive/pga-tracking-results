@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-13T04:47:36.669Z",
+    "date": "2026-11-14T01:11:44.960Z",
     "serviceName": "Truth Social",
     "sourceDocuments": [
       {
@@ -10,12 +10,9 @@
         "select": [
           "main"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "5e814684a5051f39cdd64a7bb88034bd4d9392b4"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://help.truthsocial.com/legal/privacy-policy'"
     ]
   }
 }
