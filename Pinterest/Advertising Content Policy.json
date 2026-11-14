@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-13T03:55:18.624Z",
+    "date": "2026-11-14T00:49:37.181Z",
     "serviceName": "Pinterest",
     "sourceDocuments": [
       {
@@ -11,12 +11,9 @@
         "remove": [
           ".chakra-link"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "baf493215e7cc98713fb051585aaf4fc5823392c"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://policy.pinterest.com/en-gb/advertising-guidelines'"
     ]
   }
 }
