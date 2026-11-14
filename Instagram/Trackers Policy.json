@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-13T03:41:58.203Z",
+    "date": "2026-11-14T00:47:25.146Z",
     "serviceName": "Instagram",
     "sourceDocuments": [
       {
@@ -17,12 +17,9 @@
         "filter": [
           "removeLinks"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "381f0ac293e50bff21fcf396396dd58f159b3d55"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://mbasic.facebook.com/privacy/policies/cookies/printable/'"
     ]
   }
 }
