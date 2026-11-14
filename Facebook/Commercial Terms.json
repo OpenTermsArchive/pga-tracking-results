@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-13T03:10:43.563Z",
+    "date": "2026-11-14T00:32:06.921Z",
     "serviceName": "Facebook",
     "sourceDocuments": [
       {
@@ -20,12 +20,9 @@
           "cleanUrls"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "53bfebc6a66910fec4d32d717347a40c42ec130d"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.facebook.com/legal/commercial_terms'"
     ]
   }
 }
