@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-13T04:34:27.903Z",
+    "date": "2026-11-14T01:05:37.409Z",
     "serviceName": "Threads",
     "sourceDocuments": [
       {
@@ -20,12 +20,9 @@
           "[role='listitem']"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "ffa440390da776ce9b26df522d5aa4a456c817ff"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://help.instagram.com/769983657850450'"
     ]
   }
 }
