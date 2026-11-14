@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-13T04:46:36.136Z",
+    "date": "2026-11-14T01:11:41.622Z",
     "serviceName": "TikTok",
     "sourceDocuments": [
       {
@@ -16,8 +16,8 @@
           ".my"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "02b62ccc23431cca06a473599353d231fa2dbe39"
       },
       {
         "id": "legal-page-global-tiktok-creator-fund-terms-en",
@@ -29,8 +29,8 @@
           "img"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "50a3a44911a128037422c89f949e268bb06ef586"
       },
       {
         "id": "legal-page-global-creator-rewards-program-us-en",
@@ -42,14 +42,9 @@
           "img"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "1c2cdec0cf46d9ca7560b1c7404b07b87992f721"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.tiktok.com/creator-academy/en/article/creator-code-of-conduct'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.tiktok.com/legal/page/global/tiktok-creator-fund-terms/en'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.tiktok.com/legal/page/global/creator-rewards-program-us/en'"
     ]
   }
 }
