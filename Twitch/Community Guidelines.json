@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-13T04:53:14.771Z",
+    "date": "2026-11-14T01:14:49.453Z",
     "serviceName": "Twitch",
     "sourceDocuments": [
       {
@@ -14,8 +14,8 @@
           "[data-id=\"tscToc\"]"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "a7e8fd47e8e9b54c0c75269256b46dac17f36763"
       },
       {
         "id": "s-article-about-account-suspensions-dmca-suspensions-and-chat-bans",
@@ -24,8 +24,8 @@
           "#article"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "944f0bf29a3b7544d9d182d18354fef2973533c4"
       },
       {
         "id": "s-article-Prohibited-Games",
@@ -34,8 +34,8 @@
           ".tsc-subtopic-content"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "a52ba038b2704325c2d3e745595b3146704977b0"
       },
       {
         "id": "s-article-Content-Classification-Guidelines",
@@ -47,8 +47,8 @@
           "[class*=tsc-subtopic-toc]"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "2c48b4f29348ddfb7d415db17efc0414a61b5974"
       },
       {
         "id": "s-article-Emote-Policy",
@@ -60,8 +60,8 @@
           "[class*=tsc-subtopic-toc]"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "c61fdac978f95210b96226e02d4885dea6e93811"
       },
       {
         "id": "s-article-Tags-Guidelines",
@@ -70,8 +70,8 @@
           ".tsc-subtopic-content"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "facb9e2ccec938c8130962ff5e99a3d49083de35"
       },
       {
         "id": "s-article-Usernames",
@@ -83,18 +83,9 @@
           "[class*=tsc-subtopic-toc]"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "08e68ee8b021d096fb02ec1e239c4fc5a38ed21a"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://safety.twitch.tv/s/article/Community-Guidelines?language=en_US'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://help.twitch.tv/s/article/about-account-suspensions-dmca-suspensions-and-chat-bans?language=en_US'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://safety.twitch.tv/s/article/Prohibited-Games?language=en_US'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://safety.twitch.tv/s/article/Content-Classification-Guidelines?language=en_US'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://safety.twitch.tv/s/article/Emote-Policy?language=en_US'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://safety.twitch.tv/s/article/Tags-Guidelines?language=en_US'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://safety.twitch.tv/s/article/Usernames?language=en_US'"
     ]
   }
 }
