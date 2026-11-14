@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-13T03:25:55.669Z",
+    "date": "2026-11-14T00:39:38.253Z",
     "serviceName": "Facebook",
     "sourceDocuments": [
       {
@@ -16,12 +16,9 @@
           "img.xt0psk2"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "515dcccf7976d82200bd64f047ba03349e644710"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://transparency.meta.com/policies/ad-standards/'"
     ]
   }
 }
