@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-13T05:23:07.515Z",
+    "date": "2026-11-14T01:27:43.165Z",
     "serviceName": "X",
     "sourceDocuments": [
       {
@@ -17,8 +17,8 @@
           "footer"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "72c6f06cb58e60db74c8af7d975459b880411ee4"
       },
       {
         "id": "en-creator-revenue-sharing-terms",
@@ -31,13 +31,9 @@
           ".p05-chapter-navigation"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "32259709bb4f51b50f1b81a6d322118ea3a61154"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://help.x.com/en/rules-and-policies/content-monetization-standards'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://legal.x.com/en/creator-revenue-sharing-terms'"
     ]
   }
 }
