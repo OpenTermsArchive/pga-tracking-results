@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-13T04:54:47.353Z",
+    "date": "2026-11-14T01:15:29.496Z",
     "serviceName": "Twitch",
     "sourceDocuments": [
       {
@@ -15,12 +15,9 @@
           "img"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "0b13e0d96e9825fe99c70f26b36fc6d1bf313620"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://help.twitch.tv/s/article/digital-services-act-ads?language=en_US'"
     ]
   }
 }
