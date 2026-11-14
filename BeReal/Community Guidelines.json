@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-13T03:05:46.756Z",
+    "date": "2026-11-14T00:30:22.604Z",
     "serviceName": "BeReal",
     "sourceDocuments": [
       {
@@ -16,12 +16,9 @@
           ".framer-2d10wf-container",
           ".framer-gjuypi"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "dea60c25eb473eaf74dfe6c3ed8b872ae028a990"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://bereal.com/community-standards'"
     ]
   }
 }
