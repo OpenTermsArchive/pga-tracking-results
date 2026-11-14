@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-13T04:58:51.840Z",
+    "date": "2026-11-14T01:16:08.243Z",
     "serviceName": "X",
     "sourceDocuments": [
       {
@@ -21,12 +21,9 @@
           ".b04__image",
           ".twtr-hidden--lg"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "38ac3bf985c78f377c1cdb83c8c8b826e6eca035"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://x.com/tos'"
     ]
   }
 }
