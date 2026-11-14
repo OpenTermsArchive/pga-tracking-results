@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-13T04:56:19.831Z",
+    "date": "2026-11-14T01:15:40.996Z",
     "serviceName": "Upscrolled",
     "sourceDocuments": [
       {
@@ -11,12 +11,9 @@
           "main"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "a749e6c7fdbb4f34f216a6920563f8f382d2de63"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://upscrolled.com/en/rules-and-policies/'"
     ]
   }
 }
