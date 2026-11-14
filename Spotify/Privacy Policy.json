@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-13T04:25:44.265Z",
+    "date": "2026-11-14T01:04:42.414Z",
     "serviceName": "Spotify",
     "sourceDocuments": [
       {
@@ -14,12 +14,9 @@
           }
         ],
         "remove": "[href='#spotify-privacy-policy']",
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "e853344be0118ede67904dba93012d0f87d46d34"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://www.spotify.com/us/legal/privacy-policy/'"
     ]
   }
 }
