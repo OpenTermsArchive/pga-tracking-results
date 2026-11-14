@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-13T04:33:36.881Z",
+    "date": "2026-11-14T01:05:18.236Z",
     "serviceName": "Telegram",
     "sourceDocuments": [
       {
@@ -9,12 +9,9 @@
         "fetch": "https://core.telegram.org/api/terms",
         "select": "#dev_page_content_wrap",
         "remove": ".breadcrumb",
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "dafd1c7363b707e307ea1c21b33b3aca66e49fb8"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://core.telegram.org/api/terms'"
     ]
   }
 }
