@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-13T03:46:11.879Z",
+    "date": "2026-11-14T00:48:39.815Z",
     "serviceName": "LinkedIn",
     "sourceDocuments": [
       {
@@ -17,12 +17,9 @@
           "removeDownloadedForUseLinkExtension",
           "removeLinks"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "d512a9f04d6fe8c67970ec9f00ad380518facf08"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://brand.linkedin.com/policies'"
     ]
   }
 }
