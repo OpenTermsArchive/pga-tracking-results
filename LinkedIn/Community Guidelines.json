@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-13T03:49:52.361Z",
+    "date": "2026-11-14T00:48:49.494Z",
     "serviceName": "LinkedIn",
     "sourceDocuments": [
       {
@@ -14,8 +14,8 @@
           ".banner__image-container",
           ".component-standaloneImage"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "968d23ce7bb7ddae52701174e83f36bf57e9bab4"
       },
       {
         "id": "help-linkedin-answer-a1342756",
@@ -30,8 +30,8 @@
           ".answer-footer > p",
           "[data-test-selector*=\"relativeTime-container\"]"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "ca558c7b2ddd146711e6e5c13e2e0c4514452621"
       },
       {
         "id": "help-linkedin-answer-137374",
@@ -46,8 +46,8 @@
           ".answer-footer > p",
           "[data-test-selector*=\"relativeTime-container\"]"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "4f05c66869861f5f122508f8e07c788dbd68f6d8"
       },
       {
         "id": "help-linkedin-answer-137376",
@@ -62,8 +62,8 @@
           ".answer-footer > p",
           "[data-test-selector*=\"relativeTime-container\"]"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "1229d856330387bdda3aa085a8e7f6d278ae2ad9"
       },
       {
         "id": "help-linkedin-answer-137373",
@@ -78,8 +78,8 @@
           ".answer-footer > p",
           "[data-test-selector*=\"relativeTime-container\"]"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "0869ea69417739ec5bfc770258207a4dd06b0c57"
       },
       {
         "id": "help-linkedin-answer-137375",
@@ -94,8 +94,8 @@
           ".answer-footer > p",
           "[data-test-selector*=\"relativeTime-container\"]"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "919e053c4227a59ea7e35adc8d4fd2bc70ed638f"
       },
       {
         "id": "help-linkedin-answer-137371",
@@ -110,8 +110,8 @@
           ".answer-footer > p",
           "[data-test-selector*=\"relativeTime-container\"]"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "a5e45c910fae1e535d4bb6f22854c1037284b203"
       },
       {
         "id": "help-linkedin-answer-137377",
@@ -126,8 +126,8 @@
           ".answer-footer > p",
           "[data-test-selector*=\"relativeTime-container\"]"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "bfd9cd0aab1a7eec24f1c98fb0c85db1dea035ad"
       },
       {
         "id": "help-linkedin-answer-137378",
@@ -142,8 +142,8 @@
           ".answer-footer > p",
           "[data-test-selector*=\"relativeTime-container\"]"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "1df6ee378e43785f5fb7bd2d9a3a18b3aecf1069"
       },
       {
         "id": "help-linkedin-answer-137370",
@@ -158,8 +158,8 @@
           ".answer-footer > p",
           "[data-test-selector*=\"relativeTime-container\"]"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "bf35bd3b7b0b7e14e45f098394b28414cfdf10f3"
       },
       {
         "id": "help-linkedin-answer-137372",
@@ -174,22 +174,9 @@
           ".answer-footer > p",
           "[data-test-selector*=\"relativeTime-container\"]"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "1d169a5ccffa4515539cc484baf699488237ebbd"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://www.linkedin.com/legal/professional-community-policies'",
-      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://www.linkedin.com/help/linkedin/answer/a1342756'",
-      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://www.linkedin.com/help/linkedin/answer/137374'",
-      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://www.linkedin.com/help/linkedin/answer/137376'",
-      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://www.linkedin.com/help/linkedin/answer/137373'",
-      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://www.linkedin.com/help/linkedin/answer/137375'",
-      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://www.linkedin.com/help/linkedin/answer/137371'",
-      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://www.linkedin.com/help/linkedin/answer/137377'",
-      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://www.linkedin.com/help/linkedin/answer/137378'",
-      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://www.linkedin.com/help/linkedin/answer/137370'",
-      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://www.linkedin.com/help/linkedin/answer/137372'"
     ]
   }
 }
