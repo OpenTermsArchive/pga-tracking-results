@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-13T03:41:38.037Z",
+    "date": "2026-11-14T00:47:22.881Z",
     "serviceName": "Instagram",
     "sourceDocuments": [
       {
@@ -16,12 +16,9 @@
         "filter": [
           "removeLinks"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "5f43744f2decf64016d7dc9ec208d43a0a12540e"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://developers.facebook.com/terms'"
     ]
   }
 }
