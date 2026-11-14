@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-13T04:02:50.118Z",
+    "date": "2026-11-14T00:52:31.794Z",
     "serviceName": "Reddit",
     "sourceDocuments": [
       {
@@ -16,12 +16,9 @@
           "button"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "89ff3c394ca470590a89c32ac0134ba2b13b5ecd"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.reddit.com/policies/cookies'"
     ]
   }
 }
