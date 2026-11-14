@@ -1,7 +1,7 @@
 {
   "status": "failed",
   "event": {
-    "date": "2026-11-13T04:48:37.176Z",
+    "date": "2026-11-14T01:11:49.418Z",
     "serviceName": "Tumblr",
     "sourceDocuments": [
       {
@@ -10,12 +10,12 @@
         "select": [
           "#left_column"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "ac43d75ccdf0e300f77d147b7335ca0fc6ba2527"
       }
     ],
     "reasons": [
-      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://www.tumblr.com/policy/en/community'"
+      "[extraction] Extract failed: The provided selector \"[\"#left_column\"]\" has no match in the web page at 'https://www.tumblr.com/policy/en/community'. This could be due to elements being removed before content selection if \"remove\" and \"select\" selectors match the same content."
     ]
   }
 }
