@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-13T04:47:16.503Z",
+    "date": "2026-11-14T01:11:43.796Z",
     "serviceName": "Truth Social",
     "sourceDocuments": [
       {
@@ -11,12 +11,9 @@
           "h1",
           "main"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "e3a271e6382282d93b18a1943fe87f9e69c176e4"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://help.truthsocial.com/community-guidelines-page/'"
     ]
   }
 }
