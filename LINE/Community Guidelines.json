@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-13T03:44:31.052Z",
+    "date": "2026-11-14T00:48:28.764Z",
     "serviceName": "LINE",
     "sourceDocuments": [
       {
@@ -13,12 +13,9 @@
         "remove": [
           "[class*=FnReadMoreBtn]"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "b3145d451507deed1c3ecf6227ba499f6c170103"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://linecorp.com/en/safety/contributionStandard'"
     ]
   }
 }
