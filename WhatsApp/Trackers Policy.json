@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-13T04:58:31.680Z",
+    "date": "2026-11-14T01:16:06.507Z",
     "serviceName": "WhatsApp",
     "sourceDocuments": [
       {
@@ -13,12 +13,9 @@
         "remove": [
           "[href='#top-of-page']"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "44b82bdaf0d4d0e51ff2ee6b8017766e73e292a3"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://www.whatsapp.com/legal/cookies'"
     ]
   }
 }
