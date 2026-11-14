@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-13T04:08:59.150Z",
+    "date": "2026-11-14T00:55:36.677Z",
     "serviceName": "Reddit",
     "sourceDocuments": [
       {
@@ -14,8 +14,8 @@
           ".filter-holder"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "3e3b28335f70b0bdd0c8ef3423b065a637e8744d"
       },
       {
         "id": "hc-en-us-articles-360043071072",
@@ -28,8 +28,8 @@
           "[data-prevnext]"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "1752180be4206a37838c4b02155e249f9c49a1da"
       },
       {
         "id": "hc-en-us-articles-360043513151",
@@ -42,8 +42,8 @@
           "[data-prevnext]"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "390e3588bbf96724e73ca6e26102c6bab612e851"
       },
       {
         "id": "hc-en-us-articles-360045715951",
@@ -56,8 +56,8 @@
           "[data-prevnext]"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "f185b2ea557692f905c13515707415262191ba8d"
       },
       {
         "id": "hc-en-us-articles-360043504051",
@@ -70,8 +70,8 @@
           "[data-prevnext]"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "2ddb29d1e36f1dd325573a52175f6f4af1af45f7"
       },
       {
         "id": "hc-en-us-articles-360043066412",
@@ -84,8 +84,8 @@
           "[data-prevnext]"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "8c9ce0a4a776756444ba6351b3a09a1a604a4ec6"
       },
       {
         "id": "hc-en-us-articles-360043066452",
@@ -98,8 +98,8 @@
           "[data-prevnext]"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "34199ceba4d02845d8bef8845269b56a7960cdbe"
       },
       {
         "id": "hc-en-us-articles-360043513411",
@@ -112,8 +112,8 @@
           "[data-prevnext]"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "199daf9cdc88c4ab0c6f72732a2c39e42123a9c5"
       },
       {
         "id": "hc-en-us-articles-360043075352",
@@ -126,8 +126,8 @@
           "[data-prevnext]"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "5f8f5d874f5f0abf519f574562115cc79cfc0ae7"
       },
       {
         "id": "hc-en-us-articles-360043075032",
@@ -140,8 +140,8 @@
           "[data-prevnext]"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "f26eb084c2df07fd0866f4b058dc22a2909bdc44"
       },
       {
         "id": "hc-en-us-articles-360043513471",
@@ -154,8 +154,8 @@
           "[data-prevnext]"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "2ce1f035aa7937c6acea1fcd0a7826f1070accc3"
       },
       {
         "id": "hc-en-us-articles-360043512931",
@@ -168,23 +168,9 @@
           "[data-prevnext]"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "9ebe2109b781c938d52447e87e3d26f377b0fa02"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.redditinc.com/policies/content-policy'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.reddithelp.com/hc/en-us/articles/360043071072'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.reddithelp.com/hc/en-us/articles/360043513151'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.reddithelp.com/hc/en-us/articles/360045715951'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.reddithelp.com/hc/en-us/articles/360043504051'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.reddithelp.com/hc/en-us/articles/360043066412'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.reddithelp.com/hc/en-us/articles/360043066452'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.reddithelp.com/hc/en-us/articles/360043513411'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.reddithelp.com/hc/en-us/articles/360043075352'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.reddithelp.com/hc/en-us/articles/360043075032'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.reddithelp.com/hc/en-us/articles/360043513471'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.reddithelp.com/hc/en-us/articles/360043512931'"
     ]
   }
 }
