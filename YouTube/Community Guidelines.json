@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-13T05:38:49.362Z",
+    "date": "2026-11-14T01:31:46.275Z",
     "serviceName": "YouTube",
     "sourceDocuments": [
       {
@@ -21,8 +21,8 @@
           ".glue-grid",
           ".glue-footer__upper"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "949d6eda1cc2401c0fafddf58bd88300599a4cf9"
       },
       {
         "id": "youtube-answer-3399767",
@@ -33,8 +33,8 @@
         "remove": [
           ".scClientFeedbackInlineFeedbacklinkroot"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "dd05a7b790436d8a0922ea2e8dadb958fd8ed8db"
       },
       {
         "id": "youtube-answer-2801947",
@@ -45,8 +45,8 @@
         "remove": [
           ".scClientFeedbackInlineFeedbacklinkroot"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "55aeda2ca646ac4efc4a8f3b35d4fe3d4587e674"
       },
       {
         "id": "youtube-answer-9054257",
@@ -57,8 +57,8 @@
         "remove": [
           ".scClientFeedbackInlineFeedbacklinkroot"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "c05c2a0cfd3d3aad53fd2e05d2212d7e98c815b6"
       },
       {
         "id": "youtube-answer-2801973",
@@ -69,8 +69,8 @@
         "remove": [
           ".scClientFeedbackInlineFeedbacklinkroot"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "d2194a3ad8aea7a751f9b8ef2264b803fe0dc7a0"
       },
       {
         "id": "youtube-answer-9713446",
@@ -81,8 +81,8 @@
         "remove": [
           ".scClientFeedbackInlineFeedbacklinkroot"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "a32efcc6ae5124c02a73de30abd18ef638962f95"
       },
       {
         "id": "youtube-answer-2801981",
@@ -93,8 +93,8 @@
         "remove": [
           ".scClientFeedbackInlineFeedbacklinkroot"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "647c01d6363e7cf8799126f3f27ba94e3e624cbb"
       },
       {
         "id": "youtube-answer-2801999",
@@ -105,8 +105,8 @@
         "remove": [
           ".scClientFeedbackInlineFeedbacklinkroot"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "9b4b234d12f3d1971f542424ef45ec62d3e67b0e"
       },
       {
         "id": "youtube-answer-9229980",
@@ -117,8 +117,8 @@
         "remove": [
           ".scClientFeedbackInlineFeedbacklinkroot"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "7e9e629ad7014d592034c6e5bcf967449cab5c07"
       },
       {
         "id": "youtube-answer-2802002",
@@ -129,8 +129,8 @@
         "remove": [
           ".scClientFeedbackInlineFeedbacklinkroot"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "34bdec91024e2c5348db17ee1e2a1953d26435ae"
       },
       {
         "id": "youtube-answer-2802245",
@@ -141,8 +141,8 @@
         "remove": [
           ".scClientFeedbackInlineFeedbacklinkroot"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "c6273f209d0fe142f89b462d5f2bc04df1b307a7"
       },
       {
         "id": "youtube-answer-10072685",
@@ -153,8 +153,8 @@
         "remove": [
           ".scClientFeedbackInlineFeedbacklinkroot"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "48edaa25242f88945ca8a0cc1c3946923fc5305d"
       },
       {
         "id": "youtube-answer-2802268",
@@ -165,8 +165,8 @@
         "remove": [
           ".scClientFeedbackInlineFeedbacklinkroot"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "ee090929ac12425afdfa0c99eb86c133f5cf82ac"
       },
       {
         "id": "youtube-answer-2801964",
@@ -177,8 +177,8 @@
         "remove": [
           ".scClientFeedbackInlineFeedbacklinkroot"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "7f22e755131332eee3cc941b1f1a2187288951e8"
       },
       {
         "id": "youtube-answer-2801939",
@@ -189,8 +189,8 @@
         "remove": [
           ".scClientFeedbackInlineFeedbacklinkroot"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "312d9646c9d9328a6602024c5204afd28aab1426"
       },
       {
         "id": "youtube-answer-9229472",
@@ -201,8 +201,8 @@
         "remove": [
           ".scClientFeedbackInlineFeedbacklinkroot"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "80e980186542ad1a188a5c9c00a3977e3ebd8a2e"
       },
       {
         "id": "youtube-answer-2802008",
@@ -213,8 +213,8 @@
         "remove": [
           ".scClientFeedbackInlineFeedbacklinkroot"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "b84b61670021afc0ed74b3a865e2bfcda6491fce"
       },
       {
         "id": "youtube-answer-7667605",
@@ -225,8 +225,8 @@
         "remove": [
           ".scClientFeedbackInlineFeedbacklinkroot"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "bd596e386b76aa6bc6d85541df25b82d01ac6807"
       },
       {
         "id": "youtube-answer-9229611",
@@ -237,8 +237,8 @@
         "remove": [
           ".scClientFeedbackInlineFeedbacklinkroot"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "3269fc95a001b1f183bebfcee0af3a03f745179e"
       },
       {
         "id": "youtube-answer-10834785",
@@ -249,8 +249,8 @@
         "remove": [
           ".scClientFeedbackInlineFeedbacklinkroot"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "912791518b694562c9e2ce35e71cbebf151ae4e1"
       },
       {
         "id": "youtube-answer-10835034",
@@ -261,8 +261,8 @@
         "remove": [
           ".scClientFeedbackInlineFeedbacklinkroot"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "e6e19373f5bc3810d0c0e3f304174a8b71ee809c"
       },
       {
         "id": "youtube-answer-9891785",
@@ -273,8 +273,8 @@
         "remove": [
           ".scClientFeedbackInlineFeedbacklinkroot"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "4c4ce7b872facd3aad2be3b1c9090ce489788eb8"
       },
       {
         "id": "youtube-answer-11161123",
@@ -285,34 +285,9 @@
         "remove": [
           ".scClientFeedbackInlineFeedbacklinkroot"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "c9f8fb02140954fdd3234115e732525fac998cda"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://www.youtube.com/intl/ALL_en/howyoutubeworks/policies/community-guidelines/'",
-      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://support.google.com/youtube/answer/3399767?hl=en&ref_topic=9282365'",
-      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://support.google.com/youtube/answer/2801947?hl=en&ref_topic=9282365'",
-      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://support.google.com/youtube/answer/9054257?hl=en&ref_topic=9282365'",
-      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://support.google.com/youtube/answer/2801973?hl=en&ref_topic=9282365'",
-      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://support.google.com/youtube/answer/9713446?hl=en&ref_topic=9282365'",
-      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://support.google.com/youtube/answer/2801981?hl=en&ref_topic=9282365'",
-      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://support.google.com/youtube/answer/2801999?hl=en&ref_topic=9282679'",
-      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://support.google.com/youtube/answer/9229980?hl=en&ref_topic=9282679'",
-      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://support.google.com/youtube/answer/2802002?hl=en&ref_topic=9282679'",
-      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://support.google.com/youtube/answer/2802245?hl=en&ref_topic=9282679'",
-      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://support.google.com/youtube/answer/10072685?hl=en&ref_topic=9282679'",
-      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://support.google.com/youtube/answer/2802268?hl=en&ref_topic=9282436'",
-      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://support.google.com/youtube/answer/2801964?hl=en&ref_topic=9282436'",
-      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://support.google.com/youtube/answer/2801939?hl=en&ref_topic=9282436'",
-      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://support.google.com/youtube/answer/9229472?hl=en&ref_topic=9282436'",
-      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://support.google.com/youtube/answer/2802008?hl=en&ref_topic=9282436'",
-      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://support.google.com/youtube/answer/7667605?hl=en'",
-      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://support.google.com/youtube/answer/9229611?hl=en'",
-      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://support.google.com/youtube/answer/10834785?hl=en'",
-      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://support.google.com/youtube/answer/10835034?hl=en'",
-      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://support.google.com/youtube/answer/9891785?hl=en'",
-      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://support.google.com/youtube/answer/11161123?hl=en'"
     ]
   }
 }
