@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-13T03:42:59.738Z",
+    "date": "2026-11-14T00:48:00.133Z",
     "serviceName": "Instagram",
     "sourceDocuments": [
       {
@@ -27,8 +27,8 @@
           "removeLinks"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "5a35ea687c254c69962dc3551bd324311780b025"
       },
       {
         "id": "business-help-976993102696723",
@@ -52,13 +52,9 @@
           "removeLinks"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "d3172d61bd39bcce363b1f0bbc9d0b74570045c4"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.facebook.com/business/help/2635536099905516'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.facebook.com/business/help/976993102696723'"
     ]
   }
 }
