@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-13T03:45:31.552Z",
+    "date": "2026-11-14T00:48:36.284Z",
     "serviceName": "LinkedIn",
     "sourceDocuments": [
       {
@@ -13,12 +13,9 @@
         "remove": [
           ".banner__image-container"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "3af3be4d05314460c948039dddb99ccf915d7620"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://www.linkedin.com/legal/user-agreement'"
     ]
   }
 }
