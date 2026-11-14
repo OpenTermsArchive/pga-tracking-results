@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-13T03:55:49.470Z",
+    "date": "2026-11-14T00:49:41.246Z",
     "serviceName": "Quora",
     "sourceDocuments": [
       {
@@ -14,12 +14,9 @@
           ".q-flex"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "8a2e33ed0bea22fecacabb2dc22ad453c42baea5"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.quora.com/about/tos'"
     ]
   }
 }
