@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-13T04:49:38.954Z",
+    "date": "2026-11-14T01:12:09.660Z",
     "serviceName": "Twitch",
     "sourceDocuments": [
       {
@@ -14,12 +14,9 @@
           ".li"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "01ee9f2ec6eb98d986671eabd61f7b0f3d68191c"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.twitch.tv/p/en/legal/privacy-notice/'"
     ]
   }
 }
