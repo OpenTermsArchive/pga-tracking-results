@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-13T04:55:49.019Z",
+    "date": "2026-11-14T01:15:37.292Z",
     "serviceName": "Upscrolled",
     "sourceDocuments": [
       {
@@ -11,12 +11,9 @@
           "main"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "a84ef43dee22bfabf4761a93ddedea60077d04f7"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://upscrolled.com/en/privacy-policy/'"
     ]
   }
 }
