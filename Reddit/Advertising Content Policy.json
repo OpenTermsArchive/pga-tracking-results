@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-13T04:21:17.559Z",
+    "date": "2026-11-14T01:03:16.054Z",
     "serviceName": "Reddit",
     "sourceDocuments": [
       {
@@ -14,8 +14,8 @@
         ],
         "remove": "li",
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "2d8ccc93406f3f69d43ee2bcda0e40e53a9aeb11"
       },
       {
         "id": "s-article-adult-content",
@@ -29,8 +29,8 @@
           "[href='https://business.reddithelp.com/s/article/Reddit-Advertising-Policy-Overview']"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "570c04d23c887c173c205de3943fa5ad1ed667b6"
       },
       {
         "id": "s-article-alcohol-policy",
@@ -44,8 +44,8 @@
           "[href='https://business.reddithelp.com/s/article/Reddit-Advertising-Policy-Overview']"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "4723391e619a1c4248754c124683c2aff9871d26"
       },
       {
         "id": "s-article-counterfeit-goods-policy",
@@ -59,8 +59,8 @@
           "[href='https://business.reddithelp.com/s/article/Reddit-Advertising-Policy-Overview']"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "b6feb48fd861d36490f93438b87c28c9f6d61560"
       },
       {
         "id": "s-article-dating-services-policy",
@@ -74,8 +74,8 @@
           "[href='https://business.reddithelp.com/s/article/Reddit-Advertising-Policy-Overview']"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "85c43e8ba58b4d82e8fc02b415f26f3cc4d898b7"
       },
       {
         "id": "s-article-deceptive-untrue-or-misleading-advertising-policy",
@@ -89,8 +89,8 @@
           "[href='https://business.reddithelp.com/s/article/Reddit-Advertising-Policy-Overview']"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "e37152e32727bd0e5e6c1917d56c803f17d80438"
       },
       {
         "id": "s-article-dynamic-product-ads-policy",
@@ -104,8 +104,8 @@
           "[href='https://business.reddithelp.com/s/article/Reddit-Advertising-Policy-Overview']"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "4b3f3e5b9fb942c73c891cfa99a6c64993c7d2e6"
       },
       {
         "id": "s-article-Reddit-Advertising-Policy-Editorial-Requirements",
@@ -119,8 +119,8 @@
           "[href='https://business.reddithelp.com/s/article/Reddit-Advertising-Policy-Overview']"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "6bc4f86ac2c0b8631b4c1206b2aeea730de469e8"
       },
       {
         "id": "s-article-financial-cryptocurrency-products-and-services-policy",
@@ -134,8 +134,8 @@
           "[href='https://business.reddithelp.com/s/article/Reddit-Advertising-Policy-Overview']"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "30dd9ffcd6aeb4d8cfc2878e1bb55e5feeb1e099"
       },
       {
         "id": "s-article-gambling-and-gaming-related-services-policy",
@@ -149,8 +149,8 @@
           "[href='https://business.reddithelp.com/s/article/Reddit-Advertising-Policy-Overview']"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "20250710594c59ae8b4330e5c9beed4bbed03188"
       },
       {
         "id": "s-article-healthcare-products-and-services-policy",
@@ -164,8 +164,8 @@
           "[href='https://business.reddithelp.com/s/article/Reddit-Advertising-Policy-Overview']"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "f58ca1f6be2faf1f347cc07c7e3ddf26a47afce9"
       },
       {
         "id": "s-article-high-fat-salt-sugar-food-and-drinks-policy",
@@ -179,8 +179,8 @@
           "[href='https://business.reddithelp.com/s/article/Reddit-Advertising-Policy-Overview']"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "bab6320d6d946a7f434c857736b6cc6577e750bf"
       },
       {
         "id": "s-article-inappropriate-content-policy",
@@ -194,8 +194,8 @@
           "[href='https://business.reddithelp.com/s/article/Reddit-Advertising-Policy-Overview']"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "c4649b15b5a45aeb94cbcb3ea65fac3ed8c7165c"
       },
       {
         "id": "s-article-lead-generation-ads-policy",
@@ -209,8 +209,8 @@
           "[href='https://business.reddithelp.com/s/article/Reddit-Advertising-Policy-Overview']"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "31379ac506a52ac946606aea2911547d7e4de59c"
       },
       {
         "id": "s-article-live-animals-and-animal-products-policy",
@@ -224,8 +224,8 @@
           "[href='https://business.reddithelp.com/s/article/Reddit-Advertising-Policy-Overview']"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "2f283a148d47318981a26df073c2eaa893f208de"
       },
       {
         "id": "s-article-political-advertisements-policy",
@@ -239,8 +239,8 @@
           "[href='https://business.reddithelp.com/s/article/Reddit-Advertising-Policy-Overview']"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "cde57bf3dbf99b0b95369614019b1165e69197b9"
       },
       {
         "id": "s-article-products-or-services-that-facilitate-illegal-fraudulent-or-misleading-activity-policy",
@@ -254,8 +254,8 @@
           "[href='https://business.reddithelp.com/s/article/Reddit-Advertising-Policy-Overview']"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "c952674f883854508969e3984785721b24666f14"
       },
       {
         "id": "s-article-recreational-drugs-policy",
@@ -269,8 +269,8 @@
           "[href='https://business.reddithelp.com/s/article/Reddit-Advertising-Policy-Overview']"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "ed52b0b398bc866b6740c40d362f8f85dfcd4a13"
       },
       {
         "id": "s-article-Reddit-Advertising-Policy-Targeting-Guidelines",
@@ -284,8 +284,8 @@
           "[href='https://business.reddithelp.com/s/article/Reddit-Advertising-Policy-Overview']"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "e3712cf92044d1deac91b42d6b296bead073fd0c"
       },
       {
         "id": "s-article-third-party-rights-policy",
@@ -299,8 +299,8 @@
           "[href='https://business.reddithelp.com/s/article/Reddit-Advertising-Policy-Overview']"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "1cd5bbf9d4b32af2669f0ad76fd53ce74e08f7f6"
       },
       {
         "id": "s-article-tobacco-policy",
@@ -314,8 +314,8 @@
           "[href='https://business.reddithelp.com/s/article/Reddit-Advertising-Policy-Overview']"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "4a2a67cdb64b9e67f2b8ddf2825c60439f12b72c"
       },
       {
         "id": "s-article-unofficial-resale-of-event-tickets-policy",
@@ -329,8 +329,8 @@
           "[href='https://business.reddithelp.com/s/article/Reddit-Advertising-Policy-Overview']"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "a5223aea98aaa62ba91d7c1221f585c13f49e130"
       },
       {
         "id": "s-article-user-data-collection-policy",
@@ -344,8 +344,8 @@
           "[href='https://business.reddithelp.com/s/article/Reddit-Advertising-Policy-Overview']"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "0677825ac834d2ffcc84ab334898805f410878a1"
       },
       {
         "id": "s-article-weapons-and-related-products-policy",
@@ -359,35 +359,9 @@
           "[href='https://business.reddithelp.com/s/article/Reddit-Advertising-Policy-Overview']"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "75d47d94ca382f5c82ab82e671673dc743909574"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://business.reddithelp.com/s/article/Reddit-Advertising-Policy-Overview?'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://business.reddithelp.com/s/article/adult-content'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://business.reddithelp.com/s/article/alcohol-policy'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://business.reddithelp.com/s/article/counterfeit-goods-policy'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://business.reddithelp.com/s/article/dating-services-policy'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://business.reddithelp.com/s/article/deceptive-untrue-or-misleading-advertising-policy'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://business.reddithelp.com/s/article/dynamic-product-ads-policy'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://business.reddithelp.com/s/article/Reddit-Advertising-Policy-Editorial-Requirements'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://business.reddithelp.com/s/article/financial-cryptocurrency-products-and-services-policy'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://business.reddithelp.com/s/article/gambling-and-gaming-related-services-policy'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://business.reddithelp.com/s/article/healthcare-products-and-services-policy'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://business.reddithelp.com/s/article/high-fat-salt-sugar-food-and-drinks-policy'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://business.reddithelp.com/s/article/inappropriate-content-policy'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://business.reddithelp.com/s/article/lead-generation-ads-policy'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://business.reddithelp.com/s/article/live-animals-and-animal-products-policy'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://business.reddithelp.com/s/article/political-advertisements-policy'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://business.reddithelp.com/s/article/products-or-services-that-facilitate-illegal-fraudulent-or-misleading-activity-policy'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://business.reddithelp.com/s/article/recreational-drugs-policy'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://business.reddithelp.com/s/article/Reddit-Advertising-Policy-Targeting-Guidelines'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://business.reddithelp.com/s/article/third-party-rights-policy'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://business.reddithelp.com/s/article/tobacco-policy'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://business.reddithelp.com/s/article/unofficial-resale-of-event-tickets-policy'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://business.reddithelp.com/s/article/user-data-collection-policy'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://business.reddithelp.com/s/article/weapons-and-related-products-policy'"
     ]
   }
 }
