@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-13T05:21:35.044Z",
+    "date": "2026-11-14T01:26:59.497Z",
     "serviceName": "X",
     "sourceDocuments": [
       {
@@ -20,12 +20,9 @@
           "useXHelpCenterBaseURL"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "7124c17b18f6a788de921a87bdcbc0703a98ed43"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://help.x.com/en/rules-and-policies/contact-x-about-a-deceased-family-members-account'"
     ]
   }
 }
