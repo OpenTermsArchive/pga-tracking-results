@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-13T03:44:51.212Z",
+    "date": "2026-11-14T00:48:31.089Z",
     "serviceName": "LinkedIn",
     "sourceDocuments": [
       {
@@ -18,12 +18,9 @@
         "filter": [
           "removeTrackingIDs"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "8dfd4d6f41868c82a176c07fccba08e6798c12de"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://www.linkedin.com/legal/privacy/eu'"
     ]
   }
 }
