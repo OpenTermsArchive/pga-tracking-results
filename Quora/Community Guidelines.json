@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-13T04:01:28.236Z",
+    "date": "2026-11-14T00:52:12.348Z",
     "serviceName": "Quora",
     "sourceDocuments": [
       {
@@ -19,8 +19,8 @@
           "replaceTimeAgoByDate"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "b59efaa5bd3024efb6ed743fc3e196a85d38858c"
       },
       {
         "id": "hc-en-us-articles-360043961972",
@@ -37,8 +37,8 @@
           "replaceTimeAgoByDate"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "3833505597d0174954d87c7361c14bafd82c01ba"
       },
       {
         "id": "hc-en-us-articles-9456583756180-Questions-and-Answers-Policies",
@@ -55,8 +55,8 @@
           "replaceTimeAgoByDate"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "1697b7a9115ff7b37577964a12b6659482b9a495"
       },
       {
         "id": "hc-en-us-articles-360000470306-What-is-Quora-s-policy-on-adding-images-and-videos",
@@ -73,8 +73,8 @@
           "replaceTimeAgoByDate"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "16b71530d3ccd8df32d86761b0e56d89535bb2da"
       },
       {
         "id": "hc-en-us-articles-360057638052-What-is-Quora-s-policy-on-credentials",
@@ -91,8 +91,8 @@
           "replaceTimeAgoByDate"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "d19d6bbf8b4cbda2dfc19f0a87375c41688b58f3"
       },
       {
         "id": "hc-en-us-articles-360015467632-What-is-Quora-s-policy-for-posting-reviews-of-businesses-products-or-services",
@@ -109,8 +109,8 @@
           "replaceTimeAgoByDate"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "44d7fce825e08ffbc8138d3f88e1c3a65b39ca2e"
       },
       {
         "id": "hc-en-us-articles-360055133711-What-is-Quora-s-policy-on-disclosing-affiliations-in-answers",
@@ -127,8 +127,8 @@
           "replaceTimeAgoByDate"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "b951a61628d40a6ed907ab302b06ad942e17bbcf"
       },
       {
         "id": "hc-en-us-articles-360000470206-What-is-Quora-s-policy-on-plagiarism-and-attribution",
@@ -145,8 +145,8 @@
           "replaceTimeAgoByDate"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "d13151e3bdf9cc6bcc25f9f737cec4a32b94a280"
       },
       {
         "id": "hc-en-us-articles-4405052142868-What-is-considered-Adult-content-on-Quora",
@@ -163,8 +163,8 @@
           "replaceTimeAgoByDate"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "a7d5e66d9b1a66e974779f289eb69239768e342b"
       },
       {
         "id": "hc-en-us-articles-360052494012-How-does-Quora-intend-to-enforce-the-Not-for-Reproduction-feature",
@@ -181,21 +181,9 @@
           "replaceTimeAgoByDate"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "9077a524839dd2ca38ab30b4a44a32f403cbad03"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://help.quora.com/hc/en-us/articles/360000470706-Platform-Policies'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://help.quora.com/hc/en-us/articles/360043961972'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://help.quora.com/hc/en-us/articles/9456583756180-Questions-and-Answers-Policies'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://help.quora.com/hc/en-us/articles/360000470306-What-is-Quora-s-policy-on-adding-images-and-videos'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://help.quora.com/hc/en-us/articles/360057638052-What-is-Quora-s-policy-on-credentials'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://help.quora.com/hc/en-us/articles/360015467632-What-is-Quora-s-policy-for-posting-reviews-of-businesses-products-or-services'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://help.quora.com/hc/en-us/articles/360055133711-What-is-Quora-s-policy-on-disclosing-affiliations-in-answers'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://help.quora.com/hc/en-us/articles/360000470206-What-is-Quora-s-policy-on-plagiarism-and-attribution'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://help.quora.com/hc/en-us/articles/4405052142868-What-is-considered-Adult-content-on-Quora'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://help.quora.com/hc/en-us/articles/360052494012-How-does-Quora-intend-to-enforce-the-Not-for-Reproduction-feature'"
     ]
   }
 }
