@@ -1,19 +1,16 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-13T03:43:50.736Z",
+    "date": "2026-11-14T00:48:19.160Z",
     "serviceName": "LINE",
     "sourceDocuments": [
       {
         "id": "line_terms",
         "fetch": "https://terms.line.me/line_terms/?lang=en",
         "select": ".LyContents",
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "d8ad8051c0a1b63569fede2215db02cf2e86883d"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://terms.line.me/line_terms/?lang=en'"
     ]
   }
 }
