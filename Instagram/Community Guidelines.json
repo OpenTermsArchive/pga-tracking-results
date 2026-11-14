@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-13T03:40:16.347Z",
+    "date": "2026-11-14T00:46:54.618Z",
     "serviceName": "Instagram",
     "sourceDocuments": [
       {
@@ -29,8 +29,8 @@
           "hr"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "178a236efc690633b3f68105921f54b8901c3e3e"
       },
       {
         "id": "policies-community-standards-violence-incitement",
@@ -50,8 +50,8 @@
           "div[role=tablist]"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "941d3d3cc5328b60d05d176b24442f9c93dbea0f"
       },
       {
         "id": "policies-community-standards-dangerous-individuals-organizations",
@@ -71,8 +71,8 @@
           "div[role=tablist]"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "b3d48285cf7e27b654c05601f737621f176b803e"
       },
       {
         "id": "policies-community-standards-coordinating-harm-publicizing-crime",
@@ -92,8 +92,8 @@
           "div[role=tablist]"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "0891b72b614e0cbdcb618743d5f2d33501516602"
       },
       {
         "id": "policies-community-standards-regulated-goods",
@@ -113,8 +113,8 @@
           "div[role=tablist]"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "5da978fb654386c05cdcb812c92a5ba9765bd978"
       },
       {
         "id": "policies-community-standards-fraud-deception",
@@ -134,8 +134,8 @@
           "div[role=tablist]"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "16a0e91c92d5dada8ac2d797fee105eae30f94dd"
       },
       {
         "id": "policies-community-standards-suicide-self-injury",
@@ -155,8 +155,8 @@
           "div[role=tablist]"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "59fa41573d33660d9ccb0c88bcbd8fa3dfc5f068"
       },
       {
         "id": "policies-community-standards-child-sexual-exploitation-abuse-nudity",
@@ -176,8 +176,8 @@
           "div[role=tablist]"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "4e262ff5e1db243d913966264b97666558a32645"
       },
       {
         "id": "policies-community-standards-sexual-exploitation-adults",
@@ -197,8 +197,8 @@
           "div[role=tablist]"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "2c5c2d41986f5d07a590de1051a9d949fc2150c5"
       },
       {
         "id": "policies-community-standards-bullying-harassment",
@@ -218,8 +218,8 @@
           "div[role=tablist]"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "d0926cf046e5ba58f8e4c6e37527e6df8585566a"
       },
       {
         "id": "policies-community-standards-human-exploitation",
@@ -239,8 +239,8 @@
           "div[role=tablist]"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "e2d9d417d3b20a6ffe26ed8e0373dc07c40aba0a"
       },
       {
         "id": "policies-community-standards-privacy-violations-image-privacy-rights",
@@ -260,8 +260,8 @@
           "div[role=tablist]"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "942651eb96887bc0da34011993e87ccb9c6d2abf"
       },
       {
         "id": "policies-community-standards-hate-speech",
@@ -281,8 +281,8 @@
           "div[role=tablist]"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "6f4f81f3c2c40e5379c13094c00c08f5986fb553"
       },
       {
         "id": "policies-community-standards-violent-graphic-content",
@@ -302,8 +302,8 @@
           "div[role=tablist]"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "be80d49dc266aa046568d6a31f33a998a66e8cb5"
       },
       {
         "id": "policies-community-standards-adult-nudity-sexual-activity",
@@ -323,8 +323,8 @@
           "div[role=tablist]"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "a15f02d3e670eb067df9294ec2aaec605e2687de"
       },
       {
         "id": "policies-community-standards-sexual-solicitation",
@@ -344,8 +344,8 @@
           "div[role=tablist]"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "f0d252bb2195c2a8e285610e20c8563734463455"
       },
       {
         "id": "policies-community-standards-account-integrity",
@@ -365,8 +365,8 @@
           "div[role=tablist]"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "ce36500738e9f9a74247adbd773935ab000b7796"
       },
       {
         "id": "policies-community-standards-authentic-identity-representation",
@@ -386,8 +386,8 @@
           "div[role=tablist]"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "c838c39755ad8d12f211ea5819932a64b6d369ff"
       },
       {
         "id": "policies-community-standards-spam",
@@ -407,8 +407,8 @@
           "div[role=tablist]"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "8fdeaa6976a71cefc1eb85b400a493fc027fc5e2"
       },
       {
         "id": "policies-community-standards-cybersecurity",
@@ -428,8 +428,8 @@
           "div[role=tablist]"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "b95b00777887ca8062295f893dec96fdd0e5fceb"
       },
       {
         "id": "policies-community-standards-inauthentic-behavior",
@@ -449,8 +449,8 @@
           "div[role=tablist]"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "8cccb174c972f15b4f6ccfc7735562d62f939bcc"
       },
       {
         "id": "policies-community-standards-misinformation",
@@ -470,8 +470,8 @@
           "div[role=tablist]"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "8fc1e5776bcb42ba73523c99713b0ca2e64d1db0"
       },
       {
         "id": "policies-community-standards-memorialization",
@@ -491,8 +491,8 @@
           "div[role=tablist]"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "2160c5dc415da2242fd033c1fb3ad0a64189e472"
       },
       {
         "id": "policies-community-standards-intellectual-property",
@@ -512,8 +512,8 @@
           "div[role=tablist]"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "f84293a3a32c3cf867f717ca2becbd9ff8b3a345"
       },
       {
         "id": "policies-community-standards-user-requests",
@@ -533,8 +533,8 @@
           "div[role=tablist]"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "c4ad8f8de57d23970142a1e48b7812551d8248ce"
       },
       {
         "id": "policies-community-standards-additional-protection-minors",
@@ -554,37 +554,9 @@
           "div[role=tablist]"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "3d85d0aec7ef175471cfcb1e136d7a3a05bdbe8f"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://transparency.fb.com/policies/community-standards/'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://transparency.fb.com/policies/community-standards/violence-incitement/'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://transparency.fb.com/policies/community-standards/dangerous-individuals-organizations/'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://transparency.fb.com/policies/community-standards/coordinating-harm-publicizing-crime/'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://transparency.fb.com/policies/community-standards/regulated-goods/'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://transparency.fb.com/policies/community-standards/fraud-deception/'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://transparency.fb.com/policies/community-standards/suicide-self-injury/'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://transparency.fb.com/policies/community-standards/child-sexual-exploitation-abuse-nudity/'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://transparency.fb.com/policies/community-standards/sexual-exploitation-adults/'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://transparency.fb.com/policies/community-standards/bullying-harassment/'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://transparency.fb.com/policies/community-standards/human-exploitation/'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://transparency.fb.com/policies/community-standards/privacy-violations-image-privacy-rights/'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://transparency.fb.com/policies/community-standards/hate-speech/'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://transparency.fb.com/policies/community-standards/violent-graphic-content/'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://transparency.fb.com/policies/community-standards/adult-nudity-sexual-activity/'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://transparency.fb.com/policies/community-standards/sexual-solicitation/'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://transparency.fb.com/policies/community-standards/account-integrity/'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://transparency.fb.com/policies/community-standards/authentic-identity-representation/'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://transparency.fb.com/policies/community-standards/spam/'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://transparency.fb.com/policies/community-standards/cybersecurity/'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://transparency.fb.com/policies/community-standards/inauthentic-behavior/'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://transparency.fb.com/policies/community-standards/misinformation/'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://transparency.fb.com/policies/community-standards/memorialization/'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://transparency.fb.com/policies/community-standards/intellectual-property/'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://transparency.fb.com/policies/community-standards/user-requests/'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://transparency.fb.com/policies/community-standards/additional-protection-minors/'"
     ]
   }
 }
