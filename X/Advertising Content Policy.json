@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-13T05:29:47.895Z",
+    "date": "2026-11-14T01:31:00.373Z",
     "serviceName": "X",
     "sourceDocuments": [
       {
@@ -17,8 +17,8 @@
           "button"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "4075b277d708e6ae226244994c157895bed97e41"
       },
       {
         "id": "en-help-ads-policies-prohibited-content-policies-quality-policy",
@@ -33,8 +33,8 @@
           "button"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "ab55eb426ce9b150ada513bbf81b1fde06fd9ebb"
       },
       {
         "id": "en-help-ads-policies-ads-content-policies-prohibited-content-for-minors",
@@ -49,8 +49,8 @@
           "button"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "ef8afb4e5fa8282bbf9933100fe6272a5c502977"
       },
       {
         "id": "en-help-ads-policies-ads-content-policies-unacceptable-content",
@@ -65,8 +65,8 @@
           "button"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "f752e88808df75b37dc3c3334dea531185fbf5ec"
       },
       {
         "id": "en-help-ads-policies-ads-content-policies-weapons-and-weapon-accessories",
@@ -81,8 +81,8 @@
           "button"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "2edfe18c8ad77bb27b5324555445af539396dfc5"
       },
       {
         "id": "en-help-ads-policies-ads-content-policies-adult-or-sexual-products-and-services",
@@ -97,8 +97,8 @@
           "button"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "3001abd712f6a229ccac63979de42dea9481af8b"
       },
       {
         "id": "en-help-ads-policies-ads-content-policies-alcohol-content",
@@ -113,8 +113,8 @@
           "button"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "083edb6f1a149751865c4e5da2941622590b7644"
       },
       {
         "id": "en-help-ads-policies-ads-content-policies-drugs-and-drug-paraphernalia",
@@ -129,8 +129,8 @@
           "button"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "11e6fb9c7467b62ba94bf482f56a530149840c28"
       },
       {
         "id": "en-help-ads-policies-ads-content-policies-financial-services",
@@ -145,8 +145,8 @@
           "button"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "34291c2f9de6caeb87f6186753d4317018f4934f"
       },
       {
         "id": "en-help-ads-policies-ads-content-policies-gambling-content",
@@ -161,8 +161,8 @@
           "button"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "c93ee430c3c30fb1c5f43264002e6c75563a67fd"
       },
       {
         "id": "en-help-ads-policies-ads-content-policies-healthcare",
@@ -177,8 +177,8 @@
           "button"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "b60b3228a91511c986c159e4cdcf9c4ef464c756"
       },
       {
         "id": "en-help-ads-policies-ads-content-policies-political-content",
@@ -193,8 +193,8 @@
           "button"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "7474397d66bf752bd8b28899b2aee0a6eb7cab49"
       },
       {
         "id": "en-help-ads-policies-ads-content-policies-tobacco-and-tobacco-accessories",
@@ -209,24 +209,9 @@
           "button"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "5032bc63c959caff75534df6250a1bef8992e91a"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://business.x.com/en/help/ads-policies'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://business.x.com/en/help/ads-policies/prohibited-content-policies/quality-policy.html'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://business.x.com/en/help/ads-policies/ads-content-policies/prohibited-content-for-minors'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://business.x.com/en/help/ads-policies/ads-content-policies/unacceptable-content'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://business.x.com/en/help/ads-policies/ads-content-policies/weapons-and-weapon-accessories'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://business.x.com/en/help/ads-policies/ads-content-policies/adult-or-sexual-products-and-services'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://business.x.com/en/help/ads-policies/ads-content-policies/alcohol-content'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://business.x.com/en/help/ads-policies/ads-content-policies/drugs-and-drug-paraphernalia'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://business.x.com/en/help/ads-policies/ads-content-policies/financial-services'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://business.x.com/en/help/ads-policies/ads-content-policies/gambling-content'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://business.x.com/en/help/ads-policies/ads-content-policies/healthcare'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://business.x.com/en/help/ads-policies/ads-content-policies/political-content'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://business.x.com/en/help/ads-policies/ads-content-policies/tobacco-and-tobacco-accessories'"
     ]
   }
 }
