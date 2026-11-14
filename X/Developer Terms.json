@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-13T05:03:07.212Z",
+    "date": "2026-11-14T01:17:53.736Z",
     "serviceName": "X",
     "sourceDocuments": [
       {
@@ -16,8 +16,8 @@
           "img"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "dbedac6fd3f0df2b39eac9fa96b08ff3ced9ff23"
       },
       {
         "id": "developer-terms-policy",
@@ -31,8 +31,8 @@
           "img"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "4bad17ad28ba8a63311bf799972d25f8da3aefc0"
       },
       {
         "id": "developer-terms-ads-api-agreement",
@@ -46,8 +46,8 @@
           "img"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "a5e7b3564d35516764607288dd971f98fe79d3aa"
       },
       {
         "id": "developer-terms-ppu-agreement",
@@ -61,8 +61,8 @@
           "img"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "bb4d417b5ac40cecb2cee6b250d7c6a5b4ad8ba5"
       },
       {
         "id": "developer-terms-restricted-use-cases",
@@ -76,8 +76,8 @@
           "img"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "c6b9247652c9eb79e9e8dfd0cf02ac46f3125e25"
       },
       {
         "id": "developer-terms-geo-guidelines",
@@ -91,8 +91,8 @@
           "img"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "26f2e46d242d2a3267089a2ed3cfdfcfef8c047d"
       },
       {
         "id": "developer-terms-display-requirements",
@@ -106,18 +106,9 @@
           "img"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "abe5e1b28480f5ff6dbebd049b3c5d5bb211c17b"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://docs.x.com/developer-terms/agreement'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://docs.x.com/developer-terms/policy'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://docs.x.com/developer-terms/ads-api-agreement'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://docs.x.com/developer-terms/ppu-agreement'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://docs.x.com/developer-terms/restricted-use-cases'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://docs.x.com/developer-terms/geo-guidelines'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://docs.x.com/developer-terms/display-requirements'"
     ]
   }
 }
