@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-13T04:57:51.344Z",
+    "date": "2026-11-14T01:16:02.417Z",
     "serviceName": "WhatsApp",
     "sourceDocuments": [
       {
@@ -13,12 +13,9 @@
         "remove": [
           "[href='#top-of-page']"
         ],
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "2e7cd64bc7a26f81c33ae073470cefa2a7142aa6"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Network system error EAI_AGAIN occurred when trying to fetch 'https://www.whatsapp.com/legal/terms-of-service-eea?lang=en'"
     ]
   }
 }
