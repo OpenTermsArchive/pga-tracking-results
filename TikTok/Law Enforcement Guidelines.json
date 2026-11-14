@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-13T04:43:42.104Z",
+    "date": "2026-11-14T01:10:41.729Z",
     "serviceName": "TikTok",
     "sourceDocuments": [
       {
@@ -16,8 +16,8 @@
           "footer"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "b129b9b50f8cda3467e3b11f4f8678e7aba4e1b8"
       },
       {
         "id": "legal-page-global-shop-law-enforcement-regulatory-disclosure-guidelines-en",
@@ -31,13 +31,9 @@
           "footer"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "5923712f9b1ed89a01901b59e8dcf6db025f068b"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.tiktok.com/legal/law-enforcement?lang=en'",
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.tiktok.com/legal/page/global/shop-law-enforcement-regulatory-disclosure-guidelines/en'"
     ]
   }
 }
