@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-13T03:07:18.344Z",
+    "date": "2026-11-14T00:30:39.878Z",
     "serviceName": "Facebook",
     "sourceDocuments": [
       {
@@ -26,12 +26,9 @@
           "removeReturnToTopButtons"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "28595c09df32446b3ab0c1fb6ef48f7cc7cb53fb"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.facebook.com/legal/terms/plain_text_terms'"
     ]
   }
 }
