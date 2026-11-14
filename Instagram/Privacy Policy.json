@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-13T03:26:57.271Z",
+    "date": "2026-11-14T00:40:09.917Z",
     "serviceName": "Instagram",
     "sourceDocuments": [
       {
@@ -25,12 +25,9 @@
           "removeTrackingIDs"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "231cd59a5b4be9de51c3cc29568f3d250942d7c7"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://privacycenter.instagram.com/policy'"
     ]
   }
 }
