@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-13T04:53:45.639Z",
+    "date": "2026-11-14T01:14:53.896Z",
     "serviceName": "Twitch",
     "sourceDocuments": [
       {
@@ -12,12 +12,9 @@
           ".xl\\:sticky"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "b7ee3c4840c380ebe697ace3eaa659a799f66301"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.twitch.tv/p/en/legal/cookie-notice/'"
     ]
   }
 }
