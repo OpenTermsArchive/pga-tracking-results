@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "event": {
-    "date": "2026-11-15T01:34:24.426Z",
+    "date": "2026-11-15T13:13:35.882Z",
     "serviceName": "TikTok",
     "sourceDocuments": [
       {
@@ -28,7 +28,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "04f34981b1fcead060d61001b01773bb4d34aac7"
+        "snapshotId": "e1229e34d59276abdce3209e4f30be6d576a313b"
       },
       {
         "id": "community-guidelines-en-youth-safety",
@@ -41,7 +41,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "892e3afc7afc7dd46d0c3e856810825010b0e55f"
+        "snapshotId": "1682f60d6b45d0f70e54843620a5cfd309486a29"
       },
       {
         "id": "community-guidelines-en-safety-civility",
@@ -93,7 +93,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "bd5fb25da3c85d2c7269a920d5af293c9094282b"
+        "snapshotId": "d9d2c00a660f7cf8351fca241d0a33723773fa29"
       },
       {
         "id": "community-guidelines-en-regulated-commercial-activities",
@@ -160,11 +160,6 @@
         "mimeType": "text/html",
         "snapshotId": "d959b420b8900e699447c4828bc262ef87121ae8"
       }
-    ],
-    "transientError": {
-      "reasons": [
-        "[fetch] Fetch failed: Received HTTP code 502 when trying to fetch 'https://www.tiktok.com/community-guidelines/en/regulated-commercial-activities/'"
-      ]
-    }
+    ]
   }
 }
