@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "event": {
-    "date": "2026-11-14T01:10:06.113Z",
+    "date": "2026-11-15T01:34:24.426Z",
     "serviceName": "TikTok",
     "sourceDocuments": [
       {
@@ -41,7 +41,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "c1cc92f5a532589c8cf0e4b067a25989de2b494a"
+        "snapshotId": "892e3afc7afc7dd46d0c3e856810825010b0e55f"
       },
       {
         "id": "community-guidelines-en-safety-civility",
@@ -54,7 +54,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "686a5f81f6d79ce276d9e77a887fbdcaee843943"
+        "snapshotId": "66517b8dfdddc5f22ed6bf099f6376d324eb6041"
       },
       {
         "id": "community-guidelines-en-mental-behavioral-health",
@@ -67,7 +67,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "9d53f07bf98a20bb7e0d9cd3a442cd72485bfacd"
+        "snapshotId": "1fe9da4cea6ba3707adc7aff6f61eed6386e6357"
       },
       {
         "id": "community-guidelines-en-sensitive-mature-themes",
@@ -93,7 +93,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "f6c3203579764ec5c8fb0b9994df9df8bc4880c2"
+        "snapshotId": "bd5fb25da3c85d2c7269a920d5af293c9094282b"
       },
       {
         "id": "community-guidelines-en-regulated-commercial-activities",
@@ -158,8 +158,13 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "2de4d31fa83f95977a2103082a3fcc9d64b4fc80"
+        "snapshotId": "d959b420b8900e699447c4828bc262ef87121ae8"
       }
-    ]
+    ],
+    "transientError": {
+      "reasons": [
+        "[fetch] Fetch failed: Received HTTP code 502 when trying to fetch 'https://www.tiktok.com/community-guidelines/en/regulated-commercial-activities/'"
+      ]
+    }
   }
 }
