@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "event": {
-    "date": "2026-11-14T01:17:53.736Z",
+    "date": "2026-11-16T01:32:58.530Z",
     "serviceName": "X",
     "sourceDocuments": [
       {
@@ -17,7 +17,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "dbedac6fd3f0df2b39eac9fa96b08ff3ced9ff23"
+        "snapshotId": "760ce4cf20f34c1ed784079ce5008e798095026c"
       },
       {
         "id": "developer-terms-policy",
@@ -32,7 +32,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "4bad17ad28ba8a63311bf799972d25f8da3aefc0"
+        "snapshotId": "aa14e685d038b033564dc3d66c23c736c3236b04"
       },
       {
         "id": "developer-terms-ads-api-agreement",
@@ -47,7 +47,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "a5e7b3564d35516764607288dd971f98fe79d3aa"
+        "snapshotId": "8b6680ed3ccd05cbc4d7f1d34524f26db1537832"
       },
       {
         "id": "developer-terms-ppu-agreement",
@@ -62,7 +62,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "bb4d417b5ac40cecb2cee6b250d7c6a5b4ad8ba5"
+        "snapshotId": "487ed52f7c1ca1263bf0318f1fbb00c9ac9c03c1"
       },
       {
         "id": "developer-terms-restricted-use-cases",
@@ -77,7 +77,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "c6b9247652c9eb79e9e8dfd0cf02ac46f3125e25"
+        "snapshotId": "1c79300f7e51e667c30488b4028b82fb550eec6b"
       },
       {
         "id": "developer-terms-geo-guidelines",
@@ -92,7 +92,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "26f2e46d242d2a3267089a2ed3cfdfcfef8c047d"
+        "snapshotId": "2484db22bea7d7f6d8554f4ecdd07c3007a81151"
       },
       {
         "id": "developer-terms-display-requirements",
@@ -107,8 +107,13 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "abe5e1b28480f5ff6dbebd049b3c5d5bb211c17b"
+        "snapshotId": "a8fc4f4948cb9e55a4907d9c2867ab96d122d92f"
       }
-    ]
+    ],
+    "transientError": {
+      "reasons": [
+        "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://docs.x.com/developer-terms/ads-api-agreement'"
+      ]
+    }
   }
 }
