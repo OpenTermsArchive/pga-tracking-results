@@ -1,12 +1,12 @@
 {
-  "runId": "ota-run-37c5f048-4709-4d5d-97eb-74b7653c9beb",
+  "runId": "ota-run-141714af-352a-4c83-9eb9-07651d728601",
   "collectionId": "pga",
   "schedule": "30 */12 * * *",
   "lastRun": {
-    "startDate": "2026-11-16T00:30:17.902Z",
-    "endDate": "2026-11-16T01:32:58.656Z",
+    "startDate": "2026-11-16T12:30:18.305Z",
+    "endDate": null,
     "engineVersion": "17.0.1",
-    "status": "completed"
+    "status": "in_progress"
   },
   "declarations": {
     "commit": "6f2524ae41dd1d7485751d1354455492a47bb882",
@@ -14,11 +14,11 @@
     "terms": 121
   },
   "tracked": {
-    "ok": 120,
-    "failed": 1
+    "ok": 0,
+    "failed": 0
   },
   "coverage": {
-    "processed": 121,
+    "processed": 0,
     "skipped": []
   },
   "transitions": {
@@ -26,5 +26,5 @@
     "recoveries": [],
     "reasonChanges": []
   },
-  "transientErrors": 1
+  "transientErrors": 0
 }
