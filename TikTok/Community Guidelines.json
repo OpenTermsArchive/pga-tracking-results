@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "event": {
-    "date": "2026-11-19T13:38:00.296Z",
+    "date": "2026-11-20T01:10:47.600Z",
     "serviceName": "TikTok",
     "sourceDocuments": [
       {
@@ -15,7 +15,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "c93bcf690956866b359ad2eeeb00ad95ff487586"
+        "snapshotId": "9946f94adfd88352dffbf766269c687ada9c21c8"
       },
       {
         "id": "community-guidelines-en-community-principles",
@@ -80,7 +80,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "898b30e638d60182dd219e436706a74fe89b04ad"
+        "snapshotId": "c9ea434fbb416ccf1ede2fc09f7aa2fa63d24e55"
       },
       {
         "id": "community-guidelines-en-integrity-authenticity",
@@ -119,7 +119,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "9d259357bff201f4825aa03bfdfc774566eef1d7"
+        "snapshotId": "55fa781ee88046efbf6714207c8cbe224e3d6505"
       },
       {
         "id": "community-guidelines-en-fyf-standards",
@@ -160,11 +160,6 @@
         "mimeType": "text/html",
         "snapshotId": "d92ae917ae500caa272be3569b90908651cc2b04"
       }
-    ],
-    "transientError": {
-      "reasons": [
-        "[fetch] Fetch failed: Received HTTP code 502 when trying to fetch 'https://www.tiktok.com/community-guidelines/en/privacy-security/'"
-      ]
-    }
+    ]
   }
 }
