@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "event": {
-    "date": "2026-11-20T01:10:47.600Z",
+    "date": "2026-11-20T13:39:26.720Z",
     "serviceName": "TikTok",
     "sourceDocuments": [
       {
@@ -41,7 +41,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "613bc1faee588760fc8a983d0913018c7e9b0d72"
+        "snapshotId": "f98a40d382d7dd6840d8353401a821eafb08a219"
       },
       {
         "id": "community-guidelines-en-safety-civility",
@@ -54,7 +54,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "df56a609c95cf1f39ee317b3a6e05ad8e6e37a9a"
+        "snapshotId": "b943c0902b46df1e5215f7aef28a08a6391f308c"
       },
       {
         "id": "community-guidelines-en-mental-behavioral-health",
@@ -80,7 +80,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "c9ea434fbb416ccf1ede2fc09f7aa2fa63d24e55"
+        "snapshotId": "eae150544c7ebbdfa29517628e6c408d65932815"
       },
       {
         "id": "community-guidelines-en-integrity-authenticity",
@@ -93,7 +93,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "48b75cf77e0f299b9f86fb23d29fbe327b72536e"
+        "snapshotId": "8ee962af0998bdf02086a471f6a307ac1597f8c3"
       },
       {
         "id": "community-guidelines-en-regulated-commercial-activities",
@@ -106,7 +106,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "658bf0310f7c4c07c59e8b5cf32a27062bd60085"
+        "snapshotId": "6604a3d47dab24b2a27036dd048cc743a431cc82"
       },
       {
         "id": "community-guidelines-en-privacy-security",
@@ -145,7 +145,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "6b8a20ef36aed44e657221f667a9f5fa8c1f5cb7"
+        "snapshotId": "69625a4ea02814e9d5fd2c46077df65fe75f0553"
       },
       {
         "id": "community-guidelines-en-enforcement",
@@ -158,8 +158,13 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "d92ae917ae500caa272be3569b90908651cc2b04"
+        "snapshotId": "1a3adb6a59bf63da77488ff11da9a9648a68d89f"
       }
-    ]
+    ],
+    "transientError": {
+      "reasons": [
+        "[fetch] Fetch failed: net::ERR_NAME_NOT_RESOLVED at https://www.tiktok.com/community-guidelines/en/community-principles/"
+      ]
+    }
   }
 }
