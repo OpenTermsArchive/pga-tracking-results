@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "event": {
-    "date": "2026-11-20T13:39:26.720Z",
+    "date": "2026-11-21T01:10:20.447Z",
     "serviceName": "TikTok",
     "sourceDocuments": [
       {
@@ -54,7 +54,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "b943c0902b46df1e5215f7aef28a08a6391f308c"
+        "snapshotId": "0655eeb53476607f1e03db989b0de22cf8617418"
       },
       {
         "id": "community-guidelines-en-mental-behavioral-health",
@@ -93,7 +93,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "8ee962af0998bdf02086a471f6a307ac1597f8c3"
+        "snapshotId": "2bbbf261507deb689fdf8cf317adbf320029497f"
       },
       {
         "id": "community-guidelines-en-regulated-commercial-activities",
@@ -158,13 +158,8 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "1a3adb6a59bf63da77488ff11da9a9648a68d89f"
+        "snapshotId": "c3d9584d8d4bcc8b5bef1e12a2c624d198e811e7"
       }
-    ],
-    "transientError": {
-      "reasons": [
-        "[fetch] Fetch failed: net::ERR_NAME_NOT_RESOLVED at https://www.tiktok.com/community-guidelines/en/community-principles/"
-      ]
-    }
+    ]
   }
 }
