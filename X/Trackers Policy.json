@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "event": {
-    "date": "2026-11-14T01:18:54.375Z",
+    "date": "2026-11-21T13:33:57.243Z",
     "serviceName": "X",
     "sourceDocuments": [
       {
@@ -21,8 +21,13 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "1714ce483eab53d09a214c1f3362538fee75fc80"
+        "snapshotId": "65f065d2d58dba988a7c9222c48a7a9a754da110"
       }
-    ]
+    ],
+    "transientError": {
+      "reasons": [
+        "[fetch] Fetch failed: Received HTTP code 503 when trying to fetch 'https://help.x.com/en/rules-and-policies/twitter-cookies'"
+      ]
+    }
   }
 }
