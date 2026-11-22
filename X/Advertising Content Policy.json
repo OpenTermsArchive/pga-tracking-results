@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-21T13:36:47.162Z",
+    "date": "2026-11-22T01:30:04.506Z",
     "serviceName": "X",
     "sourceDocuments": [
       {
@@ -18,7 +18,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "5d3847a7f421a5a060af0eb4446c99c640975763"
+        "snapshotId": "bfb34bef0af53f3a12c07cffa16ba3da1d429357"
       },
       {
         "id": "en-help-ads-policies-prohibited-content-policies-quality-policy",
@@ -34,7 +34,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": null
+        "snapshotId": "f70b38c9c43916fbcee8aa42e93f66a6928054c2"
       },
       {
         "id": "en-help-ads-policies-ads-content-policies-prohibited-content-for-minors",
@@ -50,7 +50,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": null
+        "snapshotId": "8e70f44c94af3005fe24737c0d467fd6416e89e3"
       },
       {
         "id": "en-help-ads-policies-ads-content-policies-unacceptable-content",
@@ -66,7 +66,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": null
+        "snapshotId": "ccff7fb8432cbc489b03bfe69517fc53930aa89c"
       },
       {
         "id": "en-help-ads-policies-ads-content-policies-weapons-and-weapon-accessories",
@@ -98,7 +98,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": null
+        "snapshotId": "974b006c78ed3fbd507d307c363dfda70c8b5bc0"
       },
       {
         "id": "en-help-ads-policies-ads-content-policies-alcohol-content",
@@ -114,7 +114,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": null
+        "snapshotId": "12455789a994146a6a1e1483f996212c34c24b8b"
       },
       {
         "id": "en-help-ads-policies-ads-content-policies-drugs-and-drug-paraphernalia",
@@ -129,8 +129,8 @@
           "button"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "bec8bca6425529731f2f614523860a2aee5d76af"
       },
       {
         "id": "en-help-ads-policies-ads-content-policies-financial-services",
@@ -146,7 +146,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": null
+        "snapshotId": "d4460aabc7de41512422f67d2a6fbcbe71ee89f6"
       },
       {
         "id": "en-help-ads-policies-ads-content-policies-gambling-content",
@@ -162,7 +162,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "532cf2252e81dff817b9640346fa9d783e9ed55d"
+        "snapshotId": "f55390ee20e1bec6a9a7a84716152db4ac25b52a"
       },
       {
         "id": "en-help-ads-policies-ads-content-policies-healthcare",
@@ -194,7 +194,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": null
+        "snapshotId": "55724d17af82b3790fa804420d94a2723fcb284f"
       },
       {
         "id": "en-help-ads-policies-ads-content-policies-tobacco-and-tobacco-accessories",
@@ -209,13 +209,9 @@
           "button"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "0710775c166e683674ff95cda0d730d65785728c"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Received HTTP code 503 when trying to fetch 'https://business.x.com/en/help/ads-policies/ads-content-policies/drugs-and-drug-paraphernalia'",
-      "[fetch] Fetch failed: Received HTTP code 503 when trying to fetch 'https://business.x.com/en/help/ads-policies/ads-content-policies/tobacco-and-tobacco-accessories'"
     ]
   }
 }
