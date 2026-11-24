@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "event": {
-    "date": "2026-11-23T13:36:01.188Z",
+    "date": "2026-11-24T01:06:07.479Z",
     "serviceName": "TikTok",
     "sourceDocuments": [
       {
@@ -12,13 +12,8 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "3438f4a2e17671d2b781713ddcbecb26f74e035a"
+        "snapshotId": "3e0f7cae89036d3023ae56aefeb645a3a04dcdee"
       }
-    ],
-    "transientError": {
-      "reasons": [
-        "[fetch] Fetch failed: Timed out after 30 seconds when trying to fetch 'https://www.tiktok.com/legal/terms-of-use?lang=en'"
-      ]
-    }
+    ]
   }
 }
