@@ -1,7 +1,7 @@
 {
-  "status": "failed",
+  "status": "ok",
   "event": {
-    "date": "2026-11-25T13:38:27.968Z",
+    "date": "2026-11-26T01:09:56.414Z",
     "serviceName": "TikTok",
     "sourceDocuments": [
       {
@@ -15,7 +15,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": null
+        "snapshotId": "afbbf95d114147e7df8968ba7454d13ddac6eb89"
       },
       {
         "id": "community-guidelines-en-community-principles",
@@ -27,8 +27,8 @@
           "img"
         ],
         "executeClientScripts": true,
-        "mimeType": null,
-        "snapshotId": null
+        "mimeType": "text/html",
+        "snapshotId": "937f695c98e80a46d9f66c3b7d6af34c1810eb87"
       },
       {
         "id": "community-guidelines-en-youth-safety",
@@ -41,7 +41,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "a343348c71ee893c0a4427735d70d5dde6b97e70"
+        "snapshotId": "3b2a88387e664b2e47f70d54982af4d5cc2aac0d"
       },
       {
         "id": "community-guidelines-en-safety-civility",
@@ -54,7 +54,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "14f210d51d211b986b08893db5f71669a71e9599"
+        "snapshotId": "495e12c57c1fadbe81c37098438e7ffb6c81c23b"
       },
       {
         "id": "community-guidelines-en-mental-behavioral-health",
@@ -67,7 +67,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": null
+        "snapshotId": "b3bc544a412cad9940a74ffa1dbf88b5e4fb2d09"
       },
       {
         "id": "community-guidelines-en-sensitive-mature-themes",
@@ -80,7 +80,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": null
+        "snapshotId": "cacb6ae739ca1a7f9d5403d80c196c44ab96faba"
       },
       {
         "id": "community-guidelines-en-integrity-authenticity",
@@ -93,7 +93,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "ddf942f95c74e780effb290cb62a69a4f9979431"
+        "snapshotId": "06326a6f6ca0d6bee2484f044e26d5310f977a24"
       },
       {
         "id": "community-guidelines-en-regulated-commercial-activities",
@@ -106,7 +106,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": null
+        "snapshotId": "edbe948e99de2417236c0e6cc00a1c8356c24b80"
       },
       {
         "id": "community-guidelines-en-privacy-security",
@@ -119,7 +119,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "228da893279cc9f643ac8a11b2968fbc48815a8b"
+        "snapshotId": "b016b93a72eac7ef8ec31ded07dbb03b8f4f0e7f"
       },
       {
         "id": "community-guidelines-en-fyf-standards",
@@ -132,7 +132,7 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": "a8d1112b5a3c70966e874c813a704f980019f3c7"
+        "snapshotId": "bc31bb5770626bdc2dd14d5c4dfd7ef7f7bd15fd"
       },
       {
         "id": "community-guidelines-en-accounts-features",
@@ -158,11 +158,8 @@
         ],
         "executeClientScripts": true,
         "mimeType": "text/html",
-        "snapshotId": null
+        "snapshotId": "5cd9adbd937ed1ee645a03dd87bc5a3973514b77"
       }
-    ],
-    "reasons": [
-      "[fetch] Fetch failed: Received HTTP code 502 when trying to fetch 'https://www.tiktok.com/community-guidelines/en/community-principles/'"
     ]
   }
 }
