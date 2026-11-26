@@ -1,12 +1,12 @@
 {
-  "runId": "ota-run-8ab1ee12-29c7-4764-8535-d38bc6c4d76e",
+  "runId": "ota-run-ff783543-9aa1-4373-9957-e07c9710c76f",
   "collectionId": "pga",
   "schedule": "30 */12 * * *",
   "lastRun": {
-    "startDate": "2026-11-26T00:30:21.841Z",
-    "endDate": "2026-11-26T01:30:32.339Z",
+    "startDate": "2026-11-26T12:31:35.502Z",
+    "endDate": null,
     "engineVersion": "17.0.1",
-    "status": "completed"
+    "status": "in_progress"
   },
   "declarations": {
     "commit": "6f2524ae41dd1d7485751d1354455492a47bb882",
@@ -14,21 +14,16 @@
     "terms": 121
   },
   "tracked": {
-    "ok": 120,
-    "failed": 1
+    "ok": 0,
+    "failed": 0
   },
   "coverage": {
-    "processed": 121,
+    "processed": 0,
     "skipped": []
   },
   "transitions": {
     "newFailures": [],
-    "recoveries": [
-      {
-        "serviceId": "TikTok",
-        "termsType": "Community Guidelines"
-      }
-    ],
+    "recoveries": [],
     "reasonChanges": []
   },
   "transientErrors": 0
